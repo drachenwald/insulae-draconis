@@ -1,0 +1,67 @@
+- title: Seneschal
+  titleingroups: Seneschal
+  slug: seneschal
+  emblem: "/images/officer-emblems/seneschal.gif"
+
+- title: Exchequer
+  titleingroups: Exchequer
+  slug: exchequer
+  emblem: "/images/officer-emblems/exchequer.gif"
+
+- title: Chatelaine
+  titleingroups: Chatelaine
+  slug: chatelaine
+  emblem: "/images/officer-emblems/chatelaine.gif"
+  desc: "The Castellan, also known as the Chatelaine, is responsible a team of chatelaines who are charged with assisting newcomers find their way in Insulae Draconis. They are here to help, so don't be afraid to ask!"
+
+- title: Minister of Arts and Sciences
+  titleingroups: Minister of Arts and Sciences
+  slug: moas
+  emblem: "/images/officer-emblems/moas.gif"
+  desc: "The Minister of Arts and Sciences  of Insulae Draconis oversees arts and sciences within Insulae Draconis."
+
+- title: Rockall Herald
+  titleingroups: Herald
+  slug: herald
+  emblem: "/images/officer-emblems/rockall.gif"
+  desc: "Rockall Herald is responsible for heralding and heraldry in Insulae Draconis."
+
+- title: Knight Marshal
+  titleingroups: Armoured Combat Marshal
+  slug: armoured-combat-marshal
+  emblem: "/images/officer-emblems/knightmarshal.gif"
+  desc: "The Knight Marshal oversees all aspects of armoured combat in Insulae Draconis."
+
+- title: Lieutenant General of Archers
+  titleingroups: Archery Marshal
+  slug: archery-thrown-marshal
+  emblem: "/images/officer-emblems/lgarchers.gif"
+  desc: "The Lieutenant General of Archers of Insulae Draconis oversees archery activities within Insulae Draconis."
+  report: "https://docs.google.com/forms/d/e/1FAIpQLSf8lHRzZ0KIi8C6xaKb4mBcNFtQhdT8K0lMVq0Chy7WKOxJ1w/viewform?vc=0&c=0&w=1&fbclid=IwAR18E_S1RB6gYVT3BZLwopkNMxnyIhskKY7002c3tTynfmosX4x_4wXVlwo"
+
+- title: Rapier Marshal
+  titleingroups: Fencing Marshal
+  slug: fencing-marshal
+  emblem: "/images/officer-emblems/rapiermarshal.gif"
+  desc: "The Rapier Marshal oversees all aspects of rapier combat in Insulae Draconis."
+
+- title: Chronicler
+  titleingroups: Chronicler
+  slug: chronicler
+  emblem: "/images/officer-emblems/chronicler.gif"
+
+- title: Signet Clerk
+  titleingroups: Signet Clerk
+  slug: signet
+  emblem: "/images/officer-emblems/chancery.gif"
+  desc: "The Signet is an officer whose responsibility is coordinating the production of those scrolls given out with awards."
+
+- title: Web Minister
+  titleingroups: Web Minister
+  slug: webminister
+  emblem: "/images/officer-emblems/webminister.gif"
+
+- title: Social Media Minister
+  titleingroups: Social Media Minister
+  slug: socialmedia
+  emblem: "/images/officer-emblems/socialmedia.gif"

@@ -1,0 +1,14 @@
+<section>
+{% assign officer = site.data.regnum | where:"group", "Insulae Draconis" | where:"office", "seneschal" | last %}
+{% include officer-for-sidebar.html %}
+     
+</section>
+<hr />
+<section>
+
+{% assign officer = site.data.regnum | where:"group", "Insulae Draconis" | where:"office", "exchequer" | last %}
+{% include officer-for-sidebar.html %}
+
+<br>
+
+</section>

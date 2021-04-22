@@ -1,0 +1,9 @@
+version: '3'
+services:
+  jekyll-id:
+    build: .
+    ports:
+    - "127.0.0.1:4000:4000"
+    volumes:
+    - .:/build
+    command: bash -c "curl -o _data/regnum.json https://scripts.drachenwald.sca.org/json/regnum-officers-box.json ; bundle install ; bundle exec jekyll serve  --watch --host 0.0.0.0"

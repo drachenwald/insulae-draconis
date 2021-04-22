@@ -1,0 +1,22 @@
+{%- assign officers = site.data.regnum | where: 'group', include.groupslug -%}
+{%- assign howmany = officers | size -%}
+{%- if howmany > 0 -%}
+<!--sse-->
+<p>
+{%- for role in site.data.officetitles -%}
+{%- assign o = officers | where: 'office', role.slug | last -%}
+{%- if o -%}
+{%- unless o.email == '' -%}
+{{ role.titleingroups }}:
+<b>{{ o.scaname }} </b>
+{%- unless o.mundanename == '' -%}<span>({{ o.mundanename }}) </span>{%- endunless -%}
+{%- unless o.pronouns == ''- %}<span class="text-muted">{{ o.pronouns }} </span>{%- endunless -%}
+{%- unless o.email == '' -%}<a href="mailto:{{ o.email }}">{{ o.email }} </a>{%- endunless -%}
+<br />
+
+{%- endunless -%}
+{%- endif -%}
+{%- endfor -%}
+</p>
+<!--/sse-->
+{%- endif -%}

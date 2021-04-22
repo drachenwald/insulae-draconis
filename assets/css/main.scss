@@ -1,0 +1,36 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css?family=Philosopher|Open+Sans:400,400italic,700,800&display=swap');
+
+body, input, select, textarea, p {
+	font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, nav {
+	font-family: "Philosopher", Helvetica, sans-serif;
+}
+
+.banner {
+	background-image: url('/images/default-banner.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #ffffff; 
+	text-shadow: 2px 2px 5px #000, -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.navbar {
+	color: #ffff00;
+	font-family: "Philosopher", Helvetica, sans-serif;
+}
+
+$primary: #000099;
+
+// To update bootstrap, download the ZIP file from
+// https://getbootstrap.com/docs/5.0/getting-started/download/
+// extract, copy 'scss/' into 'assets/css', and rename it to 'bootstrap'
+//
+// Then update the CDN download of the javascript in '_includes/header.html'
+
+@import 'bootstrap/bootstrap';

@@ -1,0 +1,96 @@
+top:
+
+- title: Events
+  submenu:
+    - page: Calendar
+      url: /events/
+    - page: Raglan Fair
+      url: /events/raglan/
+    - page: Coronet Tournament
+      url: /coronet/CoronetTourney.html
+
+- title: Activities
+  url: /activities/
+  submenu:
+    - page: Activities
+      url: /activities/
+    - page: Archery
+      url: /activities/Archery/
+    - page: Armoured Combat
+      url: /activities/ArmouredCombat/
+    - page: Arts and Sciences
+      url: /activities/AandS/
+    - page: Bardic Performance and Dance
+      url: /activities/AandS/bardicanddancing.html
+    - page: Competitions and Awards
+      url: /activities/AandS/competitions.html
+    - page: Cooking and Feasting
+      url: /activities/AandS/cookingandfeasting.html
+    - page: Heraldry
+      url: /activities/Heraldry/
+    - page: Rapier fighting
+      url: /activities/Rapier/
+    - page: Scribal Arts
+      url: /activities/AandS/scribalarts.html
+    - page: The Protectors Tournaments
+      url: /activities/protectors/
+
+- title: Meet their Highnesses
+  url: /coronet/
+  submenu:
+    - page: Prince and Princess
+      url: /coronet/
+    - page: Royal Progress
+      url: /coronet/#progress
+    - page: Coronet Tourney
+      url: /coronet/coronet-tourney.html
+    - page: Recommend someone for an Award
+      url: /coronet/recommend.html
+    - page: Previous Reigns
+      url: /coronet/past.html
+
+- title: Library
+  url: /library/
+  submenu:
+    - page: Newcomers
+      url: /newcomers/
+      subsubmenu:
+        - page: Contact the Castellan
+          url: /newcomers/chatelaine.html
+        - page: Jargonbusters
+          url: /newcomers/jargonbuster.html
+        - page: "Read members' stories"
+          url: /newcomers/whyijoined.html
+        - page: What to expect at your first event
+          url: /newcomers/whattoexpect.html
+        - page: Finding a local group
+          url: /library/useful-resources/findingalocalgroup.html
+    - page: Resources of local Groups
+      url: /library/group-resources/
+      subsubmenu:
+        - page: Bidding for Events
+          url: /library/group-resources/biddingforevents.html
+        - page: How to start a local group
+          url: /library/group-resources/howtosetup.html
+        - page: Resources for running an Event
+          url: /library/Howtos/RunninganEvent.html
+        - page: Find a Principality Officer
+          url: /governance/FindanOfficer.html
+        - page: "You're a Shire officer, what now?"
+          url: /library/group-resources/newshireofficers.html
+        - page: Principality Law
+          url: /library/Publications/PrincipalityLaw.html
+    - page: Library
+      url: /library/
+    - page: How tos and Guides
+      url: /library/Howtos/
+    - page: The Baelfyr (newsletter)
+      url: /baelfyr/
+
+- title: Contact
+  url: /governance/FindanOfficer.html
+  submenu:
+    - page: Contact an Officer
+      url: /governance/find-an-officer
+    - page: Find a local group
+      url: /library/useful-resources/findingalocalgroup

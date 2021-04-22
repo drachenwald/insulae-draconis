@@ -1,0 +1,24 @@
+{% if officer %}
+
+{% assign role = site.data.officetitles | where:"slug", officer.office | first %}
+
+<h3>{{ role.title }}</h3>
+<p><strong>{{ officer.scaname }}</strong>
+{% unless officer.mundanename == "" %}
+ ({{ officer.mundanename }})
+{% endunless %}
+{% unless officer.pronouns == "" %}
+ <span class="text-muted">{{ officer.pronouns }}</span>
+{% endunless %}<br>
+<strong>Contact:</strong> {{ officer.email }}
+</p>
+
+{% if role.report %}<p><a href="{{ role.report }}">How to report</a></p>{% endif %}
+
+{% if role.desc %}
+<p>
+{{ role.desc }}
+</p>
+{% endif %}
+
+{% endif %}

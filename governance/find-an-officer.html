@@ -1,0 +1,43 @@
+---
+title: Find an Officer
+subtitle: Just the person you're looking for...
+---
+
+{% for role in site.data.officetitles %}
+
+  {% assign officer = site.data.regnum | where:"group", "Insulae Draconis" | where:"office", role.slug | last %}
+
+  <img src="{{ role.emblem }}" width="96" height="96" align="right">
+
+  <h3>{{ role.title }}</h3>
+
+  {% if officer %}
+
+  <p><strong>{{ officer.scaname }}</strong>
+  {% unless officer.mundanename == "" %}
+   ({{ officer.mundanename }})
+  {% endunless %}
+  {% unless officer.pronouns == "" %}
+   <span class="text-muted">{{ officer.pronouns }}</span>
+  {% endunless %}<br>
+  <strong>Contact:</strong> {{ officer.email }}
+  </p>
+  
+  {% if role.report %}<p><a href="{{ role.report }}">How to report</a></p>{% endif %}
+  
+  {% if role.desc %}
+  <p>
+  {{ role.desc }}
+  </p>
+  {% endif %}
+
+  {% else %}
+
+    <p>No information available at this time.</p>
+
+  {% endif %}
+
+  <hr>
+
+{% endfor %}
+

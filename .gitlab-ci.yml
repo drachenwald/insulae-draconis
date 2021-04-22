@@ -1,0 +1,23 @@
+image: ruby:2.6
+
+variables:
+  JEKYLL_ENV: production
+
+cache:
+  paths:
+  - vendor/
+
+before_script:
+  - curl -o _data/regnum.json https://scripts.drachenwald.sca.org/json/regnum-officers-box.json
+  - bundle install --path vendor
+
+pages:
+  stage: deploy
+  script:
+  - bundle exec jekyll build -d public
+  artifacts:
+    expire_in: 1 hour
+    paths:
+    - public
+  only:
+  - staging

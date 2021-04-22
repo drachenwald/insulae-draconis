@@ -1,0 +1,33 @@
+{% include header.html %}
+
+<div id="main" class="wrapper style3">
+	<div class="container">
+		<div class="row">
+			{% if page.sidebar %}
+				<div class="col-12 col-md-8">
+					<section id="content">
+						{{ content }}
+					</section>
+				</div>
+				<div class="col-12 col-md-4 bg-white shadow rounded">
+					<section id="sidebar">
+						<br />
+						{% include {{ page.sidebar }}.html %}
+					</section>
+				</div>
+
+			{% else %}
+
+				<div class="col-12">
+					<section id="content">
+						{{ content }}
+					</section>
+				</div>
+
+			{% endif %}
+
+		</div>
+	</div>
+</div>
+
+{% include footer.html %}
