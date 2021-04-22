@@ -20,10 +20,22 @@
 								</li>
 								<li class="list-inline-item pe-3">
 									<a href="https://membermojo.co.uk/scauk" class="text-reset" target="_self">
-										<i class="fa fa-university"></i>Get or renew your membership
+										<i class="fa fa-university"></i> Get or renew your membership
 									</a>
 								</li>
 							</ul>
+
+							{% if site.gitlab.repository_url %}
+								<ul class="list-inline">
+									<li class="list-inline-item pe-3">
+										<a href="{{site.gitlab.repository_url}}/blob/staging/{{ page.path }}" class="text-reset"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Edit this page on GitLab</a>
+									</li>
+									<li class="list-inline-item pe-3">
+										<a href="{{site.gitlab.repository_url}}/issues/new?issue[assignee_id]=&issue[milestone_id]=&issue[description]=Path%3A%20{{ page.url }}%0D" class="text-reset"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Open an issue on GitLab</a>
+									</li>
+								</ul>
+							{% endif %}
+						
 
 							<div>
 								&copy; 2020 SCA (Insulae Draconis). This is the recognised web site for the

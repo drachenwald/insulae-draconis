@@ -22,6 +22,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+gitlab:
+  repository_url: https://gitlab.com/sca-drachenwald/insulae-draconis
+
+
 # Build settings
 markdown: kramdown
 plugins:
