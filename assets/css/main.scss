@@ -40,6 +40,20 @@ $primary: #000099;
 	}
 }
 
+blockquote {
+	@extend .blockquote;
+	@extend .mx-5;
+	background-color: #dddddd;
+	text-align: center;
+
+	p {
+		text-align: right;
+		font-size: medium;
+		font-style: italic;
+		@extend .m-2
+	}
+}
+
 // To update bootstrap, download the ZIP file from
 // https://getbootstrap.com/docs/5.0/getting-started/download/
 // extract, copy 'scss/' into 'assets/css', and rename it to 'bootstrap'
