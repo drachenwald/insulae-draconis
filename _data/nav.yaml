@@ -7,7 +7,7 @@ top:
     - page: Raglan Fair
       url: /events/raglan/
     - page: Coronet Tournament
-      url: /coronet/CoronetTourney.html
+      url: /coronet/coronet-tourney/
 
 - title: Activities
   url: /activities/
@@ -43,9 +43,9 @@ top:
     - page: Royal Progress
       url: /coronet/#progress
     - page: Coronet Tourney
-      url: /coronet/coronet-tourney.html
+      url: /coronet/coronet-tourney/
     - page: Recommend someone for an Award
-      url: /coronet/recommend.html
+      url: /coronet/recommend/
     - page: Previous Reigns
       url: /coronet/past.html
 

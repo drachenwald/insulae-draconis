@@ -48,6 +48,8 @@ exclude:
 sass:
   sass_dir: assets/css
 
+permalink: pretty
+
 defaults:
   -
     scope:

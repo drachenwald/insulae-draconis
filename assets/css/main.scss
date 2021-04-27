@@ -27,6 +27,19 @@ h1, h2, h3, h4, h5, h6, nav {
 
 $primary: #000099;
 
+.calendar {
+	.btn--primary {
+		@extend .btn-primary;
+	}
+	table {
+		caption-side: top;
+	}
+	caption {
+		text-align: center;
+		color: #000000;
+	}
+}
+
 // To update bootstrap, download the ZIP file from
 // https://getbootstrap.com/docs/5.0/getting-started/download/
 // extract, copy 'scss/' into 'assets/css', and rename it to 'bootstrap'
