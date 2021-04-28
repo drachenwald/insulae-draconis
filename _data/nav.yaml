@@ -15,21 +15,21 @@ top:
     - page: Activities
       url: /activities/
     - page: Archery
-      url: /activities/Archery/
+      url: /activities/archery/
     - page: Armoured Combat
-      url: /activities/ArmouredCombat/
+      url: /activities/armoured-combat/
     - page: Arts and Sciences
-      url: /activities/AandS/
+      url: /activities/a-and-s/
     - page: Bardic Performance and Dance
       url: /activities/AandS/bardicanddancing.html
     - page: Competitions and Awards
       url: /activities/AandS/competitions.html
     - page: Cooking and Feasting
-      url: /activities/AandS/cookingandfeasting.html
+      url: /activities/a-and-s/cooking-and-feasting/
     - page: Heraldry
-      url: /activities/Heraldry/
+      url: /activities/heraldry/
     - page: Rapier fighting
-      url: /activities/Rapier/
+      url: /activities/rapier/
     - page: Scribal Arts
       url: /activities/AandS/scribalarts.html
     - page: The Protectors Tournaments
