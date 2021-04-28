@@ -3,7 +3,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Philosopher|Open+Sans:400,400italic,700,800&display=swap');
 
-body, input, select, textarea, p {
+body, input, select, textarea, p, table {
 	font-family: "Open Sans", Helvetica, sans-serif;
 }
 
@@ -38,6 +38,10 @@ $primary: #000099;
 		text-align: center;
 		color: #000000;
 	}
+}
+
+.btn {
+	font-family: "Philosopher", Helvetica, sans-serif;
 }
 
 blockquote {
