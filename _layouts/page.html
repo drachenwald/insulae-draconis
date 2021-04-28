@@ -4,16 +4,17 @@
 	<div class="container">
 		<div class="row">
 			{% if page.sidebar %}
-				<div class="col-12 col-md-8">
+				<div class="col-12 col-lg-8">
 					<section id="content">
 						{{ content }}
 					</section>
 				</div>
-				<div class="col-12 col-md-4 bg-white shadow rounded">
-					<section id="sidebar">
-						<br />
-						{% include {{ page.sidebar }}.html %}
-					</section>
+				<div class="col-12 col-lg-4">
+					<div class="bg-white shadow rounded p-3">
+						<section id="sidebar">
+							{% include {{ page.sidebar }}.html %}
+						</section>
+					</div>
 				</div>
 
 			{% else %}
