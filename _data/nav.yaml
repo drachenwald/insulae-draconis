@@ -21,9 +21,9 @@ top:
     - page: Arts and Sciences
       url: /activities/a-and-s/
     - page: Bardic Performance and Dance
-      url: /activities/AandS/bardicanddancing.html
+      url: /activities/a-and-s/bardic-and-dancing/
     - page: Competitions and Awards
-      url: /activities/AandS/competitions.html
+      url: /activities/a-and-s/competitions/
     - page: Cooking and Feasting
       url: /activities/a-and-s/cooking-and-feasting/
     - page: Heraldry
@@ -31,7 +31,7 @@ top:
     - page: Rapier fighting
       url: /activities/rapier/
     - page: Scribal Arts
-      url: /activities/AandS/scribalarts.html
+      url: /activities/a-and-s/scribal/
     - page: The Protectors Tournaments
       url: /activities/protectors/
 
