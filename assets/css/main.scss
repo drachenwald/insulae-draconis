@@ -2,6 +2,15 @@
 ---
 
 @import url('https://fonts.googleapis.com/css?family=Philosopher|Open+Sans:400,400italic,700,800&display=swap');
+$primary: #000099;
+
+// To update bootstrap, download the ZIP file from
+// https://getbootstrap.com/docs/5.0/getting-started/download/
+// extract, copy 'scss/' into 'assets/css', and rename it to 'bootstrap'
+//
+// Then update the CDN download of the javascript in '_includes/header.html'
+
+@import 'bootstrap/bootstrap';
 
 body, input, select, textarea, p, table {
 	font-family: "Open Sans", Helvetica, sans-serif;
@@ -25,7 +34,6 @@ h1, h2, h3, h4, h5, h6, nav {
 	font-family: "Philosopher", Helvetica, sans-serif;
 }
 
-$primary: #000099;
 
 .calendar {
 	.btn--primary {
@@ -40,15 +48,15 @@ $primary: #000099;
 	}
 }
 
-.btn {
-	font-family: "Philosopher", Helvetica, sans-serif;
-}
-
 blockquote {
 	@extend .blockquote;
 	@extend .mx-5;
-	background-color: #dddddd;
+	@extend .py-1;
+	background-color: #eeeeee;
 	text-align: center;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #999999;
+
 
 	p {
 		text-align: right;
@@ -58,10 +66,16 @@ blockquote {
 	}
 }
 
-// To update bootstrap, download the ZIP file from
-// https://getbootstrap.com/docs/5.0/getting-started/download/
-// extract, copy 'scss/' into 'assets/css', and rename it to 'bootstrap'
-//
-// Then update the CDN download of the javascript in '_includes/header.html'
+.btn-primary {
+	color: #ffff00;
+}
 
-@import 'bootstrap/bootstrap';
+.btn-primary:hover {
+	color: #ffff00;
+	background-color: #0000ff;
+}
+
+.btn {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-weight: bold;
+}
