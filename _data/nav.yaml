@@ -56,15 +56,15 @@ top:
       url: /newcomers/
       subsubmenu:
         - page: Contact the Castellan
-          url: /newcomers/chatelaine.html
+          url: /newcomers/chatelaine/
         - page: Jargonbusters
-          url: /newcomers/jargonbuster.html
+          url: /newcomers/jargonbuster/
         - page: "Read members' stories"
-          url: /newcomers/whyijoined.html
+          url: /newcomers/why-i-joined/
         - page: What to expect at your first event
-          url: /newcomers/whattoexpect.html
+          url: /newcomers/what-to-expect/
         - page: Finding a local group
-          url: /library/useful-resources/findingalocalgroup.html
+          url: /library/useful-resources/findingalocalgroup/
     - page: Resources of local Groups
       url: /library/group-resources/
       subsubmenu:

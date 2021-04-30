@@ -41,6 +41,9 @@ h1, h2, h3, h4, h5, h6, nav {
 	}
 	table {
 		caption-side: top;
+		td {
+			@extend .p-2;
+		}
 	}
 	caption {
 		text-align: center;
@@ -72,10 +75,15 @@ blockquote {
 
 .btn-primary:hover {
 	color: #ffff00;
-	background-color: #0000ff;
+	background-color: #0000dd;
 }
 
 .btn {
 	font-family: "Open Sans", Helvetica, sans-serif;
 	font-weight: bold;
+	box-shadow: 0px 0px 5px #999999;
+}
+
+table {
+	@extend .table;
 }

@@ -1,7 +1,5 @@
 {% if officer %}
 
-{% assign role = site.data.officetitles | where:"slug", officer.office | first %}
-
 <h3>{{ role.title }}</h3>
 <p><strong>{{ officer.scaname }}</strong>
 {% unless officer.mundanename == "" %}
@@ -20,5 +18,9 @@
 {{ role.desc }}
 </p>
 {% endif %}
+
+{% else %}
+
+<span><em>Officer details to come</em></span>
 
 {% endif %}
