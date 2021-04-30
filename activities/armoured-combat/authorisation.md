@@ -13,8 +13,8 @@ Authorisation is the test a fighter must pass before they can participate in arm
 
 As a fighter you need to check that you can answer the following to be sure you're ready to take the test:
 
-- Do you know the basic rules of heavy combat? (<a href="http://www.sca.org/officers/marshal/docs/index.html">Rules on the SCA website</a>)
-- Do you know where to find up to date rules and changes? (<a href="http://sca.org/officers/marshal/ann.html">Periodic Rules Updates</a>)
+- Do you know the basic rules of heavy combat? (<a href="https://www.sca.org/marshal_handbook/">Rules on the SCA website</a>)
+- Do you know where to find up to date rules and changes
 - Are you wearing correct armour? 
 - Do you  know a basic shot? 
 - Can you safely withstand an attack? 
