@@ -56,17 +56,18 @@ blockquote {
 	@extend .mx-5;
 	@extend .py-1;
 	background-color: #eeeeee;
-	text-align: center;
 	border-radius: 5px;
 	box-shadow: 0px 0px 5px #999999;
+	text-align: right;
 
 
 	p {
-		text-align: right;
 		font-size: medium;
 		font-style: italic;
-		@extend .m-2
+		@extend .m-2;
+		text-align: left;
 	}
+
 }
 
 .btn-primary {
