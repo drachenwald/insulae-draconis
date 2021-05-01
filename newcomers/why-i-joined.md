@@ -5,7 +5,6 @@ title: Why I joined the SCA in Insulae Draconis
 subtitle: What captured the hearts and imaginations of our members?
 ---
 
-
 <h3>In their own words.... </h3>
 <p style="text-align: left;">It can be very hard to figure out from a website whether something is right for you or not, there's nothing like meeting people and personal recommendations to give you a sense of what you might be getting yourself into.  With that in mind we've asked our members what are the things that made them join us. </p>
                       
