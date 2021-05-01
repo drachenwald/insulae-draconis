@@ -7,6 +7,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 # Publications
 
 - [The Baelfyr Monthly Newsletter]({% link baelfyr/index.md %})
+- [The Journal of Diverse Arts]({% link library/publications/diverse-arts/index.md %})
 
 # Newcomers Guides
 
