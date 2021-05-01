@@ -22,10 +22,10 @@ redirect_from: /Activities/Heraldry/
 <p>
   In the Current Middle Ages heralds continue to support the populace and our royals by announcing
   news, recording and registering names and arms, and keeping records. Happily, we now share that work with computers and the internet: it&#39;s no longer an exclusive
-  preserve of a handful of noblemen, but available to everyone. You too can release your inner herald!"
+  preserve of a handful of noblemen, but available to everyone. You too can release your inner herald!
 </p>
 <cite>
-<span class="name">Dame Genevieve la flechiere, Mynydd Gwyn</span><br />
+Dame Genevieve la flechiere, Mynydd Gwyn&nbsp;<br />
 <a href="{% link activities/heraldry/before-the-internet.md %}">Read the full article</a>
 </cite>
 
