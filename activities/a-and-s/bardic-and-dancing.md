@@ -4,7 +4,7 @@ redirect_from: /Activities/AandS/bardicanddancing.html
 title: The Bardic Arts in Insulae Draconis
 ---
 
-<img src="/images/a-and-s/dancing.jpg" class="rounded float-md-end m-2" alt="Medieval dancing" />
+<img src="/images/a-and-s/dancing.jpg" class="rounded shadow float-md-end m-2" alt="Medieval dancing" />
 
 ## Bardic Performances
 We are fortunate to have many talented musicians and singers, storytellers, poets and actors who will entertain at most of our events.  We have choral perfomances at formal occasions, we sing drinking songs full of life and good cheer after great feasts, instrumental music wafts through the evening air at campsites.  Stories are told at the fireside, plays are performed under the open sky at Raglan fair, dancers wheel and step and turn in Great halls.  We have magicians and jugglers and puppeteers, all manner of performing arts from the Middle Ages can be found in the Society.

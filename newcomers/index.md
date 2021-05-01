@@ -9,7 +9,7 @@ Insulae Draconis is a Principality - with its own Prince and Princess - that adm
 
 These smaller groups are called Shires or Colleges. We, in turn, are one Principality in the Kingdom of Drachenwald which covers most of Europe and South Africa. 
 
-<img src="/images/armoured-combat/fighters.jpg" class="rounded float-md-end m-2" alt="Armoured combatants at Raglan Castle" />
+<img src="/images/armoured-combat/fighters.jpg" class="rounded shadow float-md-end m-2" alt="Armoured combatants at Raglan Castle" />
 
 The SCA is  a practical history society. Our members are interested in all aspects of recreating the arts and skills of pre-17th century Europe, be it combat skills, astronomy, brewing, dancing, costuming feasting, calligraphy or one of many, many more skills.   
 
@@ -17,7 +17,7 @@ We are family friendly: kids of all ages take part with their parents, and notab
 
 We cover many cultures and time periods, and don't restrict our members to any one area: Vikings mingle freely with 16th Venetian ladies, and swap skills and stories.  Many of us have a 'persona' - a person from a specific time, place - to research. Some aim for a general "medieval" look and feel, and don't get too worried about the details while others lovingly craft an entire identity with time appropriate clothes, accessories, weapons, household goods and skill sets.  
  
-<img src="/images/rapier/foils.jpg" class="rounded float-md-end m-2" alt="A selection of swords for fencing" />
+<img src="/images/rapier/foils.jpg" class="rounded shadow float-md-end m-2" alt="A selection of swords for fencing" />
 
 Events are held all over the Principality. Some are local to you, some might be in another Shire, or even across the sea.  These events are a great way to meet people interested in the same things you are, and you can experience tournaments, royal courts, feasts, and medieval entertainments.  
 

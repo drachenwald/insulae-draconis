@@ -14,20 +14,20 @@ Archery captured the hearts of many of the people who first found their way to t
 
 ### Target Archery
 
-<img src="/images/archery/snowontarget.jpg" class="rounded float-md-end m-2" alt="Snow on an archery target" />
+<img src="/images/archery/snowontarget.jpg" class="rounded shadow float-md-end m-2" alt="Snow on an archery target" />
 
 The SCA – in order to be as true to times as possible – encourage the use of materials and methods available to period archers, so we focus on wood and feathers in our bows and arrows and do not allow modern compound bows. Target Archery concentrates on getting the archers shooting at a static target at various distances.  We have a variety of <a href="{% link activities/archery/shoots.md %}">fun shoots</a> but the basic idea is that points are scored by shooting at a bullseye from a standing position on a clear field. Unlike rapier and heavy combat, archery is suitable for supervised children who are old enough to draw and safely shoot a bow, so it is a useful activity when you're bringing the family to an event. Please note it is very important that they are aware they must pay attention to what the marshal says at all times.
 
 
 ### Field Archery
 
-<img src="/images/archery/fieldshoot2.jpg" width="300" class="rounded float-md-end m-2" alt="Field shoot" />
+<img src="/images/archery/fieldshoot2.jpg" width="300" class="rounded shadow float-md-end m-2" alt="Field shoot" />
 
 These are shoots where we try to mimic situations faced by medieval archers: Shooting around the trunk of a tree, in wooded landscapes, using 3-D models or firing through castle windows and arrow slots at targets below. The happen less commonly than target archery but are hugely enjoyable. You can test your skills at things like a William Tell shoot: could you shoot an apple off someone's head? (where that someone not a real live breathing person, of course!) Loaner equipment is usually available, but do check in advance with a practice marshal and, if you are attending an event, make sure you've let someone on the event team know you need loaner equipment well when you book!
 
 ### Thrown Weapons
 
-<img src="/images/archery/thrownknives.jpg" width="300" class="rounded float-md-end m-2" alt="Throwing knives in a target" />
+<img src="/images/archery/thrownknives.jpg" width="300" class="rounded shadow float-md-end m-2" alt="Throwing knives in a target" />
 
 At some events and practices you might get the chance to try your skill with throwing knives or axes and spears,  in a safe, marshaled environment. Typically the target is a large board or stump, though sometimes there may be a custom target with a special emphasis in keeping with an event or persoanlity. If there is a planned throwing  event at an event there will usually be  loaner knives or axes available to try it out, and you'll be given safety tips and rules to follow before you start.  It’s great fun, ask  your local archery marshal!
 

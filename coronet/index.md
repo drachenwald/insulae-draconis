@@ -20,7 +20,7 @@ redirect_from:
       </tr>
       <tr>
         <td colspan="2" style="text-align: center">
-          <img width="400" height="377" src="/coronet/images/avery-zoe.jpg" alt="Prince and Princess of Insulae Draconis"><br>
+          <img width="400" height="377" src="/coronet/images/avery-zoe.jpg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
         </td>
       </tr>
       <tr>

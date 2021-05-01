@@ -35,7 +35,7 @@ Heralds bring magic to the society: we often turn things from a modern experienc
 
 [Heraldry in the SCA]({% link activities/heraldry/heraldry-in-the-sca.md %})
 
-<img src="/images/heraldry/heraldryandhelms.jpg" class="rounded float-md-end m-2" alt="" />
+<img src="/images/heraldry/heraldryandhelms.jpg" class="rounded shadow float-md-end m-2" alt="" />
 
 ## Book Heraldry
 

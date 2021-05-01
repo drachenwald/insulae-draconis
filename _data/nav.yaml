@@ -47,7 +47,7 @@ top:
     - page: Recommend someone for an Award
       url: /coronet/recommend/
     - page: Previous Reigns
-      url: /coronet/past.html
+      url: /coronet/past/
 
 - title: Library
   url: /library/
@@ -73,7 +73,7 @@ top:
         - page: How to start a local group
           url: /library/group-resources/how-to-setup/
         - page: Resources for running an Event
-          url: /library/Howtos/running-an-event/
+          url: /library/howtos/running-an-event/
         - page: Find a Principality Officer
           url: /governance/find-an-officer/
         - page: "You're a Shire officer, what now?"
@@ -90,7 +90,7 @@ top:
 - title: Contact
   url: /governance/FindanOfficer.html
   submenu:
-    - page: Contact an Officer
+    - page: Contact an officer
       url: /governance/find-an-officer
     - page: Find a local group
       url: /library/useful-resources/findingalocalgroup

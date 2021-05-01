@@ -18,7 +18,7 @@ Another item you should consider packing in your feast gear is a small tasting v
 
 ### Outdoor Camp cooking 
 
-<img src="/images/a-and-s/fireboxcook.jpg" class="rounded float-md-end m-2" alt="Cooking on a firebox" />
+<img src="/images/a-and-s/fireboxcook.jpg" class="rounded shadow float-md-end m-2" alt="Cooking on a firebox" />
 
 They say camping is guaranteed to give anyone  great appetite and in Insulae Draconis we know exactly what a hungry camper needs. even if you're not spending a weekend under canvas many events include elements of outdoor cooking, for example we've had salmon cooked on stakes over a  firefor lunch. We've had venison, spit roasted under many a blue - and not so blue - sky, wafting delicious aromas  to whet many an appetite. At Raglan Castle every year people from all over the Isles camp and cook for ten days with wood fires in fireboxes and some have researched historical pots, fireboxes, cooking irons and will gladly demonstrate to anyone who is interested.  
  

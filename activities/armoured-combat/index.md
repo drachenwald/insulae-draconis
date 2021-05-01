@@ -8,12 +8,12 @@ banner: /images/banner/armoured-combat.jpg
 
 ### For those with the heart of a knight...
 
-<img src="/images/armoured-combat/heavysq.jpg" class="rounded float-md-end m-2" alt="" />
+<img src="/images/armoured-combat/heavysq.jpg" class="rounded shadow float-md-end m-2" alt="" />
 
 Probably some of the most iconic images of the Society for Creative Anachronism have involved armoured combatants in full face helmets and armour, their personal heraldry painted large on their shields. . Armoured combat (also commonly refered to as heavy fighting) is thrilling to watch, either in  tournaments between individuals or roving teams of fighters  in  melees. In Insulae Draconis our fighter take all the opportunities they can find to storm castles, most notably at our large annual camping event held annually for the last many years at Raglan Castle. Throughout the Society it is armoured combat tournaments that decide the next royalty, and this is true for our Principality too: A fighter may fight to become Prince or Princess in their own right at Coronet Tourney, an event held twice a year at different events throughout the Principality (see the [Coronet]({% link coronet/coronet-tourney.md %}) section for more information.)
 
 
-<img src="/images/armoured-combat/night.jpg" class="rounded float-md-end m-2" alt="Combat at night" />
+<img src="/images/armoured-combat/night.jpg" class="rounded shadow float-md-end m-2" alt="Combat at night" />
 
 Armoured combat requires armour, but instead of steel weapons the weapons are usually made from rattan. Combat itself uses  a scoring system based on honor and chivalry; the fighters declare a blow they receive &quot;good&quot; themselves,  based on the angle, location, and force of the strike. Bouts are overseen by Heavy marshals, and all fighters must attend to their instructions at all times. It is the duty of the marshals to ensire all armour and weaponry is safe to use and  meets society standards.
 
@@ -22,7 +22,7 @@ Women can, and absolutely do, engage in armoured combat. Armoured combat is not 
 
 ### Weapons and Armour
 
-<img src="/images/armoured-combat/shields.jpg" class="rounded float-md-end m-2" alt="Painted shields" />
+<img src="/images/armoured-combat/shields.jpg" class="rounded shadow float-md-end m-2" alt="Painted shields" />
 
 The weapons used in our armored combat activities are largely made out of rattan poles - these  look and feel very much like large, solid bamboo poles. Replica weapons, for example axes, might be made instead from rubber and foam. Weapons must be passed by a marshal before every fight.
 

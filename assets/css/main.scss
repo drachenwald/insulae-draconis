@@ -54,6 +54,7 @@ h1, h2, h3, h4, h5, h6, nav {
 blockquote {
 	@extend .blockquote;
 	@extend .mx-5;
+	@extend .my-4;
 	@extend .py-1;
 	background-color: #eeeeee;
 	border-radius: 5px;
@@ -68,21 +69,26 @@ blockquote {
 		text-align: left;
 	}
 
+	cite {
+		font-size: medium;
+		font-weight: bold;
+		@extend .m-2
+	}
+
 }
 
 .btn-primary {
-	color: #ffff00;
+	color: #ffffff;
 }
 
 .btn-primary:hover {
-	color: #ffff00;
+	color: #ffffff;
 	background-color: #0000dd;
 }
 
 .btn {
 	font-family: "Open Sans", Helvetica, sans-serif;
 	font-weight: bold;
-	box-shadow: 0px 0px 5px #999999;
 }
 
 table {
