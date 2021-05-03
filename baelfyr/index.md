@@ -10,7 +10,7 @@ prevurl:
 
 ## Subscribe to the monthly newsletter...
 
-The Baelfyr is the best way to find out what's going on in the Principality. It arrives in your email inbox once a month.
+The Baelfyr is the absolute most bestest way to find out what's going on in the Principality. It arrives in your email inbox once a month.
 
 Subscriptions are available from the Chronicler ([chronicler@insulaedraconis.org](mailto:chronicler@insulaedraconis.org)), and will be continued without the need for renewal unless cancelled. Print copies can be provided for a small charge; price upon application to the Chronicler.
 
@@ -22,6 +22,4 @@ Advertisements cost £12 annually for a half-page for SCA members, and £24 a ye
 
 The Baelfyr is a publication of Insulae Draconis, of the SCA UK CIC. This newsletter is not a corporate publication of the SCA UK CIC, and does not delineate SCA policies. © Copyright 2017 SCA UK CIC.
 
-For more information on reprinting letters, artwork and articles from this publication, please contact the Chronicler, who will assist you in contacting the original creator of the piece. rekjgheiruhgPlease respect the rights of our contributors.fdbgiudfjbdt
-tejoitehrs
-tersghieostrjhgioetsr
+For more information on reprinting letters, artwork and articles from this publication, please contact the Chronicler, who will assist you in contacting the original creator of the piece. Please respect the rights of our contributors.
