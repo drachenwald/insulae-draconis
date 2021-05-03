@@ -19,6 +19,9 @@ winners:
   - tournament: Protectors XIV
     year: 2019
     venue: Winners for most fields were not announced when the event ended prematurely due to extreme weather.
+    protectors:
+      - field: rapier
+        name: Lady Angelica Andegavensis
 
   - tournament: Protectors XIII
     year: 2018
