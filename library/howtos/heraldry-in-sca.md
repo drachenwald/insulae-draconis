@@ -1,5 +1,5 @@
 ---
-redirect_from: /Library/Howtos/HeraldryinSCA.html
+prevurl: /Library/Howtos/HeraldryinSCA.html
 title: Heraldry in the SCA
 subtitle: Genevieve la flechiere
 sidebar: sidebar-herald

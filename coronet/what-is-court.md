@@ -1,5 +1,5 @@
 ---
-redirect_from:
+prevurl:
   - /Coronet/Whatiscourt.html
 title: What is court, what happens and what am I supposed to do?
 subtitle: What to expect when at an event with royalty

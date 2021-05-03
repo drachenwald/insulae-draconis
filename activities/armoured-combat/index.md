@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-armouredcombat
-redirect_from: /Activities/ArmouredCombat/
+prevurl: /Activities/ArmouredCombat/
 title: Armoured combat in Insulae Draconis
 subtitle: Chivalry and combat skill - the path to the Principality throne
 banner: /images/banner/armoured-combat.jpg

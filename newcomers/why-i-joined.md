@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-castellan
-redirect_from: /newcomers/whyijoined.html
+prevurl: /newcomers/whyijoined.html
 title: Why I joined the SCA in Insulae Draconis
 subtitle: What captured the hearts and imaginations of our members?
 ---

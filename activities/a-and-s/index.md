@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-aands
-redirect_from: /Activities/AandS/
+prevurl: /Activities/AandS/
 title: Arts and Sciences in Insulae Draconis
 subtitle: Making all the things! All over the principality
 ---

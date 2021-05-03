@@ -1,5 +1,5 @@
 ---
-redirect_from: /Library/Howtos/Hamlets.html
+prevurl: /Library/Howtos/Hamlets.html
 title: Hamlets
 subtitle: Hamlets Guidelines (v1.1)
 ---

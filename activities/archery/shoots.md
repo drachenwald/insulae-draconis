@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-archery
-redirect_from: /Activities/Archery/Shoots/
+prevurl: /Activities/Archery/Shoots/
 title: Archery shoots
 ---
 

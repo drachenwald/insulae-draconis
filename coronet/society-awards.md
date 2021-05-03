@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-herald
-redirect_from:
+prevurl:
  - /Coronet/SocietyAwards.html
 title: Society awards - a personal view from the front of the hall
 subtitle: Dame Genevieve la flechiere

@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-aands
-redirect_from: /Activities/AandS/cookingandfeasting.html
+prevurl: /Activities/AandS/cookingandfeasting.html
 title: Cooking, Brewing and Feasting
 subtitle: The art of the feast, revisited
 banner: /images/banner/feastcooking.jpg

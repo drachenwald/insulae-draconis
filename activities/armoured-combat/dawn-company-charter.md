@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar-armouredcombat
 title: The Dawn Company Charter
-redirect_from: /Activities/ArmouredCombat/DawnCompany/charter/
+prevurl: /Activities/ArmouredCombat/DawnCompany/charter/
 ---
 
 ### 1. Purpose 

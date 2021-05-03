@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-castellan
-redirect_from: /newcomers/jargonbuster.html
+prevurl: /newcomers/jargonbuster.html
 title: Jargon Busters!
 subtitle: Starting with the SCA can be like learning a new language
 ---

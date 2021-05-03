@@ -1,5 +1,5 @@
 ---
-redirect_from: /Library/Howtos/Adoptapersona.html
+prevurl: /Library/Howtos/Adoptapersona.html
 title: Adopting a Persona
 ---
 

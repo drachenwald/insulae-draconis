@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-rapier
-redirect_from: /Activities/Rapier/weapons.html
+prevurl: /Activities/Rapier/weapons.html
 title: Weapons categories
 ---
 

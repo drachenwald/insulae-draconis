@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-groups
-redirect_from: /Library/GroupResources/ShireSeneschal.html
+prevurl: /Library/GroupResources/ShireSeneschal.html
 title: New Shire Officers - Seneschal
 ---
 

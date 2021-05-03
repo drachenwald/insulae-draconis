@@ -1,5 +1,5 @@
 ---
-redirect_from: /governance/gdprAdvice.html
+prevurl: /governance/gdprAdvice.html
 title: General GDPR Advice and Key Changes
 ---
 

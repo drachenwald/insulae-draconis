@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-herald
-redirect_from:
+prevurl:
   - /Activities/Heraldry/BeforeTheInternet.html
 title: Before the Internet, before Google... there were heralds
 subtitle: Dame Genevieve la flechiere

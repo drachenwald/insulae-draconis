@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-groups
-redirect_from: /Library/GroupResources/ShireExchequer.html
+prevurl: /Library/GroupResources/ShireExchequer.html
 title: New Shire Officers - Exchequer
 ---
 

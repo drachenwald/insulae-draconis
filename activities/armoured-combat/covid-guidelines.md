@@ -2,7 +2,7 @@
 sidebar: sidebar-armouredcombat
 title: Guidelines for resuming Armoured Combat
 subtitle: Lady Agnes des Illes, Insulae Draconis Knight Marshal
-redirect_from: /Activities/ArmouredCombat/covid-guidelines.html
+prevurl: /Activities/ArmouredCombat/covid-guidelines.html
 ---
 
 ##  Guidelines for resuming Armoured Combat activities in Insulae Draconis following Covid-19 pandemic

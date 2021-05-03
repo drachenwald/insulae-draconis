@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-herald
-redirect_from: /Activities/Heraldry/register.html
+prevurl: /Activities/Heraldry/register.html
 title: Registering a personal name and device (Arms) 
 ---
 

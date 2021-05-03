@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-groups
-redirect_from: /Library/GroupResources/ShireMoAS.html
+prevurl: /Library/GroupResources/ShireMoAS.html
 title: New Shire Officers - Minister of Arts and Sciences
 ---
 

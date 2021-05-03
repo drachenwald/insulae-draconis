@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar-armouredcombat
 title: The Dawn Company
-redirect_from: /Activities/ArmouredCombat/DawnCompany/
+prevurl: /Activities/ArmouredCombat/DawnCompany/
 ---
 
 <ul class="list-inline text-center">

@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-archery
-redirect_from: /Activities/Archery/
+prevurl: /Activities/Archery/
 title: Archery in Insulae Draconis
 subtitle: For castle guards and blackguards all over the principality
 banner: /images/banner/archery.jpg

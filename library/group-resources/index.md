@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-groups
-redirect_from: /Library/GroupResources/
+prevurl: /Library/GroupResources/
 title: Resources for Groups in Insulae Draconis
 subtitle: Starting up, running a group, running events and reporting up
 ---

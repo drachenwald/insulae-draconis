@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-herald
-redirect_from:
+prevurl:
   - /Activities/Heraldry/awards.html
 title: Insulae Draconis awards
 ---

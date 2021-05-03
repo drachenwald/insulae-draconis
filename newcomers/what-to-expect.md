@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-castellan
-redirect_from: /newcomers/whattoexpect.html
+prevurl: /newcomers/whattoexpect.html
 title: What to expect at your first event!
 ---
 

@@ -1,5 +1,5 @@
 ---
-redirect_from: /Library/
+prevurl: /Library/
 title: Insulae Draconis Library
 banner: /images/banner/scribalDeskTretower.jpg
 ---

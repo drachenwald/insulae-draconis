@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-aands
-redirect_from: /Activities/AandS/documentation.html
+prevurl: /Activities/AandS/documentation.html
 title: Documentation for Arts and Sciences in Insulae Draconis
 ---
 

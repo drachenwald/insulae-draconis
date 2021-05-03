@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-groups
-redirect_from: /Library/GroupResources/newshireofficers.html
+prevurl: /Library/GroupResources/newshireofficers.html
 title: New Shire Officers
 ---
 

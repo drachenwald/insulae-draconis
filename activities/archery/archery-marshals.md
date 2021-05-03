@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-archery
-redirect_from: /Activities/Archery/archerymarshals.html
+prevurl: /Activities/Archery/archerymarshals.html
 title: Archery Marshals
 ---
 

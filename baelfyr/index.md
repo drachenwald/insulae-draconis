@@ -2,7 +2,7 @@
 sidebar: sidebar-chronicler
 title: The Baelfyr
 subtitle: The official newsletter for Insulae Draconis
-redirect_from:
+prevurl:
   - /Library/Publications/TheBaelfyr/index.html
 ---
 
@@ -22,4 +22,6 @@ Advertisements cost £12 annually for a half-page for SCA members, and £24 a ye
 
 The Baelfyr is a publication of Insulae Draconis, of the SCA UK CIC. This newsletter is not a corporate publication of the SCA UK CIC, and does not delineate SCA policies. © Copyright 2017 SCA UK CIC.
 
-For more information on reprinting letters, artwork and articles from this publication, please contact the Chronicler, who will assist you in contacting the original creator of the piece. Please respect the rights of our contributors.
+For more information on reprinting letters, artwork and articles from this publication, please contact the Chronicler, who will assist you in contacting the original creator of the piece. rekjgheiruhgPlease respect the rights of our contributors.fdbgiudfjbdt
+tejoitehrs
+tersghieostrjhgioetsr

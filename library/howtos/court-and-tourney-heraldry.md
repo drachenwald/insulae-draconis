@@ -1,5 +1,5 @@
 ---
-redirect_from: /Library/Howtos/court-and-tourney-heraldry.html
+prevurl: /Library/Howtos/court-and-tourney-heraldry.html
 title: Getting started in Court and Tourney heraldry
 subtitle: Sela de la Rosa
 sidebar: sidebar-herald

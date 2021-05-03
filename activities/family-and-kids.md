@@ -1,5 +1,5 @@
 ---
-redirect_from: /Activities/FamilyAndKids.html
+prevurl: /Activities/FamilyAndKids.html
 title: "Activities for all the family"
 subtitle: "Something for everyone, young and old"
 banner: /images/banner/onthestairs.jpg

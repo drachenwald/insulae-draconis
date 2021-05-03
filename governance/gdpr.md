@@ -1,5 +1,5 @@
 ---
-redirect_from: /governance/gdpr.html
+prevurl: /governance/gdpr.html
 title: GDPR Information Handling Policy
 subtitle: For all Groups within the Principality of Insulae Draconis
 ---

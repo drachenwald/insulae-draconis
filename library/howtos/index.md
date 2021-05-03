@@ -1,5 +1,5 @@
 ---
-redirect_from: /Library/Howtos/index.html
+prevurl: /Library/Howtos/index.html
 title: Howtos
 ---
 
