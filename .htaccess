@@ -1,0 +1,15 @@
+---
+layout: none
+---
+
+{%- for p in site.pages -%}
+{%- if p.prevurl -%}
+{%- for rfurl in p.prevurl -%}
+Redirect 301 {{ rfurl }} {{ site.url }}{{ p.url }}
+{% assign urlend = rfurl | slice: -10,10 %}
+{%- if urlend == "index.html" -%}
+Redirect 301 {{ rfurl | remove: 'index.html' }} {{ site.url }}{{ p.url }}
+{% endif %}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor -%}

@@ -3,7 +3,29 @@
 	<head>
 		<title>{{ page.title }}</title>
 		<meta charset="utf-8" />
-		<meta property="og:image" content="http://www.insulaedraconis.org/images/IDHome.png" />
+    <meta property="og:image" content="{{ site.url }}{{ page.banner | default: '/images/banner/default-banner.jpg' }}" />
+    <meta property="og:title"              content="{{ page.title }}" />
+    <meta property="og:description"        content="{{ page.subtitle }}" />
+    
+
+    {% if jekyll.environment == "production" %}
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-53836415-1"></script>
+
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-53836415-1', { 'anonymize_ip': true });
+      </script>
+
+    {% else %}
+
+    <meta name="robots" content="noindex">
+
+    {% endif %}
+    
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <link href="/assets/css/main.css" rel="stylesheet" />
@@ -16,20 +38,24 @@
 
     <header id="header">
 
-      <div class="bg-warning">
-        <div class="container text-center">
-          <i class="fas fa-exclamation-triangle"></i>
-          This website is in development.
-          <a href="https://insulaedraconis.org/">Visit the main website.</a>
+      {% unless jekyll.environment == "production" %}
+
+        <div class="bg-warning">
+          <div class="container text-center">
+            <i class="fas fa-exclamation-triangle"></i>
+            This is a development website.
+            <a href="{{ site.url }}">Visit the main website.</a>
+          </div>
         </div>
-      </div>
+
+      {% endunless %}
 
       <nav id="topmenu" class="navbar navbar-expand-lg navbar-dark bg-primary">
 
         <div class="container">
 
           <a class="navbar-brand" style="color: #ffff00;" href="/">
-            <img src="/images/topmenu/heraldry.svg" width="50" /> Insulae Draconis
+            <img src="/images/heraldry.svg" width="50" /> Insulae Draconis
           </a>
 
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#top-banner-menu" aria-controls="top-banner-menu" aria-expanded="false" aria-label="Toggle navigation">
@@ -85,7 +111,7 @@
 
     </header>
 
-    <div class="banner" style="background-image: url('{{ page.banner | default: '/images/topmenu/default-banner.jpg' }}');">
+    <div class="banner" style="background-image: url('{{ page.banner | default: '/images/banner/default-banner.jpg' }}');">
       <div class="container">
         <h1 class="display-5 pt-5">{{ page.title }}</h1>
         {% if page.subtitle %}

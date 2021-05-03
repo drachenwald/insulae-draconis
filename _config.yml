@@ -18,15 +18,19 @@ email: webminister@insulaedraconis.org
 description: > # this means to ignore newlines until "baseurl:"
   The Middle Ages - learn history by living it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://insulaedraconis.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
+
+gitlab:
+  repository_url: https://gitlab.com/sca-drachenwald/insulae-draconis
+
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-redirect-from
+#  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -36,13 +40,21 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor/
+  - Dockerfile
+  - docker-compose.yml
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include:
+  - .htaccess
+  - _redirects
+
 sass:
   sass_dir: assets/css
+
+permalink: pretty
 
 defaults:
   -
