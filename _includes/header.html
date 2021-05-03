@@ -6,7 +6,8 @@
     <meta property="og:image" content="{{ site.url }}{{ page.banner | default: '/images/banner/default-banner.jpg' }}" />
     <meta property="og:title"              content="{{ page.title }}" />
     <meta property="og:description"        content="{{ page.subtitle }}" />
-    
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     {% if jekyll.environment == "production" %}
 
