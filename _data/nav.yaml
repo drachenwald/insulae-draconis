@@ -65,7 +65,7 @@ top:
           url: /newcomers/what-to-expect/
         - page: Finding a local group
           url: /library/useful-resources/findingalocalgroup/
-    - page: Resources of local Groups
+    - page: Resources of local groups
       url: /library/group-resources/
       subsubmenu:
         - page: Bidding for Events
