@@ -1,6 +1,6 @@
 ---
 title: Their Highnesses of Blessed Memory
-redirect_from:
+prevurl:
   - /Library/History/PastCoronets.html
   - /Coronet/Past.html
 ---

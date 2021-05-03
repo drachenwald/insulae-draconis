@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-scribal
-redirect_from: /Activities/AandS/scribalarts.html
+prevurl: /Activities/AandS/scribalarts.html
 title: Scribal Arts in Insulae Draconis
 subtitle: Combining beauty and function
 ---

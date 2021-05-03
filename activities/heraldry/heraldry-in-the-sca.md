@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-herald
-redirect_from: /Activities/Heraldry/heraldry-in-the-sca.html
+prevurl: /Activities/Heraldry/heraldry-in-the-sca.html
 title: Heraldry in the SCA
 subtitle: Genevieve la flechiere
 ---

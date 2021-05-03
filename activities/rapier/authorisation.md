@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-rapier
-redirect_from: /Activities/Rapier/authorisation.html
+prevurl: /Activities/Rapier/authorisation.html
 title: Authorising in historical fencing
 ---
 

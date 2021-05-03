@@ -1,5 +1,5 @@
 ---
-redirect_from:
+prevurl:
  - /Coronet/CoronetTourney.html
 title: Coronet Tourney
 subtitle: The Tournament that decides our next Prince and Princess

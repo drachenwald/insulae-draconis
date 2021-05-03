@@ -1,5 +1,5 @@
 ---
-redirect_from: /Library/Howtos/RunninganEvent.html
+prevurl: /Library/Howtos/RunninganEvent.html
 title: Running an event
 subtitle: Some tips and tricks
 ---

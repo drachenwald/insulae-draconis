@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-armouredcombat
-redirect_from: /Activities/ArmouredCombat/Authorisation.html
+prevurl: /Activities/ArmouredCombat/Authorisation.html
 title: Authorising as an armoured fighter in Insulae Draconis
 subtitle: to fight you must authorise, but what does that mean?
 ---

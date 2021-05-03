@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-groups
-redirect_from: /Library/GroupResources/biddingforevents.html
+prevurl: /Library/GroupResources/biddingforevents.html
 title: Bidding for Events
 ---
 

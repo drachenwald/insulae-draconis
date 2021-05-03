@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-castellan
-redirect_from: /newcomers/chatelaine.html
+prevurl: /newcomers/chatelaine.html
 title: Meet your Castellan
 subtitle: The Castellan welcomes all to our fair principality
 banner: /images/banner/royalty-coronet.jpg

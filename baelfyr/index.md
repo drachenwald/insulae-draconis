@@ -2,7 +2,7 @@
 sidebar: sidebar-chronicler
 title: The Baelfyr
 subtitle: The official newsletter for Insulae Draconis
-redirect_from:
+prevurl:
   - /Library/Publications/TheBaelfyr/index.html
 ---
 
@@ -10,7 +10,7 @@ redirect_from:
 
 ## Subscribe to the monthly newsletter...
 
-The Baelfyr is the best way to find out what's going on in the Principality. It arrives in your email inbox once a month.
+The Baelfyr is the absolute most bestest way to find out what's going on in the Principality. It arrives in your email inbox once a month.
 
 Subscriptions are available from the Chronicler ([chronicler@insulaedraconis.org](mailto:chronicler@insulaedraconis.org)), and will be continued without the need for renewal unless cancelled. Print copies can be provided for a small charge; price upon application to the Chronicler.
 

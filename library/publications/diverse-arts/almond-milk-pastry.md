@@ -3,7 +3,7 @@ sidebar: sidebar-diversearts
 title: Almond milk pastry
 subtitle: An experiment in pastry creation
 subtitle: Lady Edith of Hedringham
-redirect_from: /Library/Publications/DiverseArts/almondmilkpastry.html
+prevurl: /Library/Publications/DiverseArts/almondmilkpastry.html
 ---
 
 

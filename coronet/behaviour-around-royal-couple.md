@@ -1,5 +1,5 @@
 ---
-redirect_from:
+prevurl:
  - /Coronet/behaviour_around_the_royal_couple.html
 title: Behaviour around the royal couple
 ---

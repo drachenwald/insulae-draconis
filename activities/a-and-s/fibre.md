@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-aands
-redirect_from: /Activities/AandS/fibrearts.html
+prevurl: /Activities/AandS/fibrearts.html
 title: Fibre Arts in Insulae Draconis
 ---
 <img src="/images/a-and-s/fibre.jpg" class="rounded float-md-end m-2" alt="" />

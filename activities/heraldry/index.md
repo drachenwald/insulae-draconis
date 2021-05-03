@@ -2,7 +2,7 @@
 title: Heraldry
 subtitle: What is heraldry, and how do I get involved?
 banner: /images/banner/banner-over-raglan.jpg
-redirect_from: /Activities/Heraldry/
+prevurl: /Activities/Heraldry/
 ---
 
 <blockquote class="testimonial">

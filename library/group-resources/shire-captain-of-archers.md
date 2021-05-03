@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-archery
-redirect_from: /Library/GroupResources/ShireCaptainOfArchers.html
+prevurl: /Library/GroupResources/ShireCaptainOfArchers.html
 title: New Shire Officers - Captain of Archers
 ---
 

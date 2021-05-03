@@ -1,7 +1,7 @@
 ---
 title: "The Coronet: Prince &amp; Princess of Insulae Draconis"
 subtitle: Meet our Prince and Princess
-redirect_from:
+prevurl:
   - /prince/progress.html
   - /Coronet/index.html
 ---

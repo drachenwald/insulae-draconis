@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-rapier
-redirect_from: /Activities/Rapier/
+prevurl: /Activities/Rapier/
 title: Historical fencing in Insulae Draconis
 subtitle: For elegant deadliness within the principality
 banner: /images/banner/fencing.jpg

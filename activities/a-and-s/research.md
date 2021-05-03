@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-aands
-redirect_from: /Activities/AandS/research.html
+prevurl: /Activities/AandS/research.html
 title: Research in Insulae Draconis
 ---
 

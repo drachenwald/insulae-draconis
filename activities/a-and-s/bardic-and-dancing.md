@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-aands
-redirect_from: /Activities/AandS/bardicanddancing.html
+prevurl: /Activities/AandS/bardicanddancing.html
 title: The Bardic Arts in Insulae Draconis
 ---
 

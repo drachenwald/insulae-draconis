@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-aands
-redirect_from: /Activities/AandS/competitions.html
+prevurl: /Activities/AandS/competitions.html
 title: Arts and Sciences Competitions
 ---
 

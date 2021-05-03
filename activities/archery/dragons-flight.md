@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-archery
-redirect_from: /Activities/Archery/Shoots/DragonsFlight.html
+prevurl: /Activities/Archery/Shoots/DragonsFlight.html
 title: The Dragons' Flight
 subtitle: An Archery Competition for the Dragon Isles
 ---

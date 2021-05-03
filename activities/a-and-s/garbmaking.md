@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-aands
-redirect_from: /Activities/AandS/garbmaking.html
+prevurl: /Activities/AandS/garbmaking.html
 title: Medieval Garb making and costuming in Insulae Draconis
 subtitle: Clothes fit for the Lords and Ladies of the society
 ---

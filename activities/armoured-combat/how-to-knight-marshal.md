@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-armouredcombat
-redirect_from: /Activities/ArmouredCombat/howtoknightmarshal.html
+prevurl: /Activities/ArmouredCombat/howtoknightmarshal.html
 title: So you're the Knight marshal of your local group - what now?
 subtitle: Practical advice for being a local group Knight marshal
 banner: /images/banner/marshalling.jpg

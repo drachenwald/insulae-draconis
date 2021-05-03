@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar-groups
-redirect_from: /Library/GroupResources/howtosetup.html
+prevurl: /Library/GroupResources/howtosetup.html
 title: How to Set Up a Group
 subtitle: So the nearest Shire is <i>just</i> that little bit far away...
 ---

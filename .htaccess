@@ -3,8 +3,8 @@ layout: none
 ---
 
 {%- for p in site.pages -%}
-{%- if p.redirect_from -%}
-{%- for rfurl in p.redirect_from -%}
+{%- if p.prevurl -%}
+{%- for rfurl in p.prevurl -%}
 Redirect 301 {{ rfurl }} {{ site.url }}{{ p.url }}
 {% assign urlend = rfurl | slice: -10,10 %}
 {%- if urlend == "index.html" -%}
