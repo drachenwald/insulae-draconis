@@ -1,0 +1,184 @@
+titles:
+  aands:
+    title: "Arts and Science Protector"
+    badge: "/images/arts_science_protector.gif"
+  archery:
+    title: "Archery Protector"
+    badge: "/images/archery_protector.gif"
+  heavy:
+    title: "Armoured Combat Protector"
+    badge: "/images/heavy_protector.gif"
+  equestrian:
+    title: "Equestrian Protector"
+    badge: "/images/equestrian_protector.gif"
+  rapier:
+    title: "Rapier Protector"
+    badge: "/images/rapier_protector.gif"
+
+winners:
+  - tournament: Protectors XIV
+    year: 2019
+    venue: Winners for most fields were not announced when the event ended prematurely due to extreme weather.
+
+  - tournament: Protectors XIII
+    year: 2018
+    venue: Raglan Fair XIV
+    protectors:
+    - field: archery
+      name: Lady Ruth of Derlington
+    - field: heavy
+      name: Lord Alex of Derlington
+    - field: aands
+      name: Mistress Rogned Steingrimovna
+    - field: rapier
+      name: Dame Lyonet de Covenham
+
+  - tournament: Protectors XII
+    year: 2017
+    protectors:
+    - field: archery
+      name: Lady Alexa of Derlington
+    - field: heavy
+      name: Duke Vitus Polonius
+    - field: aands
+      name: Lady Alays Lunel
+    - field: rapier
+      name: Master Alexandre d'Avigné
+
+  - tournament: Protectors XI
+    year: 2016
+    protectors:
+    - field: archery
+      name: Alana Utteritch
+    - field: heavy
+      name: Cernac the Inspired
+    - field: aands
+      name: Ysabella-Maria Vasquez de Granada
+    - field: rapier
+      name: Esbiorn Jensson
+
+  - tournament: Protectors X
+    year: 2015
+    protectors:
+    - field: archery
+      name: Lord Thomas Bainbridge of Manchester
+    - field: heavy
+      name: Pan Vitus Polonius
+    - field: aands
+      name: Lady Jahanarabanu Vivana
+    - field: rapier
+      name: Viscount Cernac the Inspired
+
+  - tournament: Protectors IX
+    year: 2014
+    protectors:
+    - field: archery
+      name: Lord Yannick of Normandy
+    - field: heavy
+      name: Lord Alexander of Derlington
+    - field: aands
+      name: Lady Catlin le Mareschale
+    - field: rapier
+      name: Máistir Pól Ó Briain 
+
+  - tournament: Protectors VIII
+    year: 2013
+    protectors:
+    - field: archery
+      name: Barún Pól Ó Briain
+    - field: heavy
+      name: Viscount Cernac the Inspired
+    - field: aands
+      name: Lady Lyonet de Covenham
+    - field: rapier
+      name: Viscount Cernac the Inspired
+
+  - tournament: Protectors VII
+    year: 2012
+    protectors:
+    - field: archery
+      name: Lady Arianrhod
+    - field: heavy
+      name: Pan Vitus Polonius
+    - field: aands
+      name: Lady Catherine Weaver
+    - field: rapier
+      name: Lord Duncan Chaucer
+
+  - tournament: Protectors VI
+    year: 2011
+    protectors:
+    - field: archery
+      name: Barún Pól Ó Briain
+    - field: heavy
+      name: Viscount Cernac the Inspired
+    - field: aands
+      name: Lady Fianna Rua Nic Mhathuna
+    - field: rapier
+      name: Viscount Cernac the Inspired
+
+  - tournament: Protectors V
+    year: 2008
+    protectors:
+    - field: archery
+      name: Lady Valeria delle Stelle
+    - field: heavy
+      name: Sir Vitus Polonius
+    - field: aands
+      name: Lord Peregrine Flamstead
+    - field: rapier
+      name: Lord Cedric Crispin
+
+  - tournament: Protectors IV
+    year: 2007
+    protectors:
+    - field: archery
+      name: Lord Maredudd ap Gwylim
+    - field: heavy
+      name: Barun Pól ó Brain 
+    - field: aands
+      name: Lord Maredudd ap Gwylim
+    - field: equestrian
+      name: Lady Katherine of Glastonbury
+    - field: rapier
+      name: Baron Etienne Fevre de Dion
+
+  - tournament: Protectors III
+    year: 2006
+    protectors:
+    - field: archery
+      name: Lady Katherine of Glastonbury
+    - field: heavy
+      name: Baron Lutr Rakatenwerfer
+    - field: aands
+      name: Baronness Siubhan inghean Fhearghuis
+    - field: rapier
+      name: Lord Caradoc de Tisbury
+
+  - tournament: Protectors II
+    year: 2005
+    protectors:
+    - field: archery
+      name: Roland
+    - field: heavy
+      name: Lord Odo de Han
+    - field: aands
+      name: Lady Freydis Thorfinnsdottir
+    - field: equestrian
+      name: Lady Meg of Breedon
+    - field: rapier
+      name: Lord Athalwolf Ironhand (left Insulae Draconis, replaced by Lord Antonio di Rienzo)
+
+  - tournament: Protectors I
+    year: 2004
+    protectors:
+    - field: archery
+      name: Master Terafan Rhys Greydragon
+    - field: heavy
+      name: Master Terafan Rhys Greydragon
+    - field: aands
+      name: Lady Mariella d’Arrezzo
+    - field: equestrian
+      name: Lady Katherine of Glastonbury
+    - field: rapier
+      name: Master Cernac the Celt
