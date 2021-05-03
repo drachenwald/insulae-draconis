@@ -3,7 +3,24 @@
 	<head>
 		<title>{{ page.title }}</title>
 		<meta charset="utf-8" />
+
+    {% if jekyll.environment == "production" %}
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-53836415-1"></script>
+
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-53836415-1', { 'anonymize_ip': true });
+      </script>
+
+    {% else %}
+
     <meta name="robots" content="noindex">
+
+    {% endif %}
     
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -17,13 +34,17 @@
 
     <header id="header">
 
-      <div class="bg-warning">
-        <div class="container text-center">
-          <i class="fas fa-exclamation-triangle"></i>
-          This website is in development.
-          <a href="https://insulaedraconis.org/">Visit the main website.</a>
+      {% unless jekyll.environment == "production" %}
+
+        <div class="bg-warning">
+          <div class="container text-center">
+            <i class="fas fa-exclamation-triangle"></i>
+            This is a development website.
+            <a href="{{ site.url }}">Visit the main website.</a>
+          </div>
         </div>
-      </div>
+
+      {% endunless %}
 
       <nav id="topmenu" class="navbar navbar-expand-lg navbar-dark bg-primary">
 
