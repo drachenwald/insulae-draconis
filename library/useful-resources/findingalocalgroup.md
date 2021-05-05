@@ -1,6 +1,7 @@
 ---
 title: Finding a local group
 subtitle: Find the Barony, Shire or College closest to you
+prevurl: /Library/UsefulResources/findingalocalgroup.html
 ---
 The Chatelaine or Castellan is the officer that is responsible for welcoming newcomers and they are a good place to start if you want to make contact, ask questions or find out more. If there is no chatelaine listed in your most local group [please email the Insulae Draconis Castellan](mailto:chatelaine@insulaedraconis.org).
 
