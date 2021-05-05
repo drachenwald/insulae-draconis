@@ -80,11 +80,3 @@ We are still in the learning phase with the oven but so far we have found that i
 How hot is hot enough, well when the fire is still going we found the best measure is when you can no longer leave your hand on the oven for any length of time but still being able to touch it was a good measure. 
 
 Good luck!
-
-
-
-### When submitting an article 
-
-This journal is not a corporate publication of the SCA UK CIC, and does not delineate SCA policies. 
-
-For more information on reprinting imqages, artwork and articles from these pages, please contact ??, who will assist you in contacting the original creator of the piece. Please respect the rights of our contributors.
