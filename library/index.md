@@ -48,6 +48,8 @@ banner: /images/banner/scribalDeskTretower.jpg
 
 # Forms, signin sheets and waivers
 
+- [Change of Officer form](https://drachenwald.sca.org/offices/webminister/)
+
 - [Sign In Sheets (for events) Word Doc]({% link library/publications/signinsheet.docx %})
 
 - [Insulae Draconis Event Sign-in Excel Spreadsheet]({% link library/publications/id-sign-in.xlsx %})
