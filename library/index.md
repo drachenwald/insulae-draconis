@@ -18,7 +18,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [What is Court and what is expected of me?]({% link coronet/what-is-court.md %})
 - [What do people mean when they say Recommend someone for an award?]({% link activities/heraldry/awards.md %})
 
-# Howtos
+# How-tos
 
 - [Personas]({% link library/howtos/adopt-a-persona.md %})
 - [Heraldry in the SCA]({% link library/howtos/heraldry-in-sca.md %})
@@ -46,7 +46,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 # Principality Law
 - [Principality Law - PDF]({% link library/publications/ID_Law.pdf %})
 
-# Forms, signin sheets and waivers
+# Forms, sign-in sheets and waivers
 
 - [Change of Officer online form](https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform)
 
