@@ -21,7 +21,7 @@ Every fighter needs inspiration, someone who motivates the to seek the throne in
 
 # Submit a Letter of intent
 
-A letter of intent is simply a note telling us that you wish to enter the tournament. We usually ask fighters to submit their letter of intent by web form a month ahead of the tournament.
+A letter of intent is simply a note telling us that you wish to enter the tournament.
 
 To be eligible to fight you must [be an SCA member](https://membermojo.co.uk/scauk) and that membership must be in date.  If you'd like to enter and don't meet the requirements by the deadline for letters of intent, but will have done so by the day of the tournament, please submit your letter of intent and explain what is going on.  Submitting a letter of intent does not require you to fight; it just lets us know that you intend to do so, and allows us time to do the necessary paperwork. The Victor and Consort must maintain their memberships to the society and subscription(s) to the Baelfyr, without lapse, throughout their tenure.
 
