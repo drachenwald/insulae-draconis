@@ -25,8 +25,7 @@ title: Howtos
 
 ## Running an Event
 
-- [Sign In Sheets (for events) Word Doc]({% link library/publications/signinsheet.docx %})
-- [Insulae Draconis Event Sign-in Excel Spreadsheet]({% link library/publications/id-sign-in.xlsx %})
+- Sign in sheets: [Word format]({% link library/publications/signinsheet202106.docx %}) and [Excel format]({% link library/publications/signinsheet202106.xlsx %})
 - [Some tips and tricks for running an event]({% link library/howtos/running-an-event.md %})
 - [GDPR policy]({% link governance/gdpr.md %}) and [GDPR advice]({% link governance/gdpr-advice.md %})
 
