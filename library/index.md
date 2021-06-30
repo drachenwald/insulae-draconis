@@ -4,6 +4,10 @@ title: Insulae Draconis Library
 banner: /images/banner/scribalDeskTretower.jpg
 ---
 
+# Conduct and behaviour
+
+- [Conduct and Behaviour resources](https://www.sca.org/conduct-behavior-in-the-sca/) at sca.org
+
 # Publications
 
 - [The Baelfyr Monthly Newsletter]({% link baelfyr/index.md %})
