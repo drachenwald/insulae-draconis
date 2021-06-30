@@ -4,6 +4,10 @@ title: Insulae Draconis Library
 banner: /images/banner/scribalDeskTretower.jpg
 ---
 
+# Conduct and behaviour
+
+- [Conduct and Behaviour resources](https://www.sca.org/conduct-behavior-in-the-sca/) at sca.org
+
 # Publications
 
 - [The Baelfyr Monthly Newsletter]({% link baelfyr/index.md %})
@@ -50,6 +54,4 @@ banner: /images/banner/scribalDeskTretower.jpg
 
 - [Change of Officer online form](https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform)
 
-- [Sign In Sheets (for events) Word Doc]({% link library/publications/signinsheet.docx %})
-
-- [Insulae Draconis Event Sign-in Excel Spreadsheet]({% link library/publications/id-sign-in.xlsx %})
+- Sign in sheets for events: [Word format]({% link library/publications/signinsheet202106.docx %}) and [Excel format]({% link library/publications/signinsheet202106.xlsx %})
