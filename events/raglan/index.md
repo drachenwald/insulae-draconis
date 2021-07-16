@@ -69,6 +69,7 @@ Come one, come all to Raglisn't Fair!</h2>
     <td>£120</td>
     <td>£12</td>
   </tr>
+  <tr>
     <td>Family cap, Non-members</td>
     <td>£25</td>
     <td>£75</td>
