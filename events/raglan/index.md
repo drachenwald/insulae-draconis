@@ -4,7 +4,7 @@ subtitle: "13-22 August 2021"
 banner: /images/banner/amphelise_raglan.jpg
 ---
 <h2 style="text-align:center;">
-Come one, come all to Raglisn't Fair!</h3> 
+Come one, come all to Raglisn't Fair!</h2> 
 
 <p>Our usual haunt of Raglan Castle in Wales cannot accommodate us this year due to COVID restrictions, so we are venturing out “on tour” to another site. Come and join us for a relaxed week of camping, fighting, archery, equestrian, arts, sciences, and pastimes with good company, culminating in the Insulae Draconis Coronet Tournament.</p>
 <br>
@@ -17,7 +17,7 @@ Come one, come all to Raglisn't Fair!</h3>
 <p><b>Booking opens Saturday morning, 17th July</b> [via this form](https://forms.gle/HanbYjdkDnLjPQ288).</p>
 <p>Both modern and period camping will be available.</p>
 <br>
-<h3 style="text-align:left;">Pricing:</h4>
+<h3 style="text-align:left;">Pricing:</h3>
 
 |        | Single night | Half event — arr. Thurs 19th or later | Full event | Day trip — per day |
 | ------ | ------ | ------ | ------ | ------ |
