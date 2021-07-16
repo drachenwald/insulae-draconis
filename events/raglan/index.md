@@ -19,17 +19,63 @@ Come one, come all to Raglisn't Fair!</h2>
 <br>
 <h3 style="text-align:left;">Pricing:</h3>
 
-
-| Attendees | Single night | Half event—arr. Thurs 19th or later | Full event | Day trip—per day
-| :------ | :------: | :------: | :------: | :------:
-| **Adult, Member** | £8 | £28 | £4 | £5
-| **Adult, Non-member** | £10 | £30 | £50 | £5
-| **Child 5-16, Member** | £4 | £14 | £24 | £2
-| **Child 5-16, Non-member** | £5 | £15 | £25 | £2
-| **Under 5s** | Free | Free | Free | Free
-| **Family cap, Members** | £20 | £70 | £120 | £12
-| **Family cap, Non-members** | £25 | £75 | £125 | £12
-
+<table>
+  <tr>
+    <th>Attendees</th>
+    <th>Single night</th>
+    <th>Half event <br>(arriving Thurs 19th or later)</th>
+    <th>Full event</th>
+    <th>Day trip<br> (per day)</th>
+  </tr>
+  <tr>
+    <td>Adult, Member</td>
+    <td>£8</td>
+    <td>£28</td>
+    <td>£48</td>
+    <td>£5</td>
+  </tr>
+  <tr>
+    <td>Adult, Non-member</td>
+    <td>£10</td>
+    <td>£30</td>
+    <td>£50</td>
+    <td>£5</td>
+  </tr>
+  <tr>
+    <td>Child 5-16, Member</td>
+    <td>£4</td>
+    <td>£14</td>
+    <td>£24</td>
+    <td>£2</td>
+  </tr>
+  <tr>
+    <td>Child 5-16, Non-member</td>
+    <td>£5</td>
+    <td>£15</td>
+    <td>£25</td>
+    <td>£2</td>
+  </tr>
+  <tr>
+    <td>Under 5s</td>
+    <td>Free</td>
+    <td>Free</td>
+    <td>Free</td>
+    <td>Free</td>
+  </tr>
+  <tr>
+    <td>Family cap, Members</td>
+    <td>£20</td>
+    <td>£70</td>
+    <td>£120</td>
+    <td>£12</td>
+  </tr>
+    <td>Family cap, Non-members</td>
+    <td>£25</td>
+    <td>£75</td>
+    <td>£125</td>
+    <td>£12</td>
+  </tr>
+</table>
 
 <br>
 <h3 style="text-align:left;">
