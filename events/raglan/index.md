@@ -11,10 +11,10 @@ Come one, come all to Raglisn't Fair!</h2>
 <p><b>Dates:</b> Friday 13th August to Sunday 22nd August 2021<br>
 <p><b>Location:</b> Manor Farm, 14 Alms Hill, Bourn, Cambridge CB23 2SH<br>
 <p><b>Event Steward:</b> Amphelise de Wodeham<br>
-<p><b>Steward Contact:</b> raglansteward@insulaedraconis.org
+<p><b>Steward Contact:</b> <a href="mailto:raglansteward@insulaedraconis.org">raglansteward@insulaedraconis.org</a>
 <br>
 <br>
-<p><b>Booking opens Saturday morning, 17th July</b> via this registration form: https://forms.gle/HanbYjdkDnLjPQ288</p>
+<p><b>Booking opens Saturday morning, 17th July</b> <a href="https://forms.gle/HanbYjdkDnLjPQ288">via this registration form.</a></p>
 <p>Both modern and period camping will be available.</p>
 <br>
 <h3 style="text-align:left;">Pricing:</h3>
@@ -75,6 +75,7 @@ Come one, come all to Raglisn't Fair!</h2>
     <td>£75</td>
     <td>£125</td>
     <td>£12</td>
+  
   </tr>
 </table>
 
@@ -90,7 +91,7 @@ Broad schedule:</h3>
 <br>
 <h3 style="text-align:left;">
 About the site:</h3>
-<p>Manor Farm is a historic landmark in the village of Bourn, Cambridgeshire, with many parts of the farm dating back to before the 13th Century.</p>
+<p>Manor Farm is an historic landmark in the village of Bourn, Cambridgeshire, with many parts of the farm dating back to before the 13th Century.</p>
 <br>
 <h3 style="text-align:left;">
 COVID statement:</h3>
