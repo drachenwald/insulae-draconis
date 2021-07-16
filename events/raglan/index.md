@@ -9,29 +9,27 @@ Come one, come all to Raglisn't Fair!</h2>
 <p>Our usual haunt of Raglan Castle in Wales cannot accommodate us this year due to COVID restrictions, so we are venturing out “on tour” to another site. Come and join us for a relaxed week of camping, fighting, archery, equestrian, arts, sciences, and pastimes with good company, culminating in the Insulae Draconis Coronet Tournament.</p>
 <br>
 <p><b>Dates:</b> Friday 13th August to Sunday 22nd August 2021<br>
-<p><b>Location:</b> Manor Farm, 14 Alms Hill, Bourn, Cambridge CB23 2SH<br>
+<p><b>Location:</b> [Manor Farm](http://www.manorfarmbourn.com), 14 Alms Hill, Bourn, Cambridge CB23 2SH<br>
 <p><b>Event Steward:</b> Amphelise de Wodeham<br>
-<p><b>Steward Contact:</b> raglansteward@insulaedraconis.org
+<p><b>Steward Contact:</b> [raglansteward@insulaedraconis.org](mailto:raglansteward@insulaedraconis.org)
 <br>
 <br>
-<p><b>Booking opens Saturday morning, 17th July</b> via this form: https://forms.gle/HanbYjdkDnLjPQ288.</p>
+<p><b>Booking opens Saturday morning, 17th July</b> via [this registration form.](https://forms.gle/HanbYjdkDnLjPQ288)</p>
 <p>Both modern and period camping will be available.</p>
 <br>
 <h3 style="text-align:left;">Pricing:</h3>
 
-
-| Attendees | Single night | Half event — arr. Thurs 19th or later | Full event | Day trip — per day |
+| Attendees | Single night | Half event<br>arr. Thurs 19th or later | Full event | Day trip<br>per day |
 | :------ | :------: | :------: | :------: | :------: |
-| Adult, Member | £8 | £28 | £4 | £5 |
-| Adult, Non-member | £10 | £30 | £50 | £5 |
-| Child 5-16, Member | £4 | £14 | £24 | £2 |
-| Child 5-16, Non-member | £5 | £15 | £25 | £2 |
-| Under 5s | Free | Free | Free | Free |
-| Family cap, Members | £20 | £70 | £120 | £12 |
-| Family cap, Non-members | £25 | £75 | £125 | £12 |
+| **Adult, Member** | £8 | £28 | £4 | £5 |
+| **Adult, Non-member** | £10 | £30 | £50 | £5 |
+| **Child 5-16, Member** | £4 | £14 | £24 | £2 |
+| **Child 5-16, Non-member** | £5 | £15 | £25 | £2 |
+| **Under 5s** | Free | Free | Free | Free |
+| **Family cap, Members** | £20 | £70 | £120 | £12 |
+| **Family cap, Non-members** | £25 | £75 | £125 | £12 |
 
 
-<br>
 <h3 style="text-align:left;">
 Broad schedule:</h3>
 <br>
