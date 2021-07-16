@@ -19,15 +19,15 @@ Come one, come all to Raglisn't Fair!</h2>
 <br>
 <h3 style="text-align:left;">Pricing:</h3>
 
-| Attendees | Single night | Half event—arr. Thurs 19th or later | Full event | Day trip—per day |
-| :------ | :------: | :------: | :------: | :------: |
-| **Adult, Member** | £8 | £28 | £4 | £5 |
-| **Adult, Non-member** | £10 | £30 | £50 | £5 |
-| **Child 5-16, Member** | £4 | £14 | £24 | £2 |
-| **Child 5-16, Non-member** | £5 | £15 | £25 | £2 |
-| **Under 5s** | Free | Free | Free | Free |
-| **Family cap, Members** | £20 | £70 | £120 | £12 |
-| **Family cap, Non-members** | £25 | £75 | £125 | £12 |
+| Attendees | Single night | Half event—arr. Thurs 19th or later | Full event | Day trip—per day
+| :------ | :------: | :------: | :------: | :------:
+| **Adult, Member** | £8 | £28 | £4 | £5
+| **Adult, Non-member** | £10 | £30 | £50 | £5
+| **Child 5-16, Member** | £4 | £14 | £24 | £2
+| **Child 5-16, Non-member** | £5 | £15 | £25 | £2
+| **Under 5s** | Free | Free | Free | Free
+| **Family cap, Members** | £20 | £70 | £120 | £12
+| **Family cap, Non-members** | £25 | £75 | £125 | £12
 
 <br>
 <h3 style="text-align:left;">
