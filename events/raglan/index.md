@@ -20,7 +20,7 @@ Come one, come all to Raglisn't Fair!</h2>
 <h3 style="text-align:left;">Pricing:</h3>
 
 | Attendees | Single night | Half event — arr. Thurs 19th or later | Full event | Day trip — per day |
-| ------ | ------ | ------ | ------ | ------ |
+| :------ | :------: | :------: | :------: | :------: |
 | Adult, Member | £8 | £28 | £4 | £5 |
 | Adult, Non-member | £10 | £30 | £50 | £5 |
 | Child 5-16, Member | £4 | £14 | £24 | £2 |
@@ -30,7 +30,7 @@ Come one, come all to Raglisn't Fair!</h2>
 | Family cap, Non-members | £25 | £75 | £125 | £12 |
 
 <br>
-<h3 style="text-align:center;">
+<h3 style="text-align:left;">
 Broad schedule:</h3>
 <br>
 <p><b>Friday 13th—Sunday 15th:</b> site set-up and organisation. All are welcome!<br>
@@ -39,11 +39,11 @@ Broad schedule:</h3>
 <p><b>Sunday 22nd:</b> Pack down and departure.
 <br>
 <br>
-<h3 style="text-align:center;">
+<h3 style="text-align:left;">
 About the site:</h3>
 <p>Manor Farm is a historic landmark in the village of Bourn, Cambridgeshire, with many parts of the farm dating back to before the 13th Century.</p>
 <br>
-<h3 style="text-align:center;">
+<h3 style="text-align:left;">
 COVID statement:</h3>
 <p>The steward, seneschal and other organisers are that many of you may be hesitant about this first event after such a long time.</p>
 <p>We will be taking all possible measures to reduce risk, including requiring lateral flow tests prior to arrival, providing hand sanitiser, and requesting that masks be worn in crowded or indoor settings.</p>
