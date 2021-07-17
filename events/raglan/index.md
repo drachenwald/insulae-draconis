@@ -9,7 +9,7 @@ Come one, come all to Raglisn't Fair!</h2>
 <p>Our usual haunt of Raglan Castle in Wales cannot accommodate us this year due to COVID restrictions, so we are venturing out “on tour” to another site. Come and join us for a relaxed week of camping, fighting, archery, equestrian, arts, sciences, and pastimes with good company, culminating in the Insulae Draconis Coronet Tournament.</p>
 <br>
 <p><b>Dates:</b> Friday 13th August to Sunday 22nd August 2021<br>
-<p><b>Location:</b> Manor Farm, 14 Alms Hill, Bourn, Cambridge CB23 2SH<br>
+<p><b>Location:</b> <a href="http://manorfarmbourn.com">Manor Farm</a>, 14 Alms Hill, Bourn, Cambridge CB23 2SH<br>
 <p><b>Event Steward:</b> Amphelise de Wodeham<br>
 <p><b>Steward Contact:</b> <a href="mailto:raglansteward@insulaedraconis.org">raglansteward@insulaedraconis.org</a>
 <br>
@@ -95,6 +95,6 @@ About the site:</h3>
 <br>
 <h3 style="text-align:left;">
 COVID statement:</h3>
-<p>The steward, seneschal and other organisers are that many of you may be hesitant about this first event after such a long time.</p>
+<p>The steward, seneschal and other organisers are aware that many of you may be hesitant about this first event after such a long time.</p>
 <p>We will be taking all possible measures to reduce risk, including requiring lateral flow tests prior to arrival, providing hand sanitiser, and requesting that masks be worn in crowded or indoor settings.</p>
 <p>All government guidelines will be followed, including the cancellation of the event should new restrictions be introduced.</p>
