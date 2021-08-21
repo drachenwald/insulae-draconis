@@ -11,7 +11,7 @@ pages:
   stage: deploy
   script:
     - curl -o _data/regnum.json https://scripts.drachenwald.sca.org/json/regnum-officers-box.json
-    - bundle install --path vendor
+    - bundle install
     - bundle exec jekyll build -d public
     - ./_ci/cf-clear.sh
   artifacts:
