@@ -6,3 +6,4 @@ _site
 public/
 _data/events/*.csv
 _data/regnum.json
+vendor/
