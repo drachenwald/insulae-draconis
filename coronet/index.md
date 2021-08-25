@@ -11,18 +11,21 @@ prevurl:
       <tr>
         <td width="50%" style="text-align: right">
           <h2>Prince</h2>
-          <strong>Avery of Westfall</strong><br>
+          <strong>Siridean MacLachlan</strong><br>
           <a href="mailto:prince@insulaedraconis.org" >prince@insulaedraconis.org</a>
         </td>
         <td width="50%" style="text-align: left"><h2>Princess</h2>
-            <strong>Zoë of Enstone</strong><br>
+            <strong>Rogned Steingrimovicha </strong><br>
           <a href="mailto:princess@insulaedraconis.org">princess@insulaedraconis.org</a> <br></td>
       </tr>
       <tr>
         <td colspan="2" style="text-align: center">
-          <img width="400" height="377" src="/coronet/images/avery-zoe.jpg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
+          <img width="400" src="/coronet/images/siridean-rogned.jpg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
         </td>
       </tr>
+
+       {% comment %}
+
       <tr>
         <td>His Highness is interested in leatherwork, listening to bards, sampling brewing, revels, period environments, archery, rapier, and armoured combat.</td>
         <td>Her Highness is interested in dancing, learning about different periods of garb, historical hairstyling and makeup, embroidery, archery, brewing, cooking, and baking.</td>
@@ -66,6 +69,8 @@ prevurl:
          Please don't feed her Highness: Caffeine, strong fish (e.g. mackerel, salmon), oranges, nor orange juice.
         </td>
       </tr>
+
+{% endcomment %}
 
   </tbody>
   </table>
