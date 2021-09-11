@@ -83,14 +83,17 @@ prevurl:
       <tr>
         <td><strong>Captain of the Knyaginya's Guard</strong></td>
         <td>Lord Ünegan of Eplaheimr</td>
+        <td></td>
       </tr>
       <tr>
         <td><strong>Herald</strong></td>
         <td>Viscountess Genevieve la Flechière (Ireland)</td>
+        <td></td>
         </tr>
       <tr>
         <td><strong>Chamberlain (Knyaginya)</strong></td>
         <td>Viscountess Susannah of York</td>
+        <td></td>
         </tr>
       <tr>
         <td><strong>Head Ladies in Waiting to the Knyaginya</strong></td>
@@ -100,6 +103,7 @@ prevurl:
       <tr>
         <td><strong>Master of Revels</strong></td>
         <td>Lord Cúchulainn</td>
+        <td></td>
       </tr>
        <tr>
         <td><strong>Royal Advisors</strong></td>
