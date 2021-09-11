@@ -27,27 +27,27 @@ prevurl:
        {% comment %}
 
       <tr>
-        <td>His Highness is interested in leatherwork, listening to bards, sampling brewing, revels, period environments, archery, rapier, and armoured combat.</td>
-        <td>Her Highness is interested in dancing, learning about different periods of garb, historical hairstyling and makeup, embroidery, archery, brewing, cooking, and baking.</td>
+        <td>His Highness is interested in </td>
+        <td>Her Highness is interested in arts & Sciences of ALL kinds, including bardic, textiles & garb, archery, fencing, armoured combat, revelry.</td>
       </tr>
       <tr>
-        <td>His Highness likes newcomers, laughter, beautiful courts, when the crowd can tell who won a fight.</td>
-        <td>Her Highness likes dancing, trying new skills, listening to stories, and activities that bring a wide range of people together to make them feel included.</td>
-      </tr>
-      <tr>
-        <td>
-        His Highness would like events to feature accurate and easy-to-understand information on the Calendar and Facebook for newcomers, comfortable places to socialise.
-        </td>
-        <td>
-        Her Highness would like events to feature dancing & dance lessons! Printed timetables for the activities.
-        </td>
+        <td>His Highness likes </td>
+        <td>Her Highness likes Newcomers, bardic performances, beautiful words and courts, and flowers.</td>
       </tr>
       <tr>
         <td>
-         His Highness dislikes anything that makes it hard for newcomers to get involved, being the reason people are late.
+        His Highness would like events to feature 
         </td>
         <td>
-         Her Highness dislikes not knowing what time she needs to be somewhere, rushing to get ready.
+        Her Highness would like events to feature welcoming and inclusiveness of newcomers, conversations and more bardic and games!
+        </td>
+      </tr>
+      <tr>
+        <td>
+         His Highness dislikes 
+        </td>
+        <td>
+         Her Highness dislikes when schedules are too busy and the inability to relax at events.
         </td>
       </tr>
       <tr>
@@ -55,18 +55,18 @@ prevurl:
       </tr>
       <tr>
         <td>
-         Please feed his Highness: Red meat, salami, cheese, vegetables, granola, streaky bacon, pastries, beer, mead, whiskey, strong coffee with cream, and stronger licorice.
+         Please feed his Highness: 
         </td>
         <td>
-         Please feed her Highness: Vegetables, berries, chickpeas, oats, chicken, stews, salads, dark chocolate, Scotch whisky, sweets, and decaffeinated tea.
+         Please feed her Highness: meat, fish, cheese, above-ground vegetables, strawberries, raspberries, blueberries, blackberries, mead, rum, white wine, strong coffee, water, nuts, very dark chocolate, unsweetened almond milk, almond flour, cream, & butter. Her Highness has no allergies. 
         </td>
       </tr>
       <tr>
         <td>
-         Please don't feed his Highness: Shellfish, sugary drinks.
+         Please don't feed his Highness: 
         </td>
         <td>
-         Please don't feed her Highness: Caffeine, strong fish (e.g. mackerel, salmon), oranges, nor orange juice.
+         Please don't feed her Highness: organ meats, refined sugar, milk, grain/grain products, citrus fruits or their juice, shellfish.
         </td>
       </tr>
 
@@ -75,40 +75,40 @@ prevurl:
   </tbody>
   </table>
   
-  {% comment %}
 
   <br>
   <h2>The Royal Household</h2>
  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <td><strong>Armoured Champion</strong></td>
-        <td></td>
+        <td><strong>Captain of the Knyaginya's Guard</strong></td>
+        <td>Lord Ünegan of Eplaheimr</td>
       </tr>
       <tr>
-        <td><strong>Court Musician</strong></td>
-        <td> </td>
+        <td><strong>Herald</strong></td>
+        <td>Viscountess Genevieve la Flechière (Ireland)</td>
         </tr>
       <tr>
-        <td><strong>Cellarer</strong></td>
-        <td></td>
+        <td><strong>Chamberlain (Knyaginya)</strong></td>
+        <td>Viscountess Susannah of York</td>
         </tr>
       <tr>
-        <td><strong>Keeper of the Regalia (Lough Devnaree)</strong></td>
-        <td></td>
+        <td><strong>Head Ladies in Waiting to the Knyaginya</strong></td>
+        <td>Lady Edel de Chadewykke (Ireland)</td>
+        <td>Lady Euphrosyne Eirenikina (Britain)</td>
       </tr>
       <tr>
-        <td><strong>Rapier Champion</strong></td>
-        <td></td>
+        <td><strong>Master of Revels</strong></td>
+        <td>Lord Cúchulainn</td>
       </tr>
-      <tr>
-        <td><strong>Chief Lady in Waiting</strong></td>
-        <td></td>
+       <tr>
+        <td><strong>Royal Advisors</strong></td>
+        <td>Suren Jahanara Vivanu Banu</td>
+        <td>Lady Meadhbh Rois Ineagh UíCaoimhe</td>
       </tr>
       </tbody>
   </table>
 
-{% endcomment %}
 
 <br />
 
