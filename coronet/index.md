@@ -10,13 +10,16 @@ prevurl:
     <tbody>
       <tr>
         <td width="50%" style="text-align: right">
-          <h2>Prince</h2>
+          <h2>Knyaz (Prince)</h2>
           <strong>Siridean MacLachlan</strong><br>
           <a href="mailto:prince@insulaedraconis.org" >prince@insulaedraconis.org</a>
+          <p>князь (pronounced 'Kin-YAzh')</p>
         </td>
-        <td width="50%" style="text-align: left"><h2>Princess</h2>
+        <td width="50%" style="text-align: left"><h2>Knyaginya (Princess)</h2>
             <strong>Rogned Stengrimova </strong><br>
-          <a href="mailto:princess@insulaedraconis.org">princess@insulaedraconis.org</a> <br></td>
+          <a href="mailto:princess@insulaedraconis.org">princess@insulaedraconis.org</a> <br>
+          <p>княгиня (pronounced 'Kin-YA-zhin-ya')</p>
+          </td>
       </tr>
       <tr>
         <td colspan="2" style="text-align: center">
