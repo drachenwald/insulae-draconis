@@ -32,8 +32,8 @@ prevurl:
         <td>Her Highness is interested in arts & sciences of ALL kinds, including bardic, textiles & garb, archery, fencing, armoured combat, revelry.</td>
       </tr>
       <tr>
-        <td>His Highness likes Learning new things, storytelling, sitting around and chatting, bardic circles, hearing people laughing and having a good time.</td>
-        <td>Her Highness likes Newcomers, bardic performances, beautiful words and courts, and flowers.</td>
+        <td>His Highness likes learning new things, storytelling, sitting around and chatting, bardic circles, hearing people laughing and having a good time.</td>
+        <td>Her Highness likes newcomers, bardic performances, beautiful words and courts, and flowers.</td>
       </tr>
       <tr>
         <td>
