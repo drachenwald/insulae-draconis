@@ -27,19 +27,17 @@ prevurl:
         </td>
       </tr>
 
-       {% comment %}
-
       <tr>
-        <td>His Highness is interested in </td>
-        <td>Her Highness is interested in arts & Sciences of ALL kinds, including bardic, textiles & garb, archery, fencing, armoured combat, revelry.</td>
+        <td>His Highness is interested in martial arts, archery, bardic arts and trying to make sure folks have a good time.</td>
+        <td>Her Highness is interested in arts & sciences of ALL kinds, including bardic, textiles & garb, archery, fencing, armoured combat, revelry.</td>
       </tr>
       <tr>
-        <td>His Highness likes </td>
+        <td>His Highness likes Learning new things, storytelling, sitting around and chatting, bardic circles, hearing people laughing and having a good time.</td>
         <td>Her Highness likes Newcomers, bardic performances, beautiful words and courts, and flowers.</td>
       </tr>
       <tr>
         <td>
-        His Highness would like events to feature 
+        His Highness would like events to feature flexible booking options so more people can attend in a way that fits their needs.
         </td>
         <td>
         Her Highness would like events to feature welcoming and inclusiveness of newcomers, conversations and more bardic and games!
@@ -47,18 +45,18 @@ prevurl:
       </tr>
       <tr>
         <td>
-         His Highness dislikes 
+         His Highness dislikes being rushed or excessively overbooked events.
         </td>
         <td>
-         Her Highness dislikes when schedules are too busy and the inability to relax at events.
+         Her Highness dislikes when schedules are too busy, and the inability to relax at events.
         </td>
       </tr>
       <tr>
-        <th colspan="2" style="text-align: center"><i>Regarding food</i></th>
+        <th colspan="2" style="text-align: center"><i><b>Regarding food</b></i></th>
       </tr>
       <tr>
         <td>
-         Please feed his Highness: 
+         Please feed his Highness: just about any food. He likes trying local food/drink, which is <i>not</i> a challenge to find something he does not like.  He prefers to drink still water, coke, scotch/whisky, beer and red wine (not dry).
         </td>
         <td>
          Please feed her Highness: meat, fish, cheese, above-ground vegetables, strawberries, raspberries, blueberries, blackberries, mead, rum, white wine, strong coffee, water, nuts, very dark chocolate, unsweetened almond milk, almond flour, cream, & butter. Her Highness has no allergies. 
@@ -66,14 +64,12 @@ prevurl:
       </tr>
       <tr>
         <td>
-         Please don't feed his Highness: 
+         Please don't feed his Highness: Organ meat (allergy) or overly spicy foods; some heat is OK just not too much.
         </td>
         <td>
          Please don't feed her Highness: organ meats, refined sugar, milk, grain/grain products, citrus fruits or their juice, shellfish.
         </td>
       </tr>
-
-{% endcomment %}
 
   </tbody>
   </table>
