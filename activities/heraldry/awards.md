@@ -47,9 +47,9 @@ This  Order’s membership have been recognised for their service to the Society
 
 ### The Order of Luna
 
-_For valued contribution in a short time_
+_For valued contribution in a finite length of time_
 
-Sometimes people join the Isles and make a big impact in a short time. Whether they are here permanently or just visit and do excellent work to make our game better, we want to recognise what they do.
+It sometimes happens that people come to the Isles, have a big impact while they're here, and then leave our shores. Whether they stay for a long time, or just visit for a short while, we want to recognize the legacy of their excellent work to make our Principality better.
 
 ### The Order of St Hild
 
