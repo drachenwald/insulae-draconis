@@ -57,7 +57,7 @@ _For teaching what you know_
 
 One of the strengths of the Society is how freely folks share their knowledge and craft. We have a lot of classes and chances to practice skills together, and many people take time and effort to improve the skills of others. This honour is for those people. 
 
-### Order of the winged pouch
+### Order of the Winged Pouch
 
 _To recognise the work children do_
 
