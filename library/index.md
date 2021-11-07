@@ -31,6 +31,9 @@ banner: /images/banner/scribalDeskTretower.jpg
 # Charters
 - [Fibre Guild Charter]({% link library/charters/fibre-guild-charter.md %})
 
+# Fundraising
+- [Insulae Draconis Navy]
+
 # Group resources
 
 - [How to be a Group Seneschal]({% link library/group-resources/shire-seneschal.md %})
