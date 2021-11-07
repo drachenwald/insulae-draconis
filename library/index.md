@@ -32,7 +32,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Fibre Guild Charter]({% link library/charters/fibre-guild-charter.md %})
 
 # Fundraising
-- [Insulae Draconis Navy]
+- [Insulae Draconis Navy]({% link library/fundraising/jointhenavy.md %})
 
 # Group resources
 
