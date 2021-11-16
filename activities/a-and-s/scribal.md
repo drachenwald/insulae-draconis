@@ -4,10 +4,33 @@ prevurl: /Activities/AandS/scribalarts.html
 title: Scribal Arts in Insulae Draconis
 subtitle: Combining beauty and function
 ---
+## Announcing: the Insulae Draconis blank competition! Sponsored by Their Highnesses and the signet office.
+
+YOU COULD WIN GOLD!
+
+That’s right. The prize is a pack of 25 sheets of 24 carat transfer gold. Double thick, because that’s the way I roll. (And it does make a visible difference, imho.)
+
+**Between now and 25 March** (Lady day, a rent day), send me, the signet of the isles, blanks for the use of Insulae Draconis. For each scroll you send me I will put your name into a hat. Three blanks, three entries to win gold. Ten blanks, ten chances.
+
+On 26 March, I will draw a single name out of the hat, ask for the winner’s address, and send them gold.
+
+All scribes in the kingdom or who are of the Popular Company of Sojourners are welcome to submit.
+
+Please PM or email me at daylightjam at gmail dot com for my address when you are ready to ship.
+
+Thank all of you for the work you do!
+
+_Ari Mala_
+
+Insulae Draconis signet officer
+
+
+
+## The Scribal Arts
 
 The scribal arts of calligraphy, illumination and gilding were used in the Middle Ages to create beautiful scrolls, manuscripts, legal documents, and both religious and secular books.   We have a thriving community of scribes in Insulae Draconis who learn many skills in addition to the calligraphy hands and illumination techniques of their favourite historical period.  Maybe you've wondered how a quill was cut, ink was made or pigments blended?  All over the Isles scribes practice Medieval techniques to recreate the look of a huge range of historical documents.  These documents are in high demand from other people in the Society, as they can be used as contracts, agreements, promissory notes and, most notably, as physical representations of the various [awards and achievements]({% link activities/heraldry/awards.md %}) people earn.  There is always work for a scribe, and signing up to create award scrolls is the best way to ensuring you are constantly learning new skills and improving your existing ones, as well as having your work appreciated!  You can work on scrolls as a calligrapher or illuminator, or handle both yourself.  
 
-## The Scribal Arts 
+## The Scribal Arts include
 
 - Calligraphy 
 - Illumination
