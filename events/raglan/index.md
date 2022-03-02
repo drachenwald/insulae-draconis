@@ -1,6 +1,6 @@
 ---
 title: "Raglan Fair"
-subtitle: Watch this space
+subtitle: August 5-15 2022
 banner: /images/banner/amphelise_raglan.jpg
 ---
 <h2 style="text-align:center;">
