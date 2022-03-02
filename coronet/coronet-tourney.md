@@ -7,13 +7,10 @@ banner: /images/banner/royalty-coronet.jpg
 ---
 The thrones of Insulae Draconis must be won by right of arms, and the tourney is always an [Armoured Combat Tourney]({% link activities/armoured-combat/index.md %}).  The tourney itself takes place at 9 month intervals, at different locations around Insulae Draconis, and is part of a weekend of activities.  This is a great event to meet people from other Shires as people make a special effort to attend to see who will be our next Prince and Princess and to celebrate with them. 
 
-{% comment %}
+# Coronet May 2022
 
-# Coronet February 2020
+The next Coronet Tourney will take place at [Linnet Clough scout camp](https://sites.google.com/view/idcoronet2020sca) from <b>6-8 May, 2022</b>. [Find out more at the event website](https://sites.google.com/view/idcoronet2022/home?authuser=0&fbclid=IwAR13H4MV9bVM2e7lg6vE4eW_BGD2wgbDAYYqFLXr0BT_4bsA8QM4qZZKYIU).
 
-The next Coronet Tourney will take place at [Linnet Clough scout camp](https://sites.google.com/view/idcoronet2020sca) on 21-23 February 2020. 
-
-{% endcomment %}
 
 # Be inspired by a consort
 
