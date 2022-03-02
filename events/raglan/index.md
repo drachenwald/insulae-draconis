@@ -4,7 +4,7 @@ subtitle: August 5-15 2022
 banner: /images/banner/amphelise_raglan.jpg
 ---
 <h2 style="text-align:center;">
-Raglan Fair 2022</h2> 
+Raglan Fair August 5-15 2022</h2> 
 
 <p><b>Event Steward:</b> Shirin Peroz-Duxt<br>
 <b>Steward Contact:</b> <a href="mailto:raglansteward@insulaedraconis.org">raglansteward@insulaedraconis.org</a></p>
