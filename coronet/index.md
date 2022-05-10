@@ -5,7 +5,6 @@ prevurl:
   - /prince/progress.html
   - /Coronet/index.html
 ---
-
 <table class="table table-striped">
     <tbody>
       <tr>
