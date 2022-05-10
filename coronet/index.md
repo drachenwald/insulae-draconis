@@ -19,12 +19,13 @@ prevurl:
           <a href="mailto:princess@insulaedraconis.org">princess@insulaedraconis.org</a> <br>
           </td>
       </tr>
+      {% comment %}
       <tr>
         <td colspan="2" style="text-align: center">
           <img width="400" src="/coronet/images/siridean-rogned.jpg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
         </td>
       </tr>
-{% comment %}
+
       <tr>
         <td>His Highness is interested in martial arts, archery, bardic arts and trying to make sure folks have a good time.</td>
         <td>Her Highness is interested in arts & sciences of ALL kinds, including bardic, textiles & garb, archery, fencing, armoured combat, revelry.</td>
