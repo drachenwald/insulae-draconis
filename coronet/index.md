@@ -9,38 +9,45 @@ prevurl:
     <tbody>
       <tr>
         <td width="50%" style="text-align: right">
-          <h2>Prince</h2>
-          <strong>Ranulf li Norreis</strong><br>
+          <h2>Knyaz (Prince)</h2>
+          <strong>Siridean MacLachlan</strong><br>
           <a href="mailto:prince@insulaedraconis.org" >prince@insulaedraconis.org</a>
+          <p>князь (pronounced 'Kin-YAzh')</p>
         </td>
-        <td width="50%" style="text-align: left"><h2>Princess</h2>
-            <strong>Euphrosyne Eirenikina</strong><br>
+        <td width="50%" style="text-align: left"><h2>Knyaginya (Princess)</h2>
+            <strong>Rogned Stengrimova </strong><br>
           <a href="mailto:princess@insulaedraconis.org">princess@insulaedraconis.org</a> <br>
+          <p>княгиня (pronounced 'Kin-YA-zhin-ya')</p>
           </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center">
+          <img width="400" src="/coronet/images/siridean-rogned.jpg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
+        </td>
       </tr>
 
       <tr>
-        <td>His Highness is interested in: </td>
-        <td>Her Highness is interested in: </td>
+        <td>His Highness is interested in martial arts, archery, bardic arts and trying to make sure folks have a good time.</td>
+        <td>Her Highness is interested in arts & sciences of ALL kinds, including bardic, textiles & garb, archery, fencing, armoured combat, revelry.</td>
       </tr>
       <tr>
-        <td>His Highness likes: </td>
-        <td>Her Highness likes: </td>
-      </tr>
-      <tr>
-        <td>
-        His Highness would like events to feature: 
-        </td>
-        <td>
-        Her Highness would like events to feature: 
-        </td>
+        <td>His Highness likes learning new things, storytelling, sitting around and chatting, bardic circles, hearing people laughing and having a good time.</td>
+        <td>Her Highness likes newcomers, bardic performances, beautiful words and courts, and flowers.</td>
       </tr>
       <tr>
         <td>
-         His Highness dislikes: 
+        His Highness would like events to feature flexible booking options so more people can attend in a way that fits their needs.
         </td>
         <td>
-         Her Highness dislikes: 
+        Her Highness would like events to feature welcoming and inclusiveness of newcomers, conversations and more bardic and games!
+        </td>
+      </tr>
+      <tr>
+        <td>
+         His Highness dislikes being rushed or excessively overbooked events.
+        </td>
+        <td>
+         Her Highness dislikes when schedules are too busy, and the inability to relax at events.
         </td>
       </tr>
       <tr>
@@ -48,18 +55,18 @@ prevurl:
       </tr>
       <tr>
         <td>
-         Please feed his Highness: 
+         Please feed his Highness: just about any food. He likes trying local food/drink, which is <i>not</i> a challenge to find something he does not like.  He prefers to drink still water, coke, scotch/whisky, beer and red wine (not dry).
         </td>
         <td>
-         Please feed her Highness:  
+         Please feed her Highness: meat, fish, cheese, above-ground vegetables, strawberries, raspberries, blueberries, blackberries, mead, rum, white wine, strong coffee, water, nuts, very dark chocolate, unsweetened almond milk, almond flour, cream, & butter. Her Highness has no allergies. 
         </td>
       </tr>
       <tr>
         <td>
-         Please don't feed his Highness: 
+         Please don't feed his Highness: Organ meat (allergy) or overly spicy foods; some heat is OK just not too much.
         </td>
         <td>
-         Please don't feed her Highness: 
+         Please don't feed her Highness: organ meats, refined sugar, milk, grain/grain products, citrus fruits or their juice, shellfish.
         </td>
       </tr>
 
@@ -72,28 +79,40 @@ prevurl:
  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <td><strong>Captain of the Guard</strong></td>
-        <td>--</td>
+        <td><strong>Captain of the Knyaginya's Guard</strong></td>
+        <td>Lord Ünegan of Eplaheimr</td>
+        <td></td>
       </tr>
       <tr>
         <td><strong>Herald</strong></td>
-        <td>--</td>
+        <td>Viscountess Genevieve la Flechière (Ireland)</td>
+        <td></td>
         </tr>
       <tr>
-        <td><strong>Chamberlain</strong></td>
-        <td>--</td>
+        <td><strong>Chamberlain (Knyaginya)</strong></td>
+        <td>Viscountess Susannah of York</td>
+        <td></td>
         </tr>
       <tr>
-        <td><strong>Head Lady in Waiting</strong></td>
-        <td>--</td>
+        <td><strong>Head Ladies in Waiting to the Knyaginya</strong></td>
+        <td>Lady Edel de Chadewykke (Ireland)</td>
+        <td>Lady Euphrosyne Eirenikina (Britain)</td>
       </tr>
       <tr>
+        <td><strong>Master of Revels</strong></td>
+        <td>Lord Cúchulainn</td>
+        <td></td>
+      </tr>
        <tr>
         <td><strong>Royal Advisors</strong></td>
-        <td>--</td>
+        <td>Suren Jahanara Vivanu Banu</td>
+        <td>Lady Meadhbh Rois Ineagh UíCaoimhe</td>
       </tr>
       </tbody>
   </table>
+
+
+<br />
 
 <br />
 <div id="mainContent">

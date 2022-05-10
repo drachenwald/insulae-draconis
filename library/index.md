@@ -11,7 +11,6 @@ banner: /images/banner/scribalDeskTretower.jpg
 # Publications
 
 - [The Baelfyr Monthly Newsletter]({% link baelfyr/index.md %})
-- [Insulae Draconis Book of Ceremonies](https://insulaedraconis.gitlab.io/ceremonies/) (and the [source repository](https://gitlab.com/insulaedraconis/ceremonies))
 
 # Newcomers Guides
 
@@ -31,9 +30,6 @@ banner: /images/banner/scribalDeskTretower.jpg
 
 # Charters
 - [Fibre Guild Charter]({% link library/charters/fibre-guild-charter.md %})
-
-# Fundraising
-- [Insulae Draconis Navy]({% link library/fundraising/jointhenavy.md %})
 
 # Group resources
 
