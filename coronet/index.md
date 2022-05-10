@@ -25,7 +25,8 @@ prevurl:
           <img width="400" src="/coronet/images/siridean-rogned.jpg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
         </td>
       </tr>
-
+{% endcomment %}
+{% comment %}
       <tr>
         <td>His Highness is interested in martial arts, archery, bardic arts and trying to make sure folks have a good time.</td>
         <td>Her Highness is interested in arts & sciences of ALL kinds, including bardic, textiles & garb, archery, fencing, armoured combat, revelry.</td>
