@@ -5,7 +5,7 @@ prevurl:
   - /prince/progress.html
   - /Coronet/index.html
 ---
-<table class="table table-striped">
+<table class="table table-striped" style="align: center">
     <tbody>
       <tr>
         <td width="50%" style="text-align: right">
@@ -19,7 +19,83 @@ prevurl:
           </td>
       </tr>
 
+      <tr>
+        <td>His Highness is interested in: </td>
+        <td>Her Highness is interested in: </td>
+      </tr>
+      <tr>
+        <td>His Highness likes: </td>
+        <td>Her Highness likes: </td>
+      </tr>
+      <tr>
+        <td>
+        His Highness would like events to feature: 
+        </td>
+        <td>
+        Her Highness would like events to feature: 
+        </td>
+      </tr>
+      <tr>
+        <td>
+         His Highness dislikes: 
+        </td>
+        <td>
+         Her Highness dislikes: 
+        </td>
+      </tr>
+      <tr>
+        <th colspan="2" style="text-align: center"><i><b>Regarding food</b></i></th>
+      </tr>
+      <tr>
+        <td>
+         Please feed his Highness: 
+        </td>
+        <td>
+         Please feed her Highness:  
+        </td>
+      </tr>
+      <tr>
+        <td>
+         Please don't feed his Highness: 
+        </td>
+        <td>
+         Please don't feed her Highness: 
+        </td>
+      </tr>
 
+  </tbody>
+  </table>
+  
+
+  <br>
+  <h2>The Royal Household</h2>
+ <table width="500" cellspacing="0" cellpadding="2">
+    <tbody>
+      <tr>
+        <td><strong>Captain of the Guard</strong></td>
+        <td>--</td>
+      </tr>
+      <tr>
+        <td><strong>Herald</strong></td>
+        <td>--</td>
+        </tr>
+      <tr>
+        <td><strong>Chamberlain</strong></td>
+        <td>--</td>
+        </tr>
+      <tr>
+        <td><strong>Head Lady in Waiting</strong></td>
+        <td>--</td>
+      </tr>
+      <tr>
+       <tr>
+        <td><strong>Royal Advisors</strong></td>
+        <td>--</td>
+      </tr>
+      </tbody>
+  </table>
+
+<br />
 <div id="mainContent">
 
   <h2><a name="progress"></a>Progress of the Prince and Princess</h2>
