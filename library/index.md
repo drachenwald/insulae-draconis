@@ -11,7 +11,6 @@ banner: /images/banner/scribalDeskTretower.jpg
 # Publications
 
 - [The Baelfyr Monthly Newsletter]({% link baelfyr/index.md %})
-- [Insulae Draconis Book of Ceremonies](https://insulaedraconis.gitlab.io/ceremonies/) (and the [source repository](https://gitlab.com/insulaedraconis/ceremonies))
 
 # Newcomers Guides
 
