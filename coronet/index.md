@@ -5,8 +5,7 @@ prevurl:
   - /prince/progress.html
   - /Coronet/index.html
 ---
-
-<table class="table table-striped">
+<table class="table table-striped" style="align: center">
     <tbody>
       <tr>
         <td width="50%" style="text-align: right">
@@ -115,6 +114,7 @@ prevurl:
 
 <br />
 
+<br />
 <div id="mainContent">
 
   <h2><a name="progress"></a>Progress of the Prince and Princess</h2>
