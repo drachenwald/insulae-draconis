@@ -99,3 +99,6 @@ Master Duncan Kerr & Mistress Constanza of Thamesreach
 
 Coronet XVII, (February 2020 to August 2021)  
 Sir Avery of Westfall & Zoë of Enstone
+
+Coronet XVIII, (August 2021 to May 2022)  
+Duke Siridean MacLachlan & Mistress Rogned Stengrimova
