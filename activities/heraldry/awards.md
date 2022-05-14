@@ -57,6 +57,12 @@ _For teaching what you know_
 
 One of the strengths of the Society is how freely folks share their knowledge and craft. We have a lot of classes and chances to practice skills together, and many people take time and effort to improve the skills of others. This honour is for those people. 
 
+### The Order of The Sun and Pearl
+
+_For contributing to the medieval magic at events_
+
+We've all experienced moments at events where a person or a group creates a space, or interacts, or somehow contributes in a way that transports us back in time. This award is to recognise those individuals or groups that create the 'medieval moments' - whether once or consistently over time - that fully take us out of our modern lives and leave us feeling like we're living the history we try to recreate.
+
 ### Order of the Winged Pouch
 
 _To recognise the work children do_
