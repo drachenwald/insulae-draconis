@@ -14,7 +14,7 @@ prevurl:
           <a href="mailto:prince@insulaedraconis.org" >prince@insulaedraconis.org</a>
         </td>
         <td width="50%" style="text-align: left"><h2>Princess</h2>
-            <strong>Euphrosyne Eirinikos </strong><br>
+            <strong>Euphrosyne Eirinikina </strong><br>
           <a href="mailto:princess@insulaedraconis.org">princess@insulaedraconis.org</a> <br>
           </td>
       </tr>
