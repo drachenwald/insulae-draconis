@@ -5,9 +5,9 @@ title: Coronet Tourney
 subtitle: The Tournament that decides our next Prince and Princess
 banner: /images/banner/royalty-coronet.jpg
 ---
-# Coronet May 2022
+# Coronet February 2023
 
-The next Coronet Tourney will take place at [Linnet Clough scout camp](https://sites.google.com/view/idcoronet2020sca) from <b>6-8 May, 2022</b>. [Find out more at the event website](https://sites.google.com/view/idcoronet2022/home?authuser=0&fbclid=IwAR13H4MV9bVM2e7lg6vE4eW_BGD2wgbDAYYqFLXr0BT_4bsA8QM4qZZKYIU).
+The next Coronet Tourney will take place in February, 2023. [Learn more about what is needed to host a Cornet tournament](https://insulaedraconis.org/library/group-resources/bidding-for-events/), and [contact the Principality Seneschal](seneschal@insulaedraconis.org) for more information about submitting an event proposal.
 
 
 # Be a contender
