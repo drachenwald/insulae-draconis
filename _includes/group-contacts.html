@@ -4,7 +4,7 @@
 <!--sse-->
 <p>
 {%- for role in site.data.officetitles -%}
-{%- assign o = officers | where: 'office', role.slug | last -%}
+{%- assign o = officers | where: 'office', role.slug | sort: 'responsibility' | first -%}
 {%- if o -%}
 {%- unless o.email == '' -%}
 {{ role.titleingroups }}:
