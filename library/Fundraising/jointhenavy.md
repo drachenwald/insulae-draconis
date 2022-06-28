@@ -1,5 +1,4 @@
 ---
-layout: no-sidebar
 permalink: /Library/Fundraising/jointhenavy.html
 title: Join the Insulae Draconis Navy
 ---
