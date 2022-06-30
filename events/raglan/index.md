@@ -30,13 +30,13 @@ CB23 2SH</b></p>
 <p>As always behind any event steward there is a magnificent team doing the 101 things that need to be done to make an event happen and this years team is:</p>
 
 <p><b>Bookings:</b> Mistresses Mary verch Thomas<br>
-[raglanreservations@insuleadraconis.org](mailto:raglanreservations@insuleadraconis.org)</p>
+<a href="raglanreservations@insuleadraconis.org">raglanreservations@insuleadraconis.org</a></p>
 <p><b>Camp coordinator:</b> Viscountess Caitriona of the Ravens<br>
-[raglancampcordinator@insuleadraconis.org](mailto:raglancampcordinator@insuleadraconis.org)
+<a href="raglancampcordinator@insuleadraconis.org">raglancampcordinator@insuleadraconis.org</a></p>
 <p><b>Rapier:</b> Lord Wolfrum von Falkenstein<br>
-[raglanfencing@insuleaedraconis.org](mailto:raglanfencing@insuleaedraconis.org)</p>
+<a href="raglanfencing@insuleaedraconis.org">raglanfencing@insuleaedraconis.org</a></p>
 <p><b>Arts & Sciences:</b> Lady Alessandra di Riario<br>
-[raglanaands@insuleadraconis.org](mailto:raglanaands@insuleadraconis.org)</p>
+<a href="raglanaands@insuleadraconis.org">raglanaands@insuleadraconis.org</a></p>
 
 <p>Please drop them a line if you have something you’d like to see in the schedule. As you can also see I’m still looking for someone to coordinate the heavy fighting so if you’ve been waiting for this announcement to volunteer, now’s your time!</p>
 
