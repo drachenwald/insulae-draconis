@@ -42,7 +42,7 @@ CB23 2SH</b></p>
 
 <p>Also here is the traditional plea for people to sign up to be day/night stewards to help make sure everything runs smoothly!</p> 
 
-<p>Please email me at <a href="mailto:raglansteward@insuleadraconis.org>raglansteward@insuleadraconis.org</a> to volunteer for any of the roles.</p>
+<p>Please email me at <a href="mailto:raglansteward@insuleadraconis.org">raglansteward@insuleadraconis.org</a> to volunteer for any of the roles.</p>
 
 <p>Many hands make light work, so please consider joining the team!</p>
 
