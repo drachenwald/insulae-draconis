@@ -91,7 +91,7 @@ Okynfirth is a hamlet within the Shire of Pont Alarch covering the English Midla
 <h2><a name="pontalarch">Pont Alarch</a></h2>
 Pont Alarch is an English Shire covering Yorkshire and Lincolnshire - Northern England postcodes not covered by Depedene under Wychwood
 
-{% include group-contacts.html groupslug="Insulae Draconis-Pont Alarch" %}
+{% include group-contacts.html groupslug="Insulae Draconis-Pontalarch" %}
 [Visit the Shire Website](http://pontalarch.insulaedraconis.org/)
 
 
