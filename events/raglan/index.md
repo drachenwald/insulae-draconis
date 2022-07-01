@@ -10,7 +10,7 @@ The winner of the recent Name the Event poll was <b>Bourn Ffair</b> and the even
 14 Alms Hill<br>
 Bourn<br>
 Cambridge<br>
-CB23 2SH</b></p>
+CB23 2SH</b>
 
 I would like to thank all of you for your patience and assistance in getting this far. We are hoping to open bookings soon so keep an eye on this page.
 
@@ -46,6 +46,8 @@ Also here is the traditional plea for people to sign up to be day/night stewards
 Please email me at [raglansteward@insulaedraconis.org](mailto:raglansteward@insuleadraconis.org) to volunteer for any of the roles.
 
 Many hands make light work, so please consider joining the team!
+
+<b>Shirin Perot-duxt, Raglan Steward</b>
 
 
 <h3>COVID:</h3>
