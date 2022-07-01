@@ -36,13 +36,13 @@ CB23 2SH</b></p>
 <p><b>Rapier:</b> Lord Wolfrum von Falkenstein<br>
 [raglanfencing@insuleaedraconis.org](mailto:raglanfencing@insuleaedraconis.org)</p>
 <p><b>Arts & Sciences:</b> Lady Alessandra di Riario<br>
-[raglanaands@insuleadraconis.org](mailto:raglanaands@insuleadraconis.org)</p>
+[raglanands@insulaedraconis.org](mailto:raglanaands@insuleadraconis.org)</p>
 
 <p>Please drop them a line if you have something you’d like to see in the schedule. As you can also see I’m still looking for someone to coordinate the heavy fighting so if you’ve been waiting for this announcement to volunteer, now’s your time!</p>
 
 <p>Also here is the traditional plea for people to sign up to be day/night stewards to help make sure everything runs smoothly!</p> 
 
-<p>Please email me at [raglansteward@insuleadraconis.org](mailto:raglansteward@insuleadraconis.org) to volunteer for any of the roles.</p>
+<p>Please email me at <mailto:raglansteward@insuleadraconis.org> to volunteer for any of the roles.</p>
 
 <p>Many hands make light work, so please consider joining the team!</p>
 
