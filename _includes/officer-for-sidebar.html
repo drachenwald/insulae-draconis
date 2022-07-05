@@ -1,6 +1,6 @@
 {% if officer %}
 
-{% assign role = site.data.officetitles | where:"slug", officer.office | where:"responsibility", " " | first %}
+{% assign role = site.data.officetitles | where:"slug", officer.office | first %}
 
 <h3>{{ role.title }}</h3>
 <p><strong>{{ officer.scaname }}</strong>
