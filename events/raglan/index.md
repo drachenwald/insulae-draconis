@@ -12,7 +12,7 @@ Bourn<br>
 Cambridge<br>
 CB23 2SH</b>
 
-I would like to thank all of you for your patience and assistance in getting this far. We are hoping to open bookings soon so keep an eye on this page.
+<a href="https://forms.gle/71cbzLMKKDzH5XDM8">Bookings are now open</a>.
 
 Prices are:
 
@@ -31,13 +31,13 @@ We are hoping to have a full schedule of activities , archery, combat of all typ
 As always behind any event steward there is a magnificent team doing the 101 things that need to be done to make an event happen and this years team is:<br><br>
 
 <b>Bookings:</b> Mistresses Mary verch Thomas<br>
-[raglanreservations@insuleadraconis.org](mailto:raglanreservations@insulaedraconis.org)<br><br>
+[raglanreservations@insulaedraconis.org](mailto:raglanreservations@insulaedraconis.org)<br><br>
 <b>Camp coordinator:</b> Viscountess Caitriona of the Ravens<br>
-[raglancampcordinator@insuleadraconis.org](mailto:raglancampcordinator@insuleadraconis.org)<br><br>
+[raglancampcordinator@insulaedraconis.org](mailto:raglancampcordinator@insulaedraconis.org)<br><br>
 <b>Rapier:</b> Lord Wolfrum von Falkenstein<br>
-[raglanfencing@insuleaedraconis.org](mailto:raglanfencing@insuleaedraconis.org)<br><br>
+[raglanfencing@insulaeedraconis.org](mailto:raglanfencing@insulaedraconis.org)<br><br>
 <b>Arts & Sciences:</b> Lady Alessandra di Riario<br>
-[raglanands@insulaedraconis.org](mailto:raglanaands@insuleadraconis.org)<br><br>
+[raglanands@insulaedraconis.org](mailto:raglanaands@insulaedraconis.org)<br><br>
 
 Please drop them a line if you have something you’d like to see in the schedule. As you can also see I’m still looking for someone to coordinate the heavy fighting so if you’ve been waiting for this announcement to volunteer, now’s your time!
 
