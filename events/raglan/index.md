@@ -41,7 +41,7 @@ As always behind any event steward there is a magnificent team doing the 101 thi
 <b>Arts & Sciences:</b> Lady Alessandra di Riario<br>
 [raglanands@insulaedraconis.org](mailto:raglanaands@insulaedraconis.org)<br><br>
 
-Please drop them a line if you have something you’d like to see in the schedule. As you can also see I’m still looking for someone to coordinate the heavy fighting so if you’ve been waiting for this announcement to volunteer, now’s your time!
+Please drop them a line if you have something you’d like to see in the schedule. There are still open opportunities to help, so if you’ve been waiting for this announcement to volunteer, now’s your time!
 
 Also here is the traditional plea for people to sign up to be day/night stewards to help make sure everything runs smoothly! 
 
