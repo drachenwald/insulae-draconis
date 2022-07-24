@@ -34,7 +34,7 @@ We are hoping to have a full schedule of activities , archery, combat of all typ
 
 It is a live document, and will be evolving right up to the event itself. It is printable, but we recommend printing it as close to the event as you can to be sure you have the most recent information.
 
-[Answers to some frequently asked questions](https://docs.google.com/document/d/1j9Fmer8UQcbnuK3J0UsFPJ3bDB9abfMaFiXjprt8LDY).
+[Answers to some frequently asked questions](https://docs.google.com/document/d/e/2PACX-1vQbU5DmIwlt3Rd-B0m_ZZP3DfUZejhnLSIKHm5HsJ31S3tTQJrwWH1Us0-r2PJbvH_FKKOxXVfnLUsX/pub).
 
 <h3>Event Team</h3>
 As always behind any event steward there is a magnificent team doing the 101 things that need to be done to make an event happen and this years team is:<br><br>
