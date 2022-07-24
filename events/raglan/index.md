@@ -4,7 +4,8 @@ subtitle: August 5-14 2022
 banner: /images/banner/amphelise_raglan.jpg
 ---
 
-The winner of the recent Name the Event poll was <b>Bourn Ffair</b> and the event will be held from the 5th - 14th August at: 
+<h3>Dates and location</h3>
+<b>Bourn Ffair</b> will be held from the 5th - 14th August at: 
 
 <b><a href="http://manorfarmbourn.com">Manor Farm</a><br>
 14 Alms Hill<br>
@@ -12,6 +13,7 @@ Bourn<br>
 Cambridge<br>
 CB23 2SH</b>
 
+<h3>Booking information</h3>
 <a href="https://forms.gle/71cbzLMKKDzH5XDM8">Bookings are now open</a>.
 
 Prices are:
@@ -26,6 +28,11 @@ Prices are:
 Children under 5 are free. If you don’t feel up to camping there are a number of hotels, B&B’s, etc. reasonably close to the site.
 
 We are hoping to have a full schedule of activities , archery, combat of all types, arts and sciences, bardic and – insurance willing – equestrian.
+
+<h3>Event schedule</h3>
+[This is a link to the current event schedule](https://sites.google.com/view/id-bourn-schedule/home?fbclid=IwAR34CCa1RMBHc7m4KVCOfVrNY0ee3y63ItZxeUrehbQ2i7VjMcC6oFM2wU8). 
+
+It is a live document, and will be evolving right up to the event itself. It is printable, but we recommend printing it as close to the event as you can to be sure you have the most recent information.
 
 <h3>Event Team</h3>
 As always behind any event steward there is a magnificent team doing the 101 things that need to be done to make an event happen and this years team is:<br><br>
@@ -45,7 +52,7 @@ Please drop them a line if you have something you’d like to see in the schedul
 
 Also here is the traditional plea for people to sign up to be day/night stewards to help make sure everything runs smoothly! 
 
-Please email me at [raglansteward@insulaedraconis.org](mailto:raglansteward@insuleadraconis.org) to volunteer for any of the roles.
+Please email [raglansteward@insulaedraconis.org](mailto:raglansteward@insuleadraconis.org) to volunteer for any of the roles.
 
 Many hands make light work, so please consider joining the team!
 
