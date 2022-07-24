@@ -29,10 +29,12 @@ Children under 5 are free. If you don’t feel up to camping there are a number 
 
 We are hoping to have a full schedule of activities , archery, combat of all types, arts and sciences, bardic and equestrian.
 
-<h3>Event schedule</h3>
+<h3>Event schedule and FAQ</h3>
 [This is a link to the current event schedule](https://sites.google.com/view/id-bourn-schedule/home). 
 
 It is a live document, and will be evolving right up to the event itself. It is printable, but we recommend printing it as close to the event as you can to be sure you have the most recent information.
+
+[Answers to some frequently asked questions](https://docs.google.com/document/d/1j9Fmer8UQcbnuK3J0UsFPJ3bDB9abfMaFiXjprt8LDY).
 
 <h3>Event Team</h3>
 As always behind any event steward there is a magnificent team doing the 101 things that need to be done to make an event happen and this years team is:<br><br>
