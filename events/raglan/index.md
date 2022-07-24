@@ -33,7 +33,7 @@ As always behind any event steward there is a magnificent team doing the 101 thi
 <b>Bookings:</b> Mistresses Mary verch Thomas<br>
 [raglanreservations@insulaedraconis.org](mailto:raglanreservations@insulaedraconis.org)<br><br>
 <b>Camp coordinator:</b> Viscountess Caitriona of the Ravens<br>
-[raglancampcordinator@insulaedraconis.org](mailto:raglancampcordinator@insulaedraconis.org)<br><br>
+[raglancamping@insulaedraconis.org](mailto:raglancamping@insulaedraconis.org)<br><br>
 <b>Armoured Combat:</b> Lord Alexander of Derlington<br>
 [raglanmarshal@insulaedraconis.org](mailto:raglanmarshal@insulaedraconis.org)<br><br>
 <b>Rapier:</b> Lord Wolfrum von Falkenstein<br>
