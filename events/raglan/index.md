@@ -27,10 +27,10 @@ Prices are:
 
 Children under 5 are free. If you don’t feel up to camping there are a number of hotels, B&B’s, etc. reasonably close to the site.
 
-We are hoping to have a full schedule of activities , archery, combat of all types, arts and sciences, bardic and – insurance willing – equestrian.
+We are hoping to have a full schedule of activities , archery, combat of all types, arts and sciences, bardic and equestrian.
 
 <h3>Event schedule</h3>
-[This is a link to the current event schedule](https://sites.google.com/view/id-bourn-schedule/home?fbclid=IwAR34CCa1RMBHc7m4KVCOfVrNY0ee3y63ItZxeUrehbQ2i7VjMcC6oFM2wU8). 
+[This is a link to the current event schedule](https://sites.google.com/view/id-bourn-schedule/home). 
 
 It is a live document, and will be evolving right up to the event itself. It is printable, but we recommend printing it as close to the event as you can to be sure you have the most recent information.
 
