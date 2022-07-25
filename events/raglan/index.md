@@ -46,7 +46,7 @@ As always behind any event steward there is a magnificent team doing the 101 thi
 <b>Armoured Combat:</b> Lord Alexander of Derlington<br>
 [raglanmarshal@insulaedraconis.org](mailto:raglanmarshal@insulaedraconis.org)<br><br>
 <b>Rapier:</b> Lord Wolfrum von Falkenstein<br>
-[raglanfencing@insulaeedraconis.org](mailto:raglanfencing@insulaedraconis.org)<br><br>
+[raglanfencing@insulaedraconis.org](mailto:raglanfencing@insulaedraconis.org)<br><br>
 <b>Arts & Sciences:</b> Lady Alessandra di Riario<br>
 [raglanands@insulaedraconis.org](mailto:raglanaands@insulaedraconis.org)<br><br>
 
