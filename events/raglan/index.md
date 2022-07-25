@@ -27,7 +27,7 @@ Prices are:
 
 Children under 5 are free. If you don’t feel up to camping there are a number of hotels, B&B’s, etc. reasonably close to the site.
 
-We are hoping to have a full schedule of activities , archery, combat of all types, arts and sciences, bardic and equestrian.
+[2022 confirmed bookings](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXcoyvjdnSZrVLrjOtcJejgVy7gi1ZJPqx0ZrNVe-KsTgojgDfEjrVmII2PHltcg_bbwLU1Ikvz-gA/pubhtml?gid=0&single=true)
 
 <h3>Event schedule and FAQ</h3>
 [This is a link to the current event schedule](https://sites.google.com/view/id-bourn-schedule/home). 
