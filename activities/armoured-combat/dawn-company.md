@@ -6,7 +6,7 @@ prevurl: /Activities/ArmouredCombat/DawnCompany/
 
 <ul class="list-inline text-center">
   <li class="list-inline-item pe-3"><a href="{% link activities/armoured-combat/dawn-company-charter.md %}" class="btn btn-primary">Charter</a></li>
-  <li class="list-inline-item pe-3"><a href="https://www.youtube.com/channel/UC0GeuIgYXkIQ9Mg3BQzC4_w/" class="btn btn-primary">Youtube channel</a></li>
+  <li class="list-inline-item pe-3"><a href="https://m.youtube.com/channel/UCsWHLuzGfTjo1wRLqxQYexw" class="btn btn-primary">Youtube channel</a></li>
   <li class="list-inline-item pe-3"><a href="https://www.facebook.com/groups/230692704699074/" class="btn btn-primary">Facebook group</a></li>
   <li class="list-inline-item pe-3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe8CqjIHlWtCdSs3e9MroIE5KiuL9uCPqnagzgWH5VbsLeRUA/viewform" class="btn btn-primary">Apply to join</a></li>
 </ul>
