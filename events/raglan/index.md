@@ -36,6 +36,8 @@ It is a live document, and will be evolving right up to the event itself. It is 
 
 [Answers to some frequently asked questions](https://docs.google.com/document/d/e/2PACX-1vQbU5DmIwlt3Rd-B0m_ZZP3DfUZejhnLSIKHm5HsJ31S3tTQJrwWH1Us0-r2PJbvH_FKKOxXVfnLUsX/pub).
 
+Is this your first time attending a camping event? Here are some [camping tips and tricks](https://tinyurl.com/48j4aur4).
+
 <h3>Event Team</h3>
 As always behind any event steward there is a magnificent team doing the 101 things that need to be done to make an event happen and this years team is:<br><br>
 
