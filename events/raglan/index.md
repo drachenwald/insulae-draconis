@@ -76,4 +76,21 @@ While face-coverings/masks are not currently legally required, the event team re
 
 If a potential attendee has to cancel their reservation due to illness or a positive lateral flow result, before they arrive on site,  the event fees will be refunded in full.
 
+<h3>Code of conduct</h3>
+In pursuing its mission, the Society for Creative Anachronism is committed to excellence in its programs, communications and activities and to:
 
+* act in accordance with the chivalric virtues of honor and service
+* value and respect the worth and dignity of all individuals
+* practice inclusiveness and respect pluralism and diversity
+* promote a safe and respectful environment for all SCA events
+* act with transparency, fairness, integrity and honesty
+* be a responsible steward of SCA resources; and,
+* be committed to maintaining the trust of its members and participants.
+
+It is the expectation of the SCA that its members and participants, in all events and activities of the SCA, will conduct themselves in accordance with these tenets.
+
+The SCA prohibits bullying and harassment of all individuals and groups. Bullying is systematic and unwelcome behavior which involves the use of influence, threat, intimidation, or coercion to cause hurt or harm to another person or group of people. Further, the SCA prohibits all forms of sexual misconduct including, but not limited to, sexual assault, sexual harassment, stalking, and sexual violence.
+
+If you feel that you have been subjected to harassment, bullying or any other breach of the Code of Conduct, or you have been witness to someone breaking the Code of Conduct in any way, and if you are unable to engage with that person for any reason, please contact the Event Steward or the Principality Seneschal.
+
+[Read the full Drachenwald Kingdom Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf?fbclid=IwAR30gevRFQsH46PpT2ot37sMewlMdsY9aj6xXsaK2L9sBpL1377KHI0GZ58)
