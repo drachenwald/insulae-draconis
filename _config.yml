@@ -22,7 +22,7 @@ url: "https://insulaedraconis.org" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-gitlab:
+github:
   repository_url: https://github.com/drachenwald/insulae-draconis
 
 
