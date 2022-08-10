@@ -90,13 +90,13 @@
 
 
 
-							{% if site.gitlab.repository_url %}
+							{% if site.github.repository_url %}
 								<ul class="list-inline">
 									<li class="list-inline-item pe-3">
-										<a href="{{site.gitlab.repository_url}}/blob/staging/{{ page.path }}" class="text-reset"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Edit this page on GitLab</a>
+										<a href="{{site.github.repository_url}}/blob/main/{{ page.path }}" class="text-reset"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Edit this page on GitHub</a>
 									</li>
 									<li class="list-inline-item pe-3">
-										<a href="{{site.gitlab.repository_url}}/issues/new?issue[assignee_id]=&issue[milestone_id]=&issue[description]=Path%3A%20{{ page.url }}%0D" class="text-reset"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Open an issue on GitLab</a>
+										<a href="{{site.github.repository_url}}/issues/new?body=Path%3A%20{{ page.url }}%0D" class="text-reset"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Open an issue on GitLab</a>
 									</li>
 								</ul>
 							{% endif %}
