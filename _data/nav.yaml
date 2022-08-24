@@ -88,9 +88,9 @@ top:
       url: /baelfyr/
 
 - title: Contact
-  url: /governance/FindanOfficer.html
+  url: /governance/find-an-officer/
   submenu:
     - page: Contact an officer
-      url: /governance/find-an-officer
+      url: /governance/find-an-officer/
     - page: Find a local group
       url: /library/useful-resources/findingalocalgroup

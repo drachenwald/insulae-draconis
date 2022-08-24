@@ -1,5 +1,6 @@
 ---
 title: Their Highnesses of Blessed Memory
+subtitle: Previous reigns
 prevurl:
   - /Library/History/PastCoronets.html
   - /Coronet/Past.html
