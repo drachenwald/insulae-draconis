@@ -1,5 +1,5 @@
 ---
-permalink: /Library/Fundraising/jointhenavy.html
+prevurl: /library/Fundraising/jointhenavy.html
 title: Join the Insulae Draconis Navy
 ---
 

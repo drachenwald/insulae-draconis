@@ -12,14 +12,14 @@ Depedene under Wychwood is a English Shire covering the area including postcodes
 
 {% include group-contacts.html groupslug="Insulae Draconis-Depedene under Wychwood" %}
 
-[Visit the Shire Website](https://sites.google.com/site/depedeneunderwychwood/)
+[Visit the Depedene Website](https://sites.google.com/site/depedeneunderwychwood/)
 
 <h2><a name="duninmara">Dun in Mara</a></h2>
 Dun in Mara is an Irish Shire, covering the counties of Louth, Meath, Dublin, Kildare, Wicklow, Carlow, Kilkenny, Wexford and Waterford in Ireland.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Dun in Mara" %}
 
-[Visit the Shire Website](http://duninmara.org/)
+[Visit the Dun in Mara Website](http://duninmara.org/)
 
 
 <h2><a name="eplaheimr">Eplaheimr</a></h2>
@@ -27,7 +27,7 @@ Eplaheimr is an Irish Barony, covering the counties of Leitrim, Sligo, Mayo, Ros
 
 {% include group-contacts.html groupslug="Insulae Draconis-Eplaheimr" %}
 
-[Visit the Barony Website](http://www.eplaheimr.org)
+[Visit the Eplaheimr Website](http://www.eplaheimr.org)
 
 
 <h2><a name="flintheath">Flintheath</a></h2>
@@ -36,7 +36,7 @@ Flintheath is an English Shire covering Shire, covering East Anglia, England
 {% include group-contacts.html groupslug="Insulae Draconis-Flintheath" %}
  
 
-[Visit the Shire Website](http://www.flintheath.org.uk/)
+[Visit the Flintheath Website](http://www.flintheath.org.uk/)
 
 
 <h2><a name="glenrathlin">Glen Rathlin</a></h2>
@@ -44,7 +44,7 @@ Glen Rathlin is an Irish Shire, covering Northern Ireland and the counties of Mo
 
 {% include group-contacts.html groupslug="Insulae Draconis-Glen Rathlin" %}
 
-[Visit the Shire Website](http://www.glenrathlin.org/)
+[Visit the Glen Rathlin Website](http://www.glenrathlin.org/)
 
 
 <h2><a name="harpelstane">Harpelstane</a></h2>
@@ -52,7 +52,7 @@ Harpelstane is the Scottish Shire.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Harpelstane" %}
 
-[Visit the Shire Website](http://www.harpelstane.org/)
+[Visit the Harpelstane Website](http://www.harpelstane.org/)
 
 
 <h2><a name="hartsholt">Hart's Holt</a></h2>
@@ -77,7 +77,7 @@ Mynydd Gwyn is a Shire covering Wales and West England
 
 {% include group-contacts.html groupslug="Insulae Draconis-Mynydd Gwyn" %}
 
-[Visit the Shire Website](http://www.mynydd-gwyn.org.uk/)
+[Visit the Mynydd Gwyn Website](http://www.mynydd-gwyn.org.uk/)
 
 
 <h2><a name="okynfirth">Okynfirth</a></h2> 
@@ -92,7 +92,7 @@ Okynfirth is a hamlet within the Shire of Pont Alarch covering the English Midla
 Pont Alarch is an English Shire covering Yorkshire and Lincolnshire - Northern England postcodes not covered by Depedene under Wychwood
 
 {% include group-contacts.html groupslug="Insulae Draconis-Pontalarch" %}
-[Visit the Shire Website](http://pontalarch.insulaedraconis.org/)
+[Visit the Pont Alarch Website](http://pontalarch.insulaedraconis.org/)
 
 
 <h2><a name="thamesreach">Thamesreach</a></h2>
@@ -100,7 +100,7 @@ Thamesreach is an English Shire, covering Greater London, England
 
 {% include group-contacts.html groupslug="Insulae Draconis-Thamesreach" %}
 
-[Visit the Shire Website](http://www.thamesreach.org/)
+[Visit the Thamesreach Website](http://www.thamesreach.org/)
 
 
 <h2><a name="westdragon">West Dragonshire</a></h2>
@@ -108,4 +108,4 @@ West Dragoningshire is an English, covering Southern England
 
 {% include group-contacts.html groupslug="Insulae Draconis-West Dragonshire" %}
 
-[Visit the Shire Website](http://www.westdragonshire.org/)
+[Visit the West Dragonshire Website](http://www.westdragonshire.org/)

@@ -9,19 +9,19 @@ subtitle: A historical record of the winners of Protectors Tournaments
   &nbsp;
   </div>
   <div class="col-md-2 d-none d-lg-inline">
-    <img src="/images/protectors/archery_protector.gif">
+    <img src="/images/protectors/archery_protector.gif" alt="Archery Protector badge">
   </div>
   <div class="col-md-2 d-none d-lg-inline">
-    <img src="/images/protectors/arts_science_protector.gif">
+    <img src="/images/protectors/arts_science_protector.gif" alt="A&S Protector badge">
   </div>
   <div class="col-md-2 d-none d-lg-inline">
-    <img src="/images/protectors/equestrian_protector.gif">
+    <img src="/images/protectors/equestrian_protector.gif" alt="Equestrian Protector badge">
   </div>
   <div class="col-md-2 d-none d-lg-inline">
-    <img src="/images/protectors/heavy_protector.gif">
+    <img src="/images/protectors/heavy_protector.gif" alt="Armoured Combat Protector badge">
   </div>
   <div class="col-md-2 d-none d-lg-inline">
-    <img src="/images/protectors/rapier_protector.gif">
+    <img src="/images/protectors/rapier_protector.gif" alt="Rapier Protector badge">
   </div>
   <div class="col-md-1 d-none d-lg-inline">
   &nbsp;

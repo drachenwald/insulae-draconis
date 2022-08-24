@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 	<head>
 		<title>{{ page.title }}</title>
 		<meta charset="utf-8" />
@@ -67,7 +67,7 @@
         <div class="container">
 
           <a class="navbar-brand" style="color: #ffff00;" href="/">
-            <img src="/images/heraldry.svg" width="50" /> Insulae Draconis
+            <img src="/images/heraldry.svg" width="50" alt="" /> Insulae Draconis
           </a>
 
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#top-banner-menu" aria-controls="top-banner-menu" aria-expanded="false" aria-label="Toggle navigation">
@@ -82,8 +82,8 @@
                     
                   {% if item.submenu[0] %}
                     <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle {% if item.url == page.url %}active{% endif %}"  style="color: #ffff00;" id="navbar-dropdown-{{item.title}}" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="{{ item.url }}">{{ item.title }}</a>
-                      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbar-dropdown-{{item.title}}">
+                      <a class="nav-link dropdown-toggle {% if item.url == page.url %}active{% endif %}"  style="color: #ffff00;" id="navbar-dropdown-{{item.title | slugify}}" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="{{ item.url }}">{{ item.title }}</a>
+                      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbar-dropdown-{{item.title | slugify}}">
                         {% for subitem in item.submenu %}
                           {% if subitem.subsubmenu[0] %}
                           <li>
@@ -124,12 +124,13 @@
     </header>
 
     <div class="banner" style="background-image: url('{{ page.banner | default: '/images/banner/default-banner.jpg' }}');">
-      <div class="container">
-        <h1 class="display-5 pt-5">{{ page.title }}</h1>
+      <div class="container"> 
         {% if page.subtitle %}
-          <h3>{{ page.subtitle }}</h3>
+          <h1 class="display-5 pt-5">{{ page.title }}</h1>
+          <h3 class="pb-5">{{ page.subtitle }}</h3>
+        {% else %}
+          <h1 class="display-5 pt-5 pb-5">{{ page.title }}</h1>
         {% endif %}
-        <h1 class="pb-1">&nbsp;</h1>
       </div>
     </div>
 

@@ -5,13 +5,13 @@ banner: /images/banner/amphelise_raglan.jpg
 ---
 
 <h3>Dates and location</h3>
-<b>Bourn Ffair</b> will be held from the 5th - 14th August at: 
+<strong>Bourn Ffair</strong> will be held from the 5th - 14th August at: 
 
-<b><a href="http://manorfarmbourn.com">Manor Farm</a><br>
+<strong><a href="http://manorfarmbourn.com">Manor Farm</a><br>
 14 Alms Hill<br>
 Bourn<br>
 Cambridge<br>
-CB23 2SH</b>
+CB23 2SH</strong>
 
 <h3>Booking information</h3>
 <a href="https://forms.gle/71cbzLMKKDzH5XDM8">Bookings are now open</a>.
@@ -41,15 +41,15 @@ Is this your first time attending a camping event? Here are some [camping tips a
 <h3>Event Team</h3>
 As always behind any event steward there is a magnificent team doing the 101 things that need to be done to make an event happen and this years team is:<br><br>
 
-<b>Bookings:</b> Mistresses Mary verch Thomas<br>
+<strong>Bookings:</strong> Mistresses Mary verch Thomas<br>
 [raglanreservations@insulaedraconis.org](mailto:raglanreservations@insulaedraconis.org)<br><br>
-<b>Camp coordinator:</b> Viscountess Caitriona of the Ravens<br>
+<strong>Camp coordinator:</strong> Viscountess Caitriona of the Ravens<br>
 [raglancamping@insulaedraconis.org](mailto:raglancamping@insulaedraconis.org)<br><br>
-<b>Armoured Combat:</b> Lord Alexander of Derlington<br>
+<strong>Armoured Combat:</strong> Lord Alexander of Derlington<br>
 [raglanmarshal@insulaedraconis.org](mailto:raglanmarshal@insulaedraconis.org)<br><br>
-<b>Rapier:</b> Lord Wolfrum von Falkenstein<br>
+<strong>Rapier:</strong> Lord Wolfrum von Falkenstein<br>
 [raglanfencing@insulaedraconis.org](mailto:raglanfencing@insulaedraconis.org)<br><br>
-<b>Arts & Sciences:</b> Lady Alessandra di Riario<br>
+<strong>Arts & Sciences:</strong> Lady Alessandra di Riario<br>
 [raglanands@insulaedraconis.org](mailto:raglanaands@insulaedraconis.org)<br><br>
 
 Please drop them a line if you have something you’d like to see in the schedule. There are still open opportunities to help, so if you’ve been waiting for this announcement to volunteer, now’s your time!
@@ -60,7 +60,7 @@ Please email [raglansteward@insulaedraconis.org](mailto:raglansteward@insuleadra
 
 Many hands make light work, so please consider joining the team!
 
-<b>Shirin Perot-duxt, Raglan Steward</b>
+<strong>Shirin Perot-duxt, Raglan Steward</strong>
 
 
 <h3>COVID:</h3>
