@@ -10,7 +10,7 @@
 {{ role.titleingroups }}:
 <strong>{{ o.scaname }} </strong>
 {%- unless o.mundanename == '' -%}<span>({{ o.mundanename }}) </span>{%- endunless -%}
-{%- unless o.pronouns == ''- %}<span class="text-muted">{{ o.pronouns }} </span>{%- endunless -%}
+{%- unless o.pronouns == ''- %}<em>{{ o.pronouns }} </em>{%- endunless -%}
 {%- unless o.email == '' -%}<a href="mailto:{{ o.email }}">{{ o.email }} </a>{%- endunless -%}
 <br />
 
