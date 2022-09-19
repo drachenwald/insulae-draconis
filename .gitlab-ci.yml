@@ -10,7 +10,7 @@ cache:
 pages:
   stage: deploy
   script:
-    - curl -o _data/regnum.json https://scripts.drachenwald.sca.org/json/regnum-officers-box.json
+    - curl -o _data/regnum.json https://dis.drachenwald.sca.org/data/regnum-officers-box.json
     - bundle install --path vendor
     - bundle exec jekyll build -d public
     - ./_ci/cf-clear.sh
