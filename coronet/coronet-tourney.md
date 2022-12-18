@@ -28,4 +28,4 @@ To be eligible to fight you must [be an SCA member](https://membermojo.co.uk/sca
 - The fighter must be an authorised heavy weapons fighter in the Kingdom of Drachenwald and bring their authorisation card to the tournament.
 - Both parties must be eighteen years of age or older.
 - Both parties must have attended Principality events listed in the [Dragon's Tale](https://drachenwald.sca.org/offices/chronicler/kingdom-newsletter/) and resided in Insulae Draconis for more than six months
-{% comment %}- To submit a letter of intent, [fill in this form]({% link Coronet/letters-of-intent.md %}){% endcomment %}
+- To submit a letter of intent, [fill in this form](https://forms.gle/d3QcHyJ5KDjZqPJ96)
