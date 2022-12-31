@@ -31,47 +31,11 @@ top:
 
 - title: Activities
   url: /activities/
-  submenu:
-    - page: Activities
-      url: /activities/
-    - page: Archery
-      url: /activities/archery/
-    - page: Armoured Combat
-      url: /activities/armoured-combat/
-    - page: Arts and Sciences
-      url: /activities/a-and-s/
-    - page: Bardic Performance and Dance
-      url: /activities/a-and-s/bardic-and-dancing/
-    - page: Competitions and Awards
-      url: /activities/a-and-s/competitions/
-    - page: Cooking and Feasting
-      url: /activities/a-and-s/cooking-and-feasting/
-    - page: Heraldry
-      url: /activities/heraldry/
-    - page: Rapier fighting
-      url: /activities/rapier/
-    - page: Scribal Arts
-      url: /activities/a-and-s/scribal/
-    - page: The Protectors Tournaments
-      url: /activities/protectors/
 
 - title: Library
   url: /library/
   submenu:
-    - page: Newcomers
-      url: /newcomers/
-      subsubmenu:
-        - page: Contact the Castellan
-          url: /newcomers/chatelaine/
-        - page: Jargonbusters
-          url: /newcomers/jargonbuster/
-        - page: "Read members' stories"
-          url: /newcomers/why-i-joined/
-        - page: What to expect at your first event
-          url: /newcomers/what-to-expect/
-        - page: Finding a local group
-          url: /library/useful-resources/findingalocalgroup/
-    - page: Resources of local groups
+    - page: Resources for local groups
       url: /library/group-resources/
       subsubmenu:
         - page: Bidding for Events
