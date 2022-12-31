@@ -16,13 +16,13 @@ top:
 - title: Coronet & Court
   url: /coronet/
   submenu:
-    - page: Current Coronets
+    - page: Current reign
       url: /coronet/
-    - page: Coronet Tournament
+    - page: Coronet tournament
       url: /coronet/coronet-tourney/
-    - page: Previous Reigns
+    - page: Previous reigns
       url: /coronet/past/
-    - page: Recommend someone for an Award
+    - page: Recommend someone for an award
       url: /coronet/recommend/
 
 - title: Newcomers
