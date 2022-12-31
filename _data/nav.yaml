@@ -25,6 +25,8 @@ top:
     - page: Recommend someone for an Award
       url: /coronet/recommend/
 
+- title: Newcomers
+  url: /newcomers/
 
 - title: Activities
   url: /activities/
