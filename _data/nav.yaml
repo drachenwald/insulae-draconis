@@ -17,10 +17,10 @@ top:
   submenu:
     - page: Current reign
       url: /coronet/
-    - page: Coronet tournament
-      url: /coronet/coronet-tourney/
     - page: Previous reigns
       url: /coronet/past/
+    - page: Coronet tournament
+      url: /coronet/coronet-tourney/
     - page: Protectors of Insulae Draconis
       url: /protectors/
     - page: Recommend someone for an award
