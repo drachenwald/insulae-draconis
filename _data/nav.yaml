@@ -34,28 +34,6 @@ top:
 
 - title: Library
   url: /library/
-  submenu:
-    - page: Resources for local groups
-      url: /library/group-resources/
-      subsubmenu:
-        - page: Bidding for Events
-          url: /library/group-resources/bidding-for-events/
-        - page: How to start a local group
-          url: /library/group-resources/how-to-setup/
-        - page: Resources for running an Event
-          url: /library/howtos/running-an-event/
-        - page: Find a Principality Officer
-          url: /governance/find-an-officer/
-        - page: "You're a Shire officer, what now?"
-          url: /library/group-resources/new-shire-officers/
-        - page: Principality Law
-          url: /library/publications/principality-law/
-    - page: Library
-      url: /library/
-    - page: How tos and Guides
-      url: /library/howtos/
-    - page: The Baelfyr (newsletter)
-      url: /baelfyr/
 
 - title: Contact
   url: /governance/find-an-officer/
