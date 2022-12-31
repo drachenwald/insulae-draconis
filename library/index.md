@@ -4,13 +4,24 @@ title: Insulae Draconis Library
 banner: /images/banner/scribalDeskTretower.jpg
 ---
 
-# Conduct and behaviour
+# Governance
 
+- [Drachenwald Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf)
 - [Conduct and Behaviour resources](https://www.sca.org/conduct-behavior-in-the-sca/) at sca.org
+- [Principality Law - PDF](https://insulaedraconis.org/library/publications/ID_Law.pdf)
+- Guild Charters
+  - [Fibre Guild Charter](https://insulaedraconis.org/library/charters/fibre-guild-charter/)
+- [GDPR](https://insulaedraconis.org/governance/gdpr/)
+- [General GDPR advice and key changes](https://insulaedraconis.org/governance/gdpr-advice/)
 
-# Publications
+# Group resources
 
-- [The Baelfyr Monthly Newsletter]({% link baelfyr/index.md %})
+- [Tools for building and organising a local group](https://insulaedraconis.org/library/group-resources/)
+
+# Event resources
+
+- [Some tips and tricks running an event]({% link library/howtos/running-an-event.md %})
+- [Bidding for a Principality event]({% link library/group-resources/bidding-for-events.md %})
 
 # Newcomers Guides
 
@@ -22,36 +33,19 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [What is Court and what is expected of me?]({% link coronet/what-is-court.md %})
 - [What do people mean when they say Recommend someone for an award?]({% link activities/heraldry/awards.md %})
 
-# How-tos
+# Publications and forms
+
+- [The Baelfyr Monthly Newsletter]({% link baelfyr/index.md %})
+- [Change of Officer online form](https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform)
+- Sign in sheets for events: [Word format]({% link library/publications/signinsheet202106.docx %}) and [Excel format]({% link library/publications/signinsheet202106.xlsx %})
+
+# How-tos, and other miscellany
 
 - [Personas]({% link library/howtos/adopt-a-persona.md %})
 - [Heraldry in the SCA]({% link library/howtos/heraldry-in-sca.md %})
 - [Court and Tourney Heraldry]({% link library/howtos/court-and-tourney-heraldry.md %})
+- [Make a war tabard](https://insulaedraconis.org/activities/heraldry/id-tabard/)
+- [Insulae Draconis war standard design](https://insulaedraconis.org/activities/heraldry/id-banner/)
+- [Charted heraldic patterns](https://insulaedraconis.org/activities/heraldry/cross-stitch/)
 
-# Charters
-- [Fibre Guild Charter]({% link library/charters/fibre-guild-charter.md %})
 
-# Group resources
-
-- [How to be a Group Seneschal]({% link library/group-resources/shire-seneschal.md %})
-- [How to be a Group Exchequer]({% link library/group-resources/shire-exchequer.md %})
-- [How to be a Group Chatelaine]({% link library/group-resources/shire-chatelaine.md %})
-- [How to be a Group MoAS]({% link library/group-resources/shire-moas.md %})
-- [How to be a Group Captain of Archers]({% link library/group-resources/shire-captain-of-archers.md %})
-- [How to be a Group Knight Marshal]({% link activities/armoured-combat/how-to-knight-marshal.md %})
-- [Some tips and tricks running an event]({% link library/howtos/running-an-event.md %})
-- [Bidding for a Principality event]({% link library/group-resources/bidding-for-events.md %})
-- [Some things to think about if you wish to set up a group]({% link library/group-resources/how-to-setup.md %})
-- [Drachenwald Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf)
-
-# History
-- [Past Prince and Princesses]({% link coronet/past.md %})
-
-# Principality Law
-- [Principality Law - PDF]({% link library/publications/ID_Law.pdf %})
-
-# Forms, sign-in sheets and waivers
-
-- [Change of Officer online form](https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform)
-
-- Sign in sheets for events: [Word format]({% link library/publications/signinsheet202106.docx %}) and [Excel format]({% link library/publications/signinsheet202106.xlsx %})
