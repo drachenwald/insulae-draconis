@@ -49,22 +49,18 @@ subtitle: Learn history by living it
 
 <br />
 
-<div class="container text-center">
-  <div class="row">
-    <div class="col-0 col-md-1 col-lg-2">&nbsp;</div>
-    <div class="col-12 col-md-10 col-lg-8">
-      <h3>Become a member</h3>
-      <p>
-        Joining is entirely optional - you are welcome to all our events and practices regardless
-        of whether you’re a member. Members get discounts at certain practices and events,
-        and help support our activities throughout Ireland and the UK.
-      </p>
-      <p>
-        <a role="button" class="btn btn-primary" href="https://membermojo.co.uk/scauk">Get or renew your membership</a>
-      </p>
-    </div>
-    <div class="col-0 col-md-1 col-lg-2">&nbsp;</div>
-  </div>
+<link rel="preconnect" href="https://dis.drachenwald.sca.org" />
+<div  id="calendar"
+      class="calendar"
+      count="5"
+      region="insulae draconis"
+      progress="id"
+      showkingdom="true"
+></div>
+<script type="text/javascript" src="https://scripts.drachenwald.sca.org/calendar/v3.0/calendar.js"></script>
+
+<div class="text-center">
+  <a role="button" class="btn btn-primary " href="{% link events/index.html %}">More events...</a>
 </div>
 
 <br />
