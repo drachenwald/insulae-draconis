@@ -12,7 +12,6 @@ top:
 - title: Calendar
   url: /events/
   
-  
 - title: Coronet & Court
   url: /coronet/
   submenu:
@@ -22,6 +21,8 @@ top:
       url: /coronet/coronet-tourney/
     - page: Previous reigns
       url: /coronet/past/
+    - page: Protectors of Insulae Draconis
+      url: /protectors/
     - page: Recommend someone for an award
       url: /coronet/recommend/
 
