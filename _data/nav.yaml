@@ -2,7 +2,6 @@ top:
 
 - title: Events
   url: /events/
-  submenu:
 
 - title: Activities
   url: /activities/
