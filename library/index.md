@@ -20,6 +20,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 
 # Event resources
 
+- [Insulae Draconis Book of Ceremonies](https://insulaedraconis.gitlab.io/ceremonies/)
 - [Some tips and tricks running an event]({% link library/howtos/running-an-event.md %})
 - [Bidding for a Principality event]({% link library/group-resources/bidding-for-events.md %})
 
