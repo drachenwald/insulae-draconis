@@ -1,5 +1,14 @@
 top:
 
+- title: Quick links
+  submenu:
+    - page: ID Book of Ceremonies
+      url: https://insulaedraconis.gitlab.io/ceremonies/
+    - page: Officer change form
+      url: https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform
+    - page: Award recommendations
+      url: https://op.drachenwald.sca.org/recommend
+      
 - title: Calendar
   url: /events/
 
