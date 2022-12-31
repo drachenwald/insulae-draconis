@@ -1,13 +1,8 @@
 top:
 
 - title: Events
+  url: /events/
   submenu:
-    - page: Calendar
-      url: /events/
-    - page: Raglan Fair
-      url: /events/raglan/
-    - page: Coronet Tournament
-      url: /coronet/coronet-tourney/
 
 - title: Activities
   url: /activities/
