@@ -17,8 +17,7 @@ titles:
 
 winners:
 - tournament: Protectors XVI
-    year: 2020
-    venue: Raglan at Bourn II
+    year: 2021
     protectors:
     - field: archery
       name: Kit of Flintheath
@@ -31,7 +30,6 @@ winners:
       
   - tournament: Protectors XV
     year: 2020
-    venue: Raglan at Bourn
     protectors:
     - field: archery
       name: 
@@ -51,7 +49,6 @@ winners:
 
   - tournament: Protectors XIII
     year: 2018
-    venue: Raglan Fair XIV
     protectors:
     - field: archery
       name: Lady Ruth of Derlington
