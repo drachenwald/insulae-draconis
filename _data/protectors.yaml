@@ -16,29 +16,6 @@ titles:
     badge: "/images/rapier_protector.gif"
 
 winners:
-- tournament: Protectors XVI
-    year: 2022
-    protectors:
-    - field: archery
-      name: Kit of Flintheath
-    - field: heavy
-      name: Duke Vitus Polonius
-    - field: aands
-    - field: rapier
-      name: Duke Vitus Polonius
-      
-  - tournament: Protectors XV
-    year: 2021
-    protectors:
-    - field: archery
-    - field: heavy
-    - field: aands
-    - field: rapier
-      name: Duchess Isabel Peregrinus
-  
-  - tournament: No Protector tournaments were held in the Year of Plague
-    year: 2020
-    
   - tournament: Protectors XIV
     year: 2019
     venue: Winners for most fields were not announced when the event ended prematurely due to extreme weather.
