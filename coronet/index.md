@@ -115,7 +115,7 @@ prevurl:
       </tr>
       <tr>
         <td><strong>Armoured Combat Protector</strong></td>
-        <td>TBD</td>
+        <td>Duke Vitus Polonius</td>
       </tr>
       <tr>
         <td><strong>Arts & Sciences Protector</strong>
