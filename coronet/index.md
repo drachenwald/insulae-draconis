@@ -144,6 +144,8 @@ prevurl:
   <h2>Ascending the Principality Thrones</h2>
 
   <p>An armoured combat <a href="https://insulaedraconis.org/coronet/coronet-tourney/">Coronet Tournament</a> is fought every nine months to determine who will be the next pair to wear the Coronets of Insulae Draconis. Any authorised armoured fighter who is a fully paid member of the SCA and who has the support of a consort (also a fully paid up member) can fight. The tournament will be officially announced and fighter must give formal notification of their intention to enter with a  <a href="{% link coronet/coronet-tourney.md %}#submit-a-letter-of-intent">Letter of Intent</a>.</p> 
-<br>
+    
+<br />
+    
   <p class="text-center"><a class="btn btn-primary" href="{% link coronet/past.md %}">Our previous Coronets</a></p>
   
