@@ -1,5 +1,5 @@
 ---
-title: "The Coronet: Prince &amp; Princess of Insulae Draconis"
+title: "The Coronets of Insulae Draconis"
 subtitle: Meet our Prince and Princess
 prevurl:
   - /prince/progress.html
@@ -99,27 +99,27 @@ prevurl:
 <br />
 <div id="mainContent">
 
-  <h2><a name="progress"></a>Progress of the Prince and Princess</h2>
+  <h2><a name="progress"></a>Royal Progress</h2>
 
   <p>
-  Events at which their Highnesses will be in attendance are <a href="{% link events/index.html %}">marked with a Crown icon in the Principality Calendar</a>.
+  Events their Highnesses are planning to attend are <a href="{% link events/index.html %}">marked with a Crown icon in the Principality Calendar</a>.
   </p>
 
   <br />
 
-  <h2>What you need to know</h2>
+  <h2>About the Coronets</h2>
 
-  <p>The Prince and Princess of Insulae Draconis represent the King and Queen of Drachenwald in the Principality. As such ceremonial representatives of the Crown of Drachenwald, the Prince and Princess should be treated as any other royal couple in the Kingdom. In essence, be courteous and respectful of what the Prince and Princess are representing and of the fact that their time is not their own. Much of each event they attend will be spent officiating, being in meetings, or just listening to people's opinions. Read more about how to <a href="{% link coronet/behaviour-around-royal-couple.md %}">behave around the Prince &amp; Princess</a> including at Court.</p>
+  <p>The Coronets of Insulae Draconis (Princes, Princesses, or equal titles from other languages) represent the Crown of Drachenwald in the Principality. As such, they should be treated as any other royal couple in the Kingdom. In essence, be courteous and respectful of what they are representing and of the fact that their time often is not their own. Much of each event they attend will be spent officiating, being in meetings, or just listening to people's opinions. Read more about how to <a href="{% link coronet/behaviour-around-royal-couple.md %}">behave around the Coronets</a> including at Court.</p>
 
-  <p>The Prince and Princess will hold Court at most events at which they are in attendance. They may have announcements for public business but they also are responsible for bestowing Awards on members where the people of Insulae Draconis has recommended that a member should be so honoured. Insulae Draconis has many awards to reward people for hard work, skill and courtesy. You can <a href="{% link activities/heraldry/awards.md %}">read more about awards</a>, <a href="http://op.drachenwald.sca.org/"> check whether someone already has an award</a> and then <a href="{% link coronet/recommend.html %}">make an award recommendation</a></p>
+  <p>The Coronets will hold Court at most events at which they are in attendance. They may have announcements for public business but they also are responsible for bestowing Awards on members where the people of Insulae Draconis have recommended that a member should be so honoured. Insulae Draconis has many ways to reward people for hard work, skill and courtesy. You can <a href="{% link activities/heraldry/awards.md %}">read more about awards</a>, <a href="http://op.drachenwald.sca.org/"> check whether someone already has an award</a> and then <a href="{% link coronet/recommend.html %}">make an award recommendation</a></p>
 
   <br />
 
-  <h2>Becoming Prince and Princess</h2>
+  <h2>Ascending the Principality Thrones</h2>
 
-  <p>An armoured combat Tournament is fought every nine months to determine who will be the Prince and Princess.  Any authorised armoured fighter who is a fully paid member of the SCA and who has the support of a consort (also a fully paid up member) can fight.  The tournament will be officially announced and fighter must give formal notification of their intention to enter with a  <a href="{% link coronet/coronet-tourney.md %}#submit-a-letter-of-intent">Letter of Intent</a>.</p>
+  <p>An armoured combat <a href="https://insulaedraconis.org/coronet/coronet-tourney/">Coronet Tournament</a> is fought every nine months to determine who will be the next pair to wear the Coronets of Insulae Draconis. Any authorised armoured fighter who is a fully paid member of the SCA and who has the support of a consort (also a fully paid up member) can fight. The tournament will be officially announced and fighter must give formal notification of their intention to enter with a  <a href="{% link coronet/coronet-tourney.md %}#submit-a-letter-of-intent">Letter of Intent</a>.</p> 
 
-  <p class="text-center"><a class="btn btn-primary" href="{% link coronet/past.md %}">Our previous Princes and Princesses</a></p>
+  <p class="text-center"><a class="btn btn-primary" href="{% link coronet/past.md %}">Our previous Coronets</a></p>
                         
 
 </div>
