@@ -24,7 +24,6 @@ winners:
     - field: heavy
       name: Duke Vitus Polonius
     - field: aands
-      name: --
     - field: rapier
       name: Duke Vitus Polonius
       
@@ -32,11 +31,8 @@ winners:
     year: 2021
     protectors:
     - field: archery
-      name: --
     - field: heavy
-      name: --
     - field: aands
-      name: --
     - field: rapier
       name: Duchess Isabel Peregrinus
   
