@@ -132,7 +132,7 @@ prevurl:
 
   </tbody>
   </table>
-<br>
+<br />
   <h2>About the Coronets</h2>
 
   <p>The Coronets of Insulae Draconis (Princes, Princesses, or equal titles from other languages) represent the Crown of Drachenwald in the Principality. As such, they should be treated as any other royal couple in the Kingdom. In essence, be courteous and respectful of what they are representing and of the fact that their time often is not their own. Much of each event they attend will be spent officiating, being in meetings, or just listening to people's opinions. Read more about how to <a href="{% link coronet/behaviour-around-royal-couple.md %}">behave around the Coronets</a> including at Court.</p>
