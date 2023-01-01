@@ -91,10 +91,6 @@ prevurl:
 
   </tbody>
   </table>
-  
-
-
-<br />
 
 <br />
 <div id="mainContent">
@@ -106,7 +102,37 @@ prevurl:
   </p>
 
   <br />
+  
+  <h2><a name="court"></a>Royal Court and retinue</h2>
+  
+  <h3>Principality Protectors</h3>
+  <table class="table table-striped" style="align: left">
+<table width="500" cellspacing="0" cellpadding="2">
+    <tbody>
+      <tr>
+        <td><strong>Archery Protector</strong></td>
+        <td>TBD</td>
+      </tr>
+      <tr>
+        <td><strong>Armoured Combat Protector</strong></td>
+        <td>TBD</td>
+      </tr>
+      <tr>
+        <td><strong>Arts & Sciences Protector</strong>
+        </td>
+        <td>
+        TBD
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Rapier Protector</strong></td>
+        <td>Duke Vitus Polonius
+        </td>
+      </tr>
 
+  </tbody>
+  </table>
+<br>
   <h2>About the Coronets</h2>
 
   <p>The Coronets of Insulae Draconis (Princes, Princesses, or equal titles from other languages) represent the Crown of Drachenwald in the Principality. As such, they should be treated as any other royal couple in the Kingdom. In essence, be courteous and respectful of what they are representing and of the fact that their time often is not their own. Much of each event they attend will be spent officiating, being in meetings, or just listening to people's opinions. Read more about how to <a href="{% link coronet/behaviour-around-royal-couple.md %}">behave around the Coronets</a> including at Court.</p>
