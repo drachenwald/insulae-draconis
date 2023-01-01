@@ -111,7 +111,7 @@ prevurl:
     <tbody>
       <tr>
         <td><strong>Archery Protector</strong></td>
-        <td>TBD</td>
+        <td>Kit of Flintheath</td>
       </tr>
       <tr>
         <td><strong>Armoured Combat Protector</strong></td>
