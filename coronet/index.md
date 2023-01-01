@@ -121,7 +121,7 @@ prevurl:
         <td><strong>Arts & Sciences Protector</strong>
         </td>
         <td>
-        TBD
+        [Name needed]
         </td>
       </tr>
       <tr>
