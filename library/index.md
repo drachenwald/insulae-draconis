@@ -40,6 +40,11 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Change of Officer online form](https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform)
 - Sign in sheets for events: [Word format]({% link library/publications/signinsheet202106.docx %}) and [Excel format]({% link library/publications/signinsheet202106.xlsx %})
 
+# History
+- [Previous reigns](https://insulaedraconis.org/coronet/past/)
+- [Previous Principality protectors](https://insulaedraconis.org/activities/protectors/)
+- [Founding Order members](https://insulaedraconis.org/activities/heraldry/founding-members/)
+
 # How-tos, and other miscellany
 
 - [Personas]({% link library/howtos/adopt-a-persona.md %})
