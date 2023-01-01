@@ -16,6 +16,14 @@ titles:
     badge: "/images/rapier_protector.gif"
 
 winners:
+  - tournament: Protectors XV
+    year: 2021
+    protectors:
+      - field: heavy
+        name: Lord Alex of Derlington
+      - field: rapier
+        name: Duchess Isaebel Peregrinus
+        
   - tournament: Protectors XIV
     year: 2019
     venue: Winners for most fields were not announced when the event ended prematurely due to extreme weather.
