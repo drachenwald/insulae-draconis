@@ -13,6 +13,7 @@ banner: /images/banner/scribalDeskTretower.jpg
   - [Fibre Guild Charter](https://insulaedraconis.org/library/charters/fibre-guild-charter/)
 - [GDPR](https://insulaedraconis.org/governance/gdpr/)
 - [General GDPR advice and key changes](https://insulaedraconis.org/governance/gdpr-advice/)
+- [Get or renew your membership](https://membermojo.co.uk/scauk)
 
 # Group resources
 
