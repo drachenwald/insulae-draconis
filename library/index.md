@@ -13,6 +13,7 @@ banner: /images/banner/scribalDeskTretower.jpg
   - [Fibre Guild Charter](https://insulaedraconis.org/library/charters/fibre-guild-charter/)
 - [GDPR](https://insulaedraconis.org/governance/gdpr/)
 - [General GDPR advice and key changes](https://insulaedraconis.org/governance/gdpr-advice/)
+- [About the UK CIC Board and officers](https://www.aspiringluddite.com/sca/CICsum.shtml)
 - [Get or renew your membership](https://membermojo.co.uk/scauk)
 
 # Group resources
@@ -31,6 +32,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Meet the Chatelaine (responsible for helping newcomers)]({% link newcomers/chatelaine.md %})
 - [What to expect at your first event]({% link newcomers/what-to-expect.md %})
 - [Jargon buster]({% link newcomers/jargonbuster.md %})
+- [Introduction to heraldry](https://insulaedraconis.org/activities/heraldry/before-the-internet/)
 - [Why I joined: our members share their stories]({% link newcomers/why-i-joined.md %})
 - [What is Court and what is expected of me?]({% link coronet/what-is-court.md %})
 - [What do people mean when they say Recommend someone for an award?]({% link activities/heraldry/awards.md %})
@@ -41,7 +43,17 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Change of Officer online form](https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform)
 - Sign in sheets for events: [Word format]({% link library/publications/signinsheet202106.docx %}) and [Excel format]({% link library/publications/signinsheet202106.xlsx %})
 
+# Heraldry resources
+
+- [Insulae Draconis Book of Ceremonies](https://insulaedraconis.gitlab.io/ceremonies/)
+  - [Book of Ceremonies source repository](https://gitlab.com/insulaedraconis/ceremonies)
+- [Heraldry in the SCA](https://insulaedraconis.org/library/howtos/heraldry-in-sca/)
+- [Court and Tourney Heraldry](https://insulaedraconis.org/library/howtos/court-and-tourney-heraldry/)
+- [How to submit a name or device](https://drachenwald.sca.org/offices/herald/submittingnamesheraldry/)
+- [Insulae Draconis awards](https://insulaedraconis.org/activities/heraldry/awards/)
+
 # History
+
 - [Previous reigns](https://insulaedraconis.org/coronet/past/)
 - [Previous Principality protectors](https://insulaedraconis.org/activities/protectors/)
 - [Founding Order members](https://insulaedraconis.org/activities/heraldry/founding-members/)
@@ -49,8 +61,6 @@ banner: /images/banner/scribalDeskTretower.jpg
 # How-tos, and other miscellany
 
 - [Personas]({% link library/howtos/adopt-a-persona.md %})
-- [Heraldry in the SCA]({% link library/howtos/heraldry-in-sca.md %})
-- [Court and Tourney Heraldry]({% link library/howtos/court-and-tourney-heraldry.md %})
 - [Make a war tabard](https://insulaedraconis.org/activities/heraldry/id-tabard/)
 - [Insulae Draconis war standard design](https://insulaedraconis.org/activities/heraldry/id-banner/)
 - [Charted heraldic patterns](https://insulaedraconis.org/activities/heraldry/cross-stitch/)
