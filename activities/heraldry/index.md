@@ -1,8 +1,7 @@
 ---
-sidebar: sidebar-heraldry
-prevurl: /Activities/Heraldry/
 title: Heraldry
 subtitle: What heraldry is and how you can get involved
+sidebar: sidebar-herald
 banner: /images/banner/banner-over-raglan.jpg
 prevurl: /Activities/Heraldry/
 ---
