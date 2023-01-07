@@ -14,9 +14,9 @@ The [SCA College of Arms](http://heraldry.sca.org/) has more information about w
 
 <strong>Book heralds</strong> study and research names (onomastics) and devices (coats of arms), helping people register their personae (the medieval person that they are acting as within the Society) names and devices with the College of Heralds. 
 
-[About Registering Names or devices]({% link activities/heraldry/register.md %}) -
-[How to submit a name or device (Drachenwald Website)](https://drachenwald.sca.org/offices/herald/submittingnamesheraldry/)
-For heralds taking registrations: [heraldic receipt]({% link activities/heraldry/files/heraldic_receipt_id.pdf %}) (PDF)
+- [About Registering Names or devices]({% link activities/heraldry/register.md %})
+- [How to submit a name or device (Drachenwald Website)](https://drachenwald.sca.org/offices/herald/submittingnamesheraldry/)
+- For heralds taking registrations: [heraldic receipt]({% link activities/heraldry/files/heraldic_receipt_id.pdf %}) (PDF)
 
 ## Voice Heralds
 
@@ -24,7 +24,7 @@ For heralds taking registrations: [heraldic receipt]({% link activities/heraldry
 
 <strong>Court heraldry</strong> is running formal courts effectively and enjoyably, getting business done and adding to the pageantry of the scene. Here you become the voice of the Crown, making the day very special for those you call upon.
 
-[Insulae Draconis Book of Ceremonies](https://insulaedraconis.gitlab.io/ceremonies/)
+- [Insulae Draconis Book of Ceremonies](https://insulaedraconis.gitlab.io/ceremonies/)
 
 ## Visual Heraldry
 
@@ -34,9 +34,10 @@ We also use heraldry to decorate our halls, fields and equipment, from tabards t
 
 When awards are created, heralds ensure that the name and badge associated with them are unique and follow accepted practices — just like with personal names, devices and badges. Heralds are also responsible for organising and maintaining the Order of Precedence database that keeps track of the awards and recognition given to everyone in the Kingdom.
 
-[Order of Precedence](http://op.drachenwald.sca.org/awards) Scroll to the Insulae Draconis awards.
+- [Order of Precedence](http://op.drachenwald.sca.org/awards) Scroll to the Insulae Draconis awards.
 
-[Awards in Insulae Draconis]({% link activities/heraldry/awards.md %}) and [the Kingdom of Drachenwald](http://www.drachenwald.sca.org/offices/herald/drachenwaldawardsorders/)
+- [Awards in Insulae Draconis]({% link activities/heraldry/awards.md %}) 
+- [Awards in the Kingdom of Drachenwald](http://www.drachenwald.sca.org/offices/herald/drachenwaldawardsorders/)
 
 
 ## Banner and badge images
