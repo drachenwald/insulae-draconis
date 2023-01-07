@@ -25,6 +25,7 @@ The [SCA College of Arms](http://heraldry.sca.org/) has more information about w
 <strong>Court heraldry</strong> is running formal courts effectively and enjoyably, getting business done and adding to the pageantry of the scene. Here you become the voice of the Crown, making the day very special for those you call upon.
 
 - [Insulae Draconis Book of Ceremonies](https://insulaedraconis.gitlab.io/ceremonies/)
+- [Getting started in court and tournament heraldry](https://insulaedraconis.org/library/howtos/court-and-tourney-heraldry/)
 
 ## Visual Heraldry
 
