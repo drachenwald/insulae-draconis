@@ -1,13 +1,13 @@
 ---
 prevurl:
  - /Coronet/CoronetTourney.html
-title: Coronet Tourney
+title: Coronet Tournament
 subtitle: The Tournament that decides our next Prince and Princess
 banner: /images/banner/royalty-coronet.jpg
 ---
 # Ascending the Principality thrones
 
-<p>An armoured combat <a href="https://insulaedraconis.org/coronet/coronet-tourney/">Coronet Tournament</a> is fought every nine months to determine who will be the next pair to wear the Coronets of Insulae Draconis. Any authorised armoured fighter who is a fully paid member of the SCA and who has the support of a consort (also a fully paid up member) can fight. The tournament will be officially announced and fighter must give formal notification of their intention to enter with a  <a href="{% link coronet/coronet-tourney.md %}#submit-a-letter-of-intent">Letter of Intent</a>.</p> 
+<p>An armoured combat Coronet Tournament (often shortened to 'tourney') is fought every nine months to determine who will be the next pair to wear the Coronets of Insulae Draconis. Any authorised armoured fighter who is a fully paid member of the SCA and who has the support of a consort (also a fully paid up member) can fight. The tournament will be officially announced and fighter must give formal notification of their intention to enter with a  <a href="{% link coronet/coronet-tourney.md %}#submit-a-letter-of-intent">Letter of Intent</a>.</p> 
 
 [Learn more about what is needed to host a Cornet tournament](https://insulaedraconis.org/library/group-resources/bidding-for-events/), and [contact the Principality Seneschal](seneschal@insulaedraconis.org) for more information about submitting an event proposal.
 
