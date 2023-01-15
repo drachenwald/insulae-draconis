@@ -36,7 +36,7 @@ Flintheath is an English Shire covering Shire, covering East Anglia, England
 {% include group-contacts.html groupslug="Insulae Draconis-Flintheath" %}
  
 
-[Visit the Flintheath Website](http://www.flintheath.org.uk/)
+[Visit the Flintheath Website](https://flintheathweb.wixsite.com/flintheath)
 
 
 <h2><a name="glenrathlin">Glen Rathlin</a></h2>
