@@ -12,7 +12,7 @@ Depedene under Wychwood is a English Shire covering the area including postcodes
 
 {% include group-contacts.html groupslug="Insulae Draconis-Depedene under Wychwood" %}
 
-[Visit the Depedene Website](https://sites.google.com/site/depedeneunderwychwood/)
+[Visit the Depedene Website](https://www.depedene.org/)
 
 <h2><a name="duninmara">Dun in Mara</a></h2>
 Dun in Mara is an Irish Shire, covering the counties of Louth, Meath, Dublin, Kildare, Wicklow, Carlow, Kilkenny, Wexford and Waterford in Ireland.
