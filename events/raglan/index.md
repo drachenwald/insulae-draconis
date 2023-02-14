@@ -25,4 +25,4 @@ banner: /images/banner/night-camp.jpg
 
 <p>In addition to the hands-on work, you will also have the chance to interact with participants and help create a welcoming and inclusive environment. Whether you are helping to promote the event through marketing and outreach, or simply engaging with participants and answering their questions, you will play a vital role in creating a truly unforgettable experience.</p>
 
-<p>At the end of each day, you can feel a deep sense of pride and accomplishment, knowing that you have helped bring a piece of history to life. If you'd like to volunteer at the event, get in touch with the <a href="mailto:id-summer-event-steward@insulaedraconis.org>Event Steward</a></p>
+<p>At the end of each day, you can feel a deep sense of pride and accomplishment, knowing that you have helped bring a piece of history to life. If you'd like to volunteer at the event, get in touch with the <a href="mailto:id-summer-event-steward@insulaedraconis.org">Event Steward</a></p>
