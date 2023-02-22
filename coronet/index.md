@@ -9,93 +9,47 @@ prevurl:
     <tbody>
       <tr>
         <td width="50%" style="text-align: right">
-          <h2>Prince</h2>
-          <strong>Ranulf Li Norreis</strong><br>
-          <a href="mailto:prince@insulaedraconis.org" >prince@insulaedraconis.org</a>
+          <h2>Princess</h2>
+          <strong>Eularia Trewe</strong><br>
+          <a href="mailto:princess@insulaedraconis.org" >prince@insulaedraconis.org</a>
         </td>
-        <td width="50%" style="text-align: left"><h2>Princess</h2>
-            <strong>Euphrosyne Eirinikina </strong><br>
-          <a href="mailto:princess@insulaedraconis.org">princess@insulaedraconis.org</a> <br>
+        <td width="50%" style="text-align: left"><h2>Prince</h2>
+            <strong>Alexandre d'Avignon</strong><br>
+          <a href="mailto:prince@insulaedraconis.org">princess@insulaedraconis.org</a> <br>
           </td>
       </tr>
       <tr>
         <td colspan="2" style="text-align: center">
-          <img width="400" src="/coronet/images/Ranulf-Euphrosyne.jpg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
+          <img width="400" src="/coronet/images/Eularia_Alexandre.jpeg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
         </td>
       </tr>
 <br>
  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <td>His Highness is interested in all medieval/pre-modern martial arts, from all around the world (rattan combat, fencing, cut and thrust, wrestling, archery, jousting, etc.), stories, songs, and dances, and embracing the joy of time spent in a shared love of the past.</td>
-        <td>Her Highness is interested in jewelry making, fiber and textile arts, calligraphy and illumination, equestrian activities, foods from all over the world, and all the other fun and exciting aspects of SCA activities.</td>
+        <th colspan="2" style="text-align: center"> Their Highnesses have a fervent desire to support everyone so that they may participate fully, especially those with accessibility and accommodation needs.</th>
       </tr>
-      <tr>
-        <td>His Highness likes seeing courteous and noble behavior, new people, people having a good time and enjoying themselves in a shared environment, and hearing stories of great deeds.</td>
-        <td>Her Highness likes bright and colorful décor at events, people having a good time, and seeing gentlefolk helping each other.</td>
-      </tr>
-      <tr>
-        <td>
-        His Highness would like to see events that are accessible to as broad a range of people as possible.
-        </td>
-        <td>
-        Her Highness would like to have lots of events to attend and to meet new people.
-        </td>
-      </tr>
-      <tr>
-        <td>
-         His Highness dislikes being unable to see and enjoy every activity at an event because of an overbooked schedule
-        </td>
-        <td>
-         Her Highness dislikes stressful environments and gentlefolk displaying disrespectful manners to each other.
-        </td>
-      </tr>
-      <tr>
         <th colspan="2" style="text-align: center"><i><b>Regarding food</b></i></th>
       </tr>
       <tr>
         <td>
-         Please feed his Highness vegetables of all varieties, anything local, sparkling water, and meats of all types.
+         Her Highness has no food restrictions, and is interested in and looks forward to enjoying all types of recipes.
         </td>
         <td>
-         Please feed her Highness meat, seafood, vegetables, rice, and all kinds of fruits. 
+         His Highness has no food restrictions, and particularly enjoys period food.  He would love to see your recipes and any documentation that you may have.
         </td>
       </tr>
-      <tr>
-        <td>
-         Please don't feed his Highness anything spicier than a habenero pepper.
-        </td>
-        <td>
-         Please don't feed her Highness dairy products without warning (lactose intolerance), raw onion, or rosewater.
-        </td>
-      </tr>
-      <tr>
-        <th colspan="2" style="text-align: center"><i><b>Royal Whim</b></i></th>
-      </tr>
-      <tr>
-        <td>
-         We would love to pet your dog.
-        </td>
-        <td>
-         We would love to pet your dog. 
-        </td>
-      </tr>
-      <tr>
-        <td>
-         Respect people's pronouns and identities.
-        </td>
-        <td>
-         Respect people's pronouns and identities. 
-        </td>
-      </tr>
-
   </tbody>
   </table>
-
+  
+  <h3>From Her Highness</h3>
+  <p>I am a little hard of hearing. Thanks for your patience as I lean in and say, “I’m sorry, would you please say that again?”</p>
+  <p>I also have a chronic health issue that sometimes impacts my ability to participate 100%. Again, thanks for your patience.</p>
 <br />
 <div id="mainContent">
 
-  <h2><a name="progress"></a>Royal Progress</h2>
+
+  <h2>Royal Progress</h2>
 
   <p>
   Events their Highnesses are planning to attend are <a href="{% link events/index.html %}">marked with a Crown icon in the Principality Calendar</a>.
@@ -132,6 +86,53 @@ prevurl:
 
   </tbody>
   </table>
+    <h3>Household & Retinue</h3>
+  <table class="table table-striped" style="align: left">
+<table width="500" cellspacing="0" cellpadding="2">
+    <tbody>
+      <tr>
+        <td><strong>Chamberlain</strong></td>
+        <td>Lord Aodhan dha Cheist</td>
+      </tr>
+      <tr>
+        <td><strong>Chamberlain</strong></td>
+        <td>Lord Meliton</td>
+      </tr>
+      <tr>
+        <td><strong>Armoured Champion</strong>
+        </td>
+        <td>
+        Lord Mícheál Breathnach
+        </td>
+      </tr>
+  </tbody>
+  </table>
+    <h3>Escorts</h3>
+  <table class="table table-striped" style="align: left">
+<table width="500" cellspacing="0" cellpadding="2">
+    <tbody>
+      <tr>
+        <td><strong>Coronet</strong></td>
+        <td>Lord Roland Follifoote</td>
+      </tr>
+      <tr>
+        <td><strong>Coronet</strong></td>
+        <td>Nicholas of Flintheath</td>
+      </tr>
+  </tbody>
+</table>
+    <h3>Attendants</h3>
+  <table class="table table-striped" style="align: left">
+<table width="500" cellspacing="0" cellpadding="2">
+    <tbody>
+      <tr>
+        <td><strong>Coronet</strong></td>
+        <td>Dominic of Flintheath</td>
+      </tr>
+  </tbody>
+</table>
+    
+<br />
 <br />
   <h2>About the Coronets</h2>
 
