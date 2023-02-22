@@ -103,3 +103,6 @@ Sir Avery of Westfall & Zoë of Enstone
 
 Coronet XVIII, (August 2021 to May 2022)  
 Duke Siridean MacLachlan & Mistress Rogned Stengrimova
+
+Coronet XIX, (May 2022 to February 2023)  
+Lord Ranulf li Norries & Lady Euphrosyne Eirenikina
