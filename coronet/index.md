@@ -26,8 +26,10 @@ prevurl:
 <br>
  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
+      <tr>
         <th colspan="2" style="text-align: center"> Their Highnesses have a fervent desire to support everyone so that they may participate fully, especially those with accessibility and accommodation needs.</th>
       </tr>
+      <tr>
         <th colspan="2" style="text-align: center"><i><b>Regarding food</b></i></th>
       </tr>
       <tr>
