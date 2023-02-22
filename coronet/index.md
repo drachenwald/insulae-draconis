@@ -11,11 +11,11 @@ prevurl:
         <td width="50%" style="text-align: right">
           <h2>Princess</h2>
           <strong>Eularia Trewe</strong><br>
-          <a href="mailto:princess@insulaedraconis.org" >prince@insulaedraconis.org</a>
+          <a href="mailto:princess@insulaedraconis.org" >princeess@insulaedraconis.org</a>
         </td>
         <td width="50%" style="text-align: left"><h2>Prince</h2>
             <strong>Alexandre d'Avignon</strong><br>
-          <a href="mailto:prince@insulaedraconis.org">princess@insulaedraconis.org</a> <br>
+          <a href="mailto:prince@insulaedraconis.org">prince@insulaedraconis.org</a> <br>
           </td>
       </tr>
       <tr>
@@ -26,7 +26,6 @@ prevurl:
 <br>
  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
-      <tr>
         <th colspan="2" style="text-align: center"> Their Highnesses have a fervent desire to support everyone so that they may participate fully, especially those with accessibility and accommodation needs.</th>
       </tr>
         <th colspan="2" style="text-align: center"><i><b>Regarding food</b></i></th>
