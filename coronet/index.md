@@ -11,7 +11,7 @@ prevurl:
         <td width="50%" style="text-align: right">
           <h2>Princess</h2>
           <strong>Eularia Trewe</strong><br>
-          <a href="mailto:princess@insulaedraconis.org" >princeess@insulaedraconis.org</a>
+          <a href="mailto:princess@insulaedraconis.org" >princess@insulaedraconis.org</a>
         </td>
         <td width="50%" style="text-align: left"><h2>Prince</h2>
             <strong>Alexandre d'Avignon</strong><br>
