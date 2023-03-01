@@ -59,7 +59,7 @@ prevurl:
   <br />
   
   <h2><a name="court"></a>Royal Court and retinue</h2>
-  
+  <br>
   <h3>Principality Protectors</h3>
   <table class="table table-striped" style="align: left">
 <table width="500" cellspacing="0" cellpadding="2">
@@ -84,33 +84,32 @@ prevurl:
         <td>Duke Vitus Polonius
         </td>
       </tr>
-
   </tbody>
   </table>
+    <br>
     <h3>Household & Retinue</h3>
   <table class="table table-striped" style="align: left">
 <table width="500" cellspacing="0" cellpadding="2">
-    <tbody>
+   <tbody>
       <tr>
         <td><strong>West Chamberlain</strong></td>
         <td>Lord Aodhan dha Cheist</td>
-        <td><a href="mailto:chamberlain-west@insulaedraconis.org" >chamberlain-west@insulaedraconis.org</a></td>
+        <td><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
       </tr>
       <tr>
         <td><strong>East Chamberlain</strong></td>
         <td>Lord Meliton</td>
-        <td><a href="mailto:chamberlain-east@insulaedraconis.org" >chamberlain-east@insulaedraconis.org</a></td>
+        <td><a href="mailto:chamberlain-east@insulaedraconis.org">chamberlain-east@insulaedraconis.org</a></td>
       </tr>
-    </tbody>
+  </tbody>
     </table>
-    <table>
-    <tbody>
+<br>
+   <table class="table table-striped" style="align: left">
+<table width="500" cellspacing="0" cellpadding="2">
       <tr>
-        <td><strong>Major Domo</strong>
-        </td>
+        <td><strong>Major Domo</strong></td>
         <td>
-        Lord Kenneth Elliot of Flintheath
-        </td>
+        Lord Kenneth Elliot of Flintheath</td>
       <tr>
         <td><strong>Major Domo</strong>
         </td>
@@ -131,10 +130,11 @@ prevurl:
         Lady Bella Donna of Flintheath
         </td>
       </tr>
-  </tbody>
-  </table>
+    </tbody>
+</table>
+    <br>
     <h3>Escorts</h3>
-  <table class="table table-striped" style="align: left">
+<table class="table table-striped" style="align: left">
 <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
