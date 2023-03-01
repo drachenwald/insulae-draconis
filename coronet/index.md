@@ -93,19 +93,12 @@ prevurl:
    <tbody>
       <tr>
         <td><strong>West Chamberlain</strong></td>
-        <td>Lord Aodhan dha Cheist</td>
-        <td><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
+        <td>Lord Aodhan dha Cheist<br><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
       </tr>
       <tr>
         <td><strong>East Chamberlain</strong></td>
-        <td>Lord Meliton</td>
-        <td><a href="mailto:chamberlain-east@insulaedraconis.org">chamberlain-east@insulaedraconis.org</a></td>
+        <td>Lord Meliton<br><a href="mailto:chamberlain-east@insulaedraconis.org">chamberlain-east@insulaedraconis.org</a></td>
       </tr>
-  </tbody>
-    </table>
-<br>
-   <table class="table table-striped" style="align: left">
-<table width="500" cellspacing="0" cellpadding="2">
       <tr>
         <td><strong>Major Domo</strong></td>
         <td>
