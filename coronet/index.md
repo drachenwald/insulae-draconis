@@ -103,12 +103,14 @@ prevurl:
         <td><strong>Major Domo</strong></td>
         <td>
         Lord Kenneth Elliot of Flintheath</td>
+     </tr>
       <tr>
         <td><strong>Major Domo</strong>
         </td>
         <td>
         Dominic of Flintheath
         </td>
+     </tr>
       <tr>
         <td><strong>Armoured Champion</strong>
         </td>
