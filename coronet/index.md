@@ -92,18 +92,41 @@ prevurl:
 <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <td><strong>Chamberlain</strong></td>
+        <td><strong>West Chamberlain</strong></td>
         <td>Lord Aodhan dha Cheist</td>
+        <td><a href="mailto:chamberlain-west@insulaedraconis.org" >chamberlain-west@insulaedraconis.org</a></td>
       </tr>
       <tr>
-        <td><strong>Chamberlain</strong></td>
+        <td><strong>East Chamberlain</strong></td>
         <td>Lord Meliton</td>
+        <td><a href="mailto:chamberlain-east@insulaedraconis.org" >chamberlain-east@insulaedraconis.org</a></td>
       </tr>
+    </table>
+    <table>
+      <tr>
+        <td><strong>Major Domo</strong>
+        </td>
+        <td>
+        Lord Kenneth Elliot of Flintheath
+        </td>
+      <tr>
+        <td><strong>Major Domo</strong>
+        </td>
+        <td>
+        Dominic of Flintheath
+        </td>
       <tr>
         <td><strong>Armoured Champion</strong>
         </td>
         <td>
         Lord Mícheál Breathnach
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Rapier Champion</strong>
+        </td>
+        <td>
+        Lady Bella Donna of Flintheath
         </td>
       </tr>
   </tbody>
