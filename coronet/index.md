@@ -101,8 +101,10 @@ prevurl:
         <td>Lord Meliton</td>
         <td><a href="mailto:chamberlain-east@insulaedraconis.org" >chamberlain-east@insulaedraconis.org</a></td>
       </tr>
+    </tbody>
     </table>
     <table>
+    <tbody>
       <tr>
         <td><strong>Major Domo</strong>
         </td>
