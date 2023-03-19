@@ -111,6 +111,11 @@ prevurl:
         Dominic of Flintheath
         </td>
      </tr>
+     <tr>
+        <td><strong>Major Domo</strong></td>
+        <td>
+        Lord Roland of Follifoote</td>
+     </tr>
       <tr>
         <td><strong>Armoured Champion</strong>
         </td>
