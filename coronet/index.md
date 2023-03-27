@@ -102,7 +102,7 @@ prevurl:
       <tr>
         <td><strong>Major Domo</strong></td>
         <td>
-        Lord Kenneth Elliot of Flintheath</td>
+        Lord Kenneth Elliot</td>
      </tr>
       <tr>
         <td><strong>Major Domo</strong>
@@ -127,7 +127,14 @@ prevurl:
         <td><strong>Rapier Champion</strong>
         </td>
         <td>
-        Lady Bella Donna of Flintheath
+        Lady Bella Donna
+        </td>
+      </tr>
+     <tr>
+        <td><strong>Court Astrologer</strong>
+        </td>
+        <td>
+        Mistress Ysabella-Maria de San Lázaro
         </td>
       </tr>
     </tbody>
@@ -145,6 +152,14 @@ prevurl:
         <td><strong>Coronet</strong></td>
         <td>Nicholas of Flintheath</td>
       </tr>
+      <tr>
+        <td><strong>Eisteddfod</strong></td>
+        <td>Viscount Ranulf Li Norreis</td>
+      </tr>
+      <tr>
+        <td><strong>Eisteddfod</strong></td>
+        <td>Lord Meliton the Artisan</td>
+      </tr>
   </tbody>
 </table>
     <h3>Attendants</h3>
@@ -154,6 +169,10 @@ prevurl:
       <tr>
         <td><strong>Coronet</strong></td>
         <td>Dominic of Flintheath</td>
+      </tr>
+      <tr>
+        <td><strong>Eisteddfod</strong></td>
+        <td>Viscountess Euphrosyne Eirinikina</td>
       </tr>
   </tbody>
 </table>
