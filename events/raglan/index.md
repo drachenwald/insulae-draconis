@@ -1,5 +1,5 @@
 ---
-title: Big Summer Camping Event
+title: Ormþing
 subtitle: A full week of fun
 banner: /images/banner/night-camp.jpg
 ---
@@ -11,12 +11,12 @@ banner: /images/banner/night-camp.jpg
 <a href="https://sites.google.com/insulaedraconis.org/id-summer-event-2023?pli=1">Find out more on the event website.</a>
 <br>
 <br>
-<h2>Insulae Draconis Summer Camping needs you!</h2>
+<h2>Ormþing needs you!</h2>
 
-<p>Volunteering to help plan and run the Summer Camping event is a unique and exciting opportunity to support the Principality in one of its most popular pastimes. As a member of the planning committee or as an event volunteer, you will have the chance to work alongside a dedicated team of event organizers to bring the magic of the medieval era to life. Maybe even at a castle.</p>
+<p>Volunteering to help plan and run Ormþing — the big Summer camping event in Insulae Draconis — is a unique and exciting opportunity to support the Principality in one of its most popular pastimes. As a member of the planning committee or as an event volunteer, you will have the chance to work alongside a dedicated team of event organizers to bring the magic of the medieval era to life. Maybe even at a castle.</p>
 
-<h3>Summer Camping Event Committee</h3>
-<p>Events this size need year-round support - securing a site, sorting out contracts and choosing an Event Steward needs to happen early, and it takes a team of behind-the-scenes players to stay on top of things. If you'd like to be a part of the Summer Event committee, contact the <a href="mailto:seneschal@insulaedraconis.org">Principality Seneschal</a>.</p>
+<h3>Ormþing Event Committee</h3>
+<p>Events this size need year-round support - securing a site, sorting out contracts and choosing an Event Steward needs to happen early, and it takes a team of behind-the-scenes players to stay on top of things. If you'd like to be a part of the Ormþing Event committee, contact the <a href="mailto:seneschal@insulaedraconis.org">Principality Seneschal</a>.</p>
 
 <p>The committee, together with the Seneschal, will review bids up to nearly a year in advance. If you and your group are interested in putting a bid together, get in touch with the Seneschal and take a look at <a href="https://insulaedraconis.org/library/group-resources/bidding-for-events/">Bidding for Principality Events</a> to get an idea of what you'll need to think about. It's important to have the bid accepted and the Event Steward in place well in advance, so they have time to build a team and begin advertising.</p> 
 
