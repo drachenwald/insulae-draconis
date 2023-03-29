@@ -131,10 +131,24 @@ prevurl:
         </td>
       </tr>
      <tr>
+        <td><strong>Arts & Sciences Champion</strong>
+        </td>
+        <td>
+        The Honourable Lady Elen Benet
+        </td>
+      </tr>
+     <tr>
         <td><strong>Court Astrologer</strong>
         </td>
         <td>
         Mistress Ysabella-Maria de San Lázaro
+        </td>
+      </tr>
+     <tr>
+        <td><strong>Royal Cartographer</strong>
+        </td>
+        <td>
+        Viscount Yannick of Normandy
         </td>
       </tr>
     </tbody>
@@ -160,6 +174,18 @@ prevurl:
         <td><strong>Eisteddfod</strong></td>
         <td>Lord Meliton the Artisan</td>
       </tr>
+       <tr>
+        <td><strong>March Lune-acy</strong></td>
+        <td>Viscountess Valda ingen Chaemgin</td>
+      </tr>
+       <tr>
+        <td><strong>March Lune-acy</strong></td>
+        <td>Hildr Mikjállsdóttir</td>
+      </tr>
+       <tr>
+        <td><strong>March Lune-acy</strong></td>
+        <td>Auron the White Wolf</td>
+      </tr>
   </tbody>
 </table>
     <h3>Attendants</h3>
@@ -174,9 +200,12 @@ prevurl:
         <td><strong>Eisteddfod</strong></td>
         <td>Viscountess Euphrosyne Eirinikina</td>
       </tr>
+      <tr>
+        <td><strong>March Lune-acy</strong></td>
+        <td>Amy of Osgoldcross</td>
+      </tr>
   </tbody>
 </table>
-    
 <br />
 <br />
   <h2>About the Coronets</h2>
