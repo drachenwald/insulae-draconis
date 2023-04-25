@@ -30,6 +30,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Event finances guidelines (download)]({% link library/publications/Event-Finances1.docx %})
 - [Event promotion guide (download)]({% link library/publications/Event-Promotion-Guide1.pptx %})
 - [Reservations Steward guide (download)]({% link library/publications/Reservations-Steward-Guide1.docx %})
+- [Venue accessibility questionnaire (download)]({% link library/publications/Venue-accessibility.docx %})
 
 # Newcomers Guides
 
