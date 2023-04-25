@@ -24,13 +24,13 @@ banner: /images/banner/scribalDeskTretower.jpg
 
 - [Bidding for a Principality event]({% link library/group-resources/bidding-for-events.md %})
 - [Some tips and tricks running an event]({% link library/howtos/running-an-event.md %})
-- [What is your perfect event? Survey results (download)]({% link library/publications/Perfect-Event.docx %})
+- What is your perfect event? Survey results [download]({% link library/publications/Perfect-Event.docx %})
 
-- [Insulae Draconis event planning timeline (download)]({% link library/publications/Event-Planning-Timeline1.pptx %})
-- [Event finances guidelines (download)]({% link library/publications/Event-Finances1.docx %})
-- [Event promotion guide (download)]({% link library/publications/Event-Promotion-Guide1.pptx %})
-- [Reservations Steward guide (download)]({% link library/publications/Reservations-Steward-Guide1.docx %})
-- [Venue accessibility questionnaire (download)]({% link library/publications/Venue-accessibility.docx %})
+- Insulae Draconis event planning timeline [download]({% link library/publications/Event-Planning-Timeline1.pptx %})
+- Event finances guidelines [download]({% link library/publications/Event-Finances1.docx %})
+- Event promotion guide [download]({% link library/publications/Event-Promotion-Guide1.pptx %})
+- Reservations Steward guide [download]({% link library/publications/Reservations-Steward-Guide1.docx %})
+- Venue accessibility questionnaire [download]({% link library/publications/Venue-accessibility.docx %})
 
 # Newcomers Guides
 
