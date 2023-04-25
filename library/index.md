@@ -26,7 +26,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Some tips and tricks running an event]({% link library/howtos/running-an-event.md %})
 - [Bidding for a Principality event]({% link library/group-resources/bidding-for-events.md %})
 
-- [Insulae Draconis event planning guidelines (download)]({% link library/publications/library/publications/Event-Planning-Timeline1.pptx %})
+- [Insulae Draconis event planning guidelines (download)]({% link library/publications/Event-Planning-Timeline1.pptx %})
 
 # Newcomers Guides
 
