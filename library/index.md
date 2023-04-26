@@ -7,8 +7,9 @@ banner: /images/banner/scribalDeskTretower.jpg
 # Governance
 
 - [Principality Law - PDF](https://insulaedraconis.org/library/publications/ID_Law.pdf)
+- [Principality financial policies](https://docs.google.com/document/d/1OhTXWCqVpGz38tjbRbmbomcxuLpymnMOY-LnzZ4k4kE/edit)
 - [Drachenwald Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf)
-- [Conduct and Behaviour resources](https://www.sca.org/conduct-behavior-in-the-sca/) at sca.org
+- [Conduct and behaviour resources](https://www.sca.org/conduct-behavior-in-the-sca/) at sca.org
 - Guild Charters
   - [Fibre Guild Charter](https://insulaedraconis.org/library/charters/fibre-guild-charter/)
 - [GDPR](https://insulaedraconis.org/governance/gdpr/)
