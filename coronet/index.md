@@ -93,7 +93,7 @@ prevurl:
    <tbody>
       <tr>
         <td><strong>West Chamberlain</strong></td>
-        <td>Lord Aodhan dha Cheist<br><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
+        <td>Lord Aodháin Dhá Cheist<br><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
       </tr>
       <tr>
         <td><strong>East Chamberlain</strong></td>
@@ -135,6 +135,12 @@ prevurl:
         </td>
         <td>
         The Honourable Lady Elen Benet
+        </td>
+      </tr><tr>
+        <td><strong>Archery Champion</strong>
+        </td>
+        <td>
+       Lady Alays de Lunel
         </td>
       </tr>
      <tr>
@@ -185,6 +191,9 @@ prevurl:
        <tr>
         <td><strong>March Lune-acy</strong></td>
         <td>Auron the White Wolf</td>
+      </tr> <tr>
+        <td><strong>Flaming Arrow</strong></td>
+        <td>Lord Mícheál Breathnach</td>
       </tr>
   </tbody>
 </table>
@@ -203,6 +212,29 @@ prevurl:
       <tr>
         <td><strong>March Lune-acy</strong></td>
         <td>Amy of Osgoldcross</td>
+      </tr> <tr>
+        <td><strong>Flaming Arrow</strong></td>
+        <td>Shannon of Oak of Honour Hill</td>
+      </tr>
+  </tbody>
+</table> <h3>Heralds</h3>
+  <table class="table table-striped" style="align: left">
+<table width="500" cellspacing="0" cellpadding="2">
+    <tbody>
+      <tr>
+        <td><strong>Coronet</strong></td>
+        <td>Lady Shirin Peroz-Duxt</td>
+      </tr>
+      <tr>
+        <td><strong>Eisteddfod</strong></td>
+        <td>The Honourable Lord Maredudd ap Gwylim</td>
+      </tr>
+      <tr>
+        <td><strong>March Lune-acy</strong></td>
+        <td>Mistress Arianhwy Wen</td>
+      </tr> <tr>
+        <td><strong>Flaming Arrow</strong></td>
+        <td>Lord Aodháin Dhá Cheist</td>
       </tr>
   </tbody>
 </table>
