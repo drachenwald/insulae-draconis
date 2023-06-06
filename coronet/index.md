@@ -120,7 +120,7 @@ prevurl:
         <td><strong>Armoured Champion</strong>
         </td>
         <td>
-        Lord Mícheál Breathnach
+        The Honourable Lord Mícheál Breathnach
         </td>
       </tr>
       <tr>
@@ -193,7 +193,7 @@ prevurl:
         <td>Auron the White Wolf</td>
       </tr> <tr>
         <td><strong>Flaming Arrow</strong></td>
-        <td>Lord Mícheál Breathnach</td>
+        <td>The Honourable Lord Mícheál Breathnach</td>
       </tr>
   </tbody>
 </table>
