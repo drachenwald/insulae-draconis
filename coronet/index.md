@@ -197,6 +197,12 @@ prevurl:
       </tr><tr>
         <td><strong>Bourn Again!</strong></td>
         <td>Lady Bella Donna</td>
+      </tr><tr>
+        <td><strong>Strawberry Raid II</strong></td>
+        <td>Lady Alays de Lunel</td>
+      </tr><tr>
+        <td><strong>Strawberry Raid II</strong></td>
+        <td>The Honourable Lord Mícheál Breathnach</td>
       </tr>
   </tbody>
 </table>
@@ -241,6 +247,9 @@ prevurl:
       </tr><tr>
         <td><strong>Bourn Again!</strong></td>
         <td>Lady Rebecca of Flintheath</td>
+      </tr><tr>
+        <td><strong>Strawberry Raid II</strong></td>
+        <td>Lady Kytte of the Lake</td>
       </tr>
   </tbody>
 </table>
