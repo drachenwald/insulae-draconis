@@ -203,6 +203,12 @@ prevurl:
       </tr><tr>
         <td><strong>Strawberry Raid II</strong></td>
         <td>The Honourable Lord Mícheál Breathnach</td>
+      </tr><tr>
+        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
+        <td>The Honourable Lord Mícheál Breathnach</td>
+      </tr><tr>
+        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
+        <td>Lady Alays de Lunel</td>
       </tr>
   </tbody>
 </table>
@@ -223,7 +229,13 @@ prevurl:
         <td>Amy of Osgoldcross</td>
       </tr> <tr>
         <td><strong>Flaming Arrow</strong></td>
-        <td>Shannon of Oak of Honour Hill</td>
+        <td>Lady Shannon of Oak of Honour Hill</td>
+      </tr><tr>
+        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
+        <td>Lord Meliton</td>
+      </tr><tr>
+        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
+        <td>Lady Marcella di Cavallino</td>
       </tr>
   </tbody>
 </table> <h3>Heralds</h3>
@@ -250,6 +262,9 @@ prevurl:
       </tr><tr>
         <td><strong>Strawberry Raid II</strong></td>
         <td>Lady Kytte of the Lake</td>
+      </tr><tr>
+        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
+        <td>Lord Aodháin Dhá Cheist</td>
       </tr>
   </tbody>
 </table>
