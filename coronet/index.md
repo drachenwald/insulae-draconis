@@ -235,7 +235,7 @@ prevurl:
         <td>Lord Meliton</td>
       </tr><tr>
         <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
-        <td>Lady Marcella di Cavallino</td>
+        <td>The Honourable Lady Marcella di Cavallino</td>
       </tr>
   </tbody>
 </table> <h3>Heralds</h3>
