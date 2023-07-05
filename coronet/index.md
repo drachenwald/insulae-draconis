@@ -209,6 +209,9 @@ prevurl:
       </tr><tr>
         <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
         <td>Lady Alays de Lunel</td>
+      </tr><tr>
+        <td><strong>Eplaheimr Baronial Investiture</strong></td>
+        <td>The Honourable Lord Mícheál Breathnach</td>
       </tr>
   </tbody>
 </table>
@@ -236,6 +239,9 @@ prevurl:
       </tr><tr>
         <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
         <td>The Honourable Lady Marcella di Cavallino</td>
+      </tr><tr>
+        <td><strong>Eplaheimr Baronial Investiture</strong></td>
+        <td>Lord Meliton</td>
       </tr>
   </tbody>
 </table> <h3>Heralds</h3>
@@ -264,6 +270,9 @@ prevurl:
         <td>Lady Kytte of the Lake</td>
       </tr><tr>
         <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
+        <td>Lord Aodháin Dhá Cheist</td>
+      </tr><tr>
+        <td><strong>Eplaheimr Baronial Investiture</strong></td>
         <td>Lord Aodháin Dhá Cheist</td>
       </tr>
   </tbody>
