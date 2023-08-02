@@ -73,11 +73,8 @@ prevurl:
         <td>Duke Vitus Polonius</td>
       </tr>
       <tr>
-        <td><strong>Arts & Sciences Protector</strong>
-        </td>
-        <td>
-        [Name needed]
-        </td>
+        <td><strong>Arts & Sciences Protector</strong></td>
+        <td>Baroness Adele de Chadwykke</td>
       </tr>
       <tr>
         <td><strong>Rapier Protector</strong></td>
