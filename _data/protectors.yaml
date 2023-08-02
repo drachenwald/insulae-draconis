@@ -40,6 +40,8 @@ winners:
     protectors:
       - field: rapier
         name: Lady Angelica Andegavensis
+      - field: aands
+        name: Baroness Adele de Chadwykke
 
   - tournament: Protectors XIII
     year: 2018
