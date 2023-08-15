@@ -81,6 +81,11 @@ prevurl:
         <td>Duke Vitus Polonius
         </td>
       </tr>
+      <tr>
+        <td><strong>Equestrian Protector</strong></td>
+        <td>Lady Elisabeth Hardyng
+        </td>
+      </tr>
   </tbody>
   </table>
     <br>
@@ -131,13 +136,19 @@ prevurl:
         <td><strong>Arts & Sciences Champion</strong>
         </td>
         <td>
-        The Honourable Lady Elen Benet
+        Mistress Elen Benet
         </td>
       </tr><tr>
         <td><strong>Archery Champion</strong>
         </td>
         <td>
        Lady Alays de Lunel
+        </td>
+      </tr><tr>
+        <td><strong>Equestrian Champion</strong>
+        </td>
+        <td>
+       Phil of Flintheath
         </td>
       </tr>
      <tr>
