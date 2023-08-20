@@ -194,12 +194,9 @@ prevurl:
       </tr>
        <tr>
         <td><strong>March Lune-acy</strong></td>
-        <td>Hildr Mikjállsdóttir</td>
+        <td>Lady Hildr Mikjállsdóttir & Lord Auron the White Wolf</td>
       </tr>
        <tr>
-        <td><strong>March Lune-acy</strong></td>
-        <td>Auron the White Wolf</td>
-      </tr> <tr>
         <td><strong>Flaming Arrow</strong></td>
         <td>The Honourable Lord Mícheál Breathnach</td>
       </tr><tr>
@@ -220,6 +217,9 @@ prevurl:
       </tr><tr>
         <td><strong>Eplaheimr Baronial Investiture</strong></td>
         <td>The Honourable Lord Mícheál Breathnach</td>
+      </tr><tr>
+        <td><strong>Ormþing</strong></td>
+        <td>Viscount Duncan Forbes & Master Alexander of Derlington</td>
       </tr>
   </tbody>
 </table>
@@ -250,6 +250,9 @@ prevurl:
       </tr><tr>
         <td><strong>Eplaheimr Baronial Investiture</strong></td>
         <td>Lord Meliton</td>
+      </tr><tr>
+        <td><strong>Ormþing</strong></td>
+        <td>Phil of Flintheath, Lord Meliton, Captain Kenneth, Dominic of Flintheath & Leif Ranulfsson</td>
       </tr>
   </tbody>
 </table> <h3>Heralds</h3>
@@ -282,6 +285,9 @@ prevurl:
       </tr><tr>
         <td><strong>Eplaheimr Baronial Investiture</strong></td>
         <td>Lord Aodháin Dhá Cheist</td>
+      </tr><tr>
+        <td><strong>Ormþing</strong></td>
+        <td>Lady Shannon of Oak of Honour Hill & Count Avery Westfall</td>
       </tr>
   </tbody>
 </table>
