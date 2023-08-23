@@ -66,19 +66,19 @@ prevurl:
     <tbody>
       <tr>
         <td><strong>Archery Protector</strong></td>
-        <td>Kit of Flintheath</td>
+        <td>Viscount Yannick of Normandy</td>
       </tr>
       <tr>
         <td><strong>Armoured Combat Protector</strong></td>
-        <td>Duke Vitus Polonius</td>
+        <td>Count Avery Westfall</td>
       </tr>
       <tr>
         <td><strong>Arts & Sciences Protector</strong></td>
-        <td>Baroness Adele de Chadwykke</td>
+        <td>Viscountess Euphrosyne Eirenikina</td>
       </tr>
       <tr>
         <td><strong>Rapier Protector</strong></td>
-        <td>Duke Vitus Polonius
+        <td>Lady Angelica Andegavensis
         </td>
       </tr>
       <tr>
