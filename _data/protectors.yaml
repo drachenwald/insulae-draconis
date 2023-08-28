@@ -16,6 +16,20 @@ titles:
     badge: "/images/rapier_protector.gif"
 
 winners:
+  - tournament: Protectors XVII
+    year: 2023
+    protectors:
+      - field: archery
+        name: Viscount Yannick of Normandy
+      - field: heavy
+        name: Count Avery Westfall
+      - field: rapier
+        name: Lady Angelica Andegavensis
+      - field: aands
+        name: Viscountess Euphrosyne Eirenikina
+      - field: equestrian
+        name: Lady Elisabeth Hardyng
+        
   - tournament: Protectors XVI
     year: 2022
     protectors:
