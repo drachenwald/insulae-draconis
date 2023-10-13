@@ -174,11 +174,11 @@ prevurl:
     <tbody>
       <tr>
         <td><strong>Coronet</strong></td>
-        <td>Lord Roland Follifoote</td>
+        <td>Lord Roland of Follifoote</td>
       </tr>
       <tr>
         <td><strong>Coronet</strong></td>
-        <td>Nicholas of Flintheath</td>
+        <td>Nicholas Comet Born</td>
       </tr>
       <tr>
         <td><strong>Eisteddfod</strong></td>
@@ -220,6 +220,9 @@ prevurl:
       </tr><tr>
         <td><strong>Ormþing</strong></td>
         <td>Viscount Duncan Forbes & Master Alexander of Derlington</td>
+      </tr><tr>
+        <td><strong>Michaelmas</strong></td>
+        <td>Lord Roland of Follifoote</td>
       </tr>
   </tbody>
 </table>
@@ -253,6 +256,9 @@ prevurl:
       </tr><tr>
         <td><strong>Ormþing</strong></td>
         <td>Phil of Flintheath, Lord Meliton, Captain Kenneth, Dominic of Flintheath & Leif Ranulfsson</td>
+      </tr><tr>
+        <td><strong>Michaelmas</strong></td>
+        <td>Viscountess Euphrosyne Eirenikina, Viscount Yannick of Normandy & Lady Bella Donna</td>
       </tr>
   </tbody>
 </table> <h3>Heralds</h3>
@@ -288,6 +294,9 @@ prevurl:
       </tr><tr>
         <td><strong>Ormþing</strong></td>
         <td>Lady Shannon of Oak of Honour Hill & Count Avery Westfall</td>
+      </tr><tr>
+        <td><strong>Michaelmas</strong></td>
+        <td>Viscount Joel Ben Stuart</td>
       </tr>
   </tbody>
 </table>
