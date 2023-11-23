@@ -176,11 +176,11 @@ prevurl:
         <td><strong>Coronet</strong></td>
         <td>Lord Roland of Follifoote</td>
       </tr>
-      <tr>
+     <tr>
         <td><strong>Coronet</strong></td>
         <td>Nicholas Comet Born</td>
       </tr>
-      <tr>
+    <tr>
         <td><strong>Eisteddfod</strong></td>
         <td>Viscount Ranulf Li Norreis</td>
       </tr>
@@ -210,10 +210,7 @@ prevurl:
         <td>The Honourable Lord Mícheál Breathnach</td>
       </tr><tr>
         <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
-        <td>The Honourable Lord Mícheál Breathnach</td>
-      </tr><tr>
-        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
-        <td>Lady Alays de Lunel</td>
+        <td>The Honourable Lord Mícheál Breathnach & Lady Alays de Lunel</td>
       </tr><tr>
         <td><strong>Eplaheimr Baronial Investiture</strong></td>
         <td>The Honourable Lord Mícheál Breathnach</td>
@@ -223,6 +220,9 @@ prevurl:
       </tr><tr>
         <td><strong>Michaelmas</strong></td>
         <td>Lord Roland of Follifoote</td>
+      </tr><tr>
+        <td><strong>Coronet</strong></td>
+        <td>The Honourable Lord Mícheál Breathnach & Lady Alays de Lunel</td>
       </tr>
   </tbody>
 </table>
@@ -246,10 +246,7 @@ prevurl:
         <td>Lady Shannon of Oak of Honour Hill</td>
       </tr><tr>
         <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
-        <td>Lord Meliton</td>
-      </tr><tr>
-        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
-        <td>The Honourable Lady Marcella di Cavallino</td>
+        <td>The Honourable Lady Marcella di Cavallino & Lord Meliton</td>
       </tr><tr>
         <td><strong>Eplaheimr Baronial Investiture</strong></td>
         <td>Lord Meliton</td>
@@ -297,6 +294,9 @@ prevurl:
       </tr><tr>
         <td><strong>Michaelmas</strong></td>
         <td>Viscount Joel Ben Stuart</td>
+      </tr><tr>
+        <td><strong>Coronet</strong></td>
+        <td>Lord Aodháin Dhá Cheist</td>
       </tr>
   </tbody>
 </table>
