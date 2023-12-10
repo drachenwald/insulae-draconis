@@ -10,42 +10,41 @@ prevurl:
       <tr>
         <td width="50%" style="text-align: right">
           <h2>Princess</h2>
-          <strong>Eularia Trewe</strong><br>
+          <strong>Jahanara Suren</strong><br>
           <a href="mailto:princess@insulaedraconis.org" >princess@insulaedraconis.org</a>
         </td>
         <td width="50%" style="text-align: left"><h2>Prince</h2>
-            <strong>Alexandre d'Avignon</strong><br>
+            <strong>Roland of Follifoote</strong><br>
           <a href="mailto:prince@insulaedraconis.org">prince@insulaedraconis.org</a> <br>
           </td>
       </tr>
       <tr>
         <td colspan="2" style="text-align: center">
-          <img width="400" src="/coronet/images/Eularia_Alexandre.jpeg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
+          <img width="400" src="/coronet/images/Jahanara_Roland.jpg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
         </td>
       </tr>
 <br>
  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <th colspan="2" style="text-align: center"> Their Highnesses have a fervent desire to support everyone so that they may participate fully, especially those with accessibility and accommodation needs.</th>
+        <th colspan="2" style="text-align: center"> Their Highnesses seek to enable the joy of every member and guest to our fair Principality by safeguarding a place in which all can thrive, practicing what they love best and providing the opportunity to explore new challenges.</th>
       </tr>
       <tr>
         <th colspan="2" style="text-align: center"><i><b>Regarding food</b></i></th>
       </tr>
       <tr>
         <td>
-         Her Highness has no food restrictions, and is interested in and looks forward to enjoying all types of recipes.
+        Her Highness can only tolerate milk in small quantities. Her Highness can no longer tolerate caffeine, but you may see her enjoying a cunningly disguised caffeine free substitute, or occasionally deciding coffee is worth the sides effects. Her Highness enjoys sweets, especially sweet meads, liquors.
         </td>
         <td>
-         His Highness has no food restrictions, and particularly enjoys period food.  He would love to see your recipes and any documentation that you may have.
+         His Highness has no food restrictions, but is drawn to savory flavors over sweet.
         </td>
       </tr>
   </tbody>
   </table>
   
-  <h3>From Her Highness</h3>
-  <p>I am a little hard of hearing. Thanks for your patience as I lean in and say, “I’m sorry, would you please say that again?”</p>
-  <p>I also have a chronic health issue that sometimes impacts my ability to participate 100%. Again, thanks for your patience.</p>
+  <h3>From His Highness</h3>
+  <p>I am especially interested in the natural sciences as understood in period and welcome any discussion, project, display or experiment that explores this topic.</p>
 <br />
 <div id="mainContent">
 
@@ -113,11 +112,6 @@ prevurl:
         Dominic of Flintheath
         </td>
      </tr>
-     <tr>
-        <td><strong>Major Domo</strong></td>
-        <td>
-        Lord Roland of Follifoote</td>
-     </tr>
       <tr>
         <td><strong>Armoured Champion</strong>
         </td>
@@ -172,10 +166,6 @@ prevurl:
 <table class="table table-striped" style="align: left">
 <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
-      <tr>
-        <td><strong>Coronet</strong></td>
-        <td>Lord Roland of Follifoote</td>
-      </tr>
      <tr>
         <td><strong>Coronet</strong></td>
         <td>Nicholas Comet Born</td>
