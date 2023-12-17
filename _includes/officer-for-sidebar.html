@@ -1,28 +1,40 @@
-{% if officer %}
+{% assign officers = site.data.regnum | where:"group", "Insulae Draconis" | where:"office", include.office | sort: 'responsibility' %}
+{% assign numofficers = officers|size %}
+{% assign role = site.data.officetitles | where:"slug", include.office | first %}
 
-{% assign role = site.data.officetitles | where:"slug", officer.office | first %}
+{% if numofficers > 0 %}
 
-<h3>{{ role.title }}</h3>
-<p><strong>{{ officer.scaname }}</strong>
-{% unless officer.mundanename == "" %}
- ({{ officer.mundanename }})
-{% endunless %}
-{% unless officer.pronouns == "" %}
- <span class="text-muted">{{ officer.pronouns }}</span>
-{% endunless %}<br>
-<strong>Contact:</strong> {{ officer.email }}
-</p>
+  <h3>{{ role.title }}</h3>
+
+  {% for officer in officers %}
+
+    {% unless officer.responsibility == " " %}
+    <h6>{{officer.responsibility}}</h6>
+    {% endunless %}
+    <p><strong>{{ officer.scaname }}</strong>
+    {% unless officer.mundanename == "" %}
+     ({{ officer.mundanename }})
+    {% endunless %}
+    {% unless officer.pronouns == "" %}
+     <span class="text-muted">{{ officer.pronouns }}</span>
+    {% endunless %}<br>
+    {% unless officer.email == "" %}
+      <strong>Contact:</strong> {{ officer.email }}
+    {% endunless %}
+    </p>
+
+  {% endfor %}
+
+{% else %}
+
+  <span><em>Officer details to come</em></span>
+
+{% endif %}
 
 {% if role.report %}<p><a href="{{ role.report }}">How to report</a></p>{% endif %}
 
 {% if role.desc %}
-<p>
-{{ role.desc }}
-</p>
-{% endif %}
-
-{% else %}
-
-<span><em>Officer details to come</em></span>
-
+  <p>
+  {{ role.desc }}
+  </p>
 {% endif %}
