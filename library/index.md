@@ -24,6 +24,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 
 # Event resources
 
+- [Event Steward's Guide] ({% link https://docs.google.com/document/d/1Aaty3h8BmmiyPoJcZnfah3ZHxTdx5DJ5T7qOYoVxpj4/edit?usp=sharing %} )
 - [Bidding for a Principality event]({% link library/group-resources/bidding-for-events.md %})
 - [Some tips and tricks running an event]({% link library/howtos/running-an-event.md %})
 - What is your perfect event? Survey results [download]({% link library/publications/Perfect-Event.docx %})
