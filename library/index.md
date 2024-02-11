@@ -24,15 +24,13 @@ banner: /images/banner/scribalDeskTretower.jpg
 
 # Event resources
 
-- [Bidding for a Principality event]({% link library/group-resources/bidding-for-events.md %})
-- [Some tips and tricks running an event]({% link library/howtos/running-an-event.md %})
-- What is your perfect event? Survey results [download]({% link library/publications/Perfect-Event.docx %})
-
-- Insulae Draconis event planning timeline [download]({% link library/publications/Event-Planning-Timeline1.pptx %})
-- Event finances guidelines [download]({% link library/publications/Event-Finances1.docx %})
-- Event promotion guide [download]({% link library/publications/Event-Promotion-Guide1.pptx %})
-- Reservations Steward guide [download]({% link library/publications/Reservations-Steward-Guide1.docx %})
-- Venue accessibility questionnaire [download]({% link library/publications/Venue-accessibility.docx %})
+- [Event Steward's Guide] (https://docs.google.com/document/d/1Aaty3h8BmmiyPoJcZnfah3ZHxTdx5DJ5T7qOYoVxpj4/edit?usp=sharing)
+- [What Is Your Perfect Event?] Survey Results: https://docs.google.com/document/d/1A8Qo4doM5AJcL75Kj5IenjtGs9sPYqZgudi8CJ-usYk/edit?usp=sharing)
+- [Event Planning timeline] (https://docs.google.com/presentation/d/12fdvQD5ocwaRb9n7QzQ9LpNfSEr_HYxTFZA8JPgx26Y/edit?usp=sharing)
+- [Event Finance Advice] (https://docs.google.com/document/d/1IeBPz1q4bAGJkP35Ks1i-LukNCXor7_et_plDYzvp2w/edit?usp=sharing)
+- [Event Promotion Guide] (https://docs.google.com/presentation/d/1fzQNuvt1v3fsZYE-5eQ1xpTA9Xi6B48eO5-IyvnWIWc/edit?usp=sharing)
+- [Reservations Guide] (https://docs.google.com/document/d/19LYDY5eczs3XeqAb-KYim2iLo0Ifdhd3FDTaMk1K5wQ/edit?usp=sharing)
+- [Venue Accessibility Questionnaire] (https://docs.google.com/document/d/1wtOlqQNXEvjPH5Q_2txzsj1Q7YRexhKAT1U6HaVkoQ0/edit?usp=sharing)
 
 # Newcomers Guides
 
