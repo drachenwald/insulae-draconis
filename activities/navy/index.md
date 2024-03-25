@@ -30,7 +30,7 @@ Commissions come with a PDF format letter of commission, but a personalised one 
 The Navy Clerk organises and maintains commissions of the Insulae Draconis Navy.
 
 Radulfus de Wiston (Rowan Weston)  
-Email: [rowan.weston@gmail.com](mailto:rowan.weston@gmail.com)  
+Email: [id-navy-clerk@insulaedraconis.org](mailto:rowan.weston@gmail.com)  
 
 ## Current Commissions
 
