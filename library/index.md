@@ -11,6 +11,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Principality Inclusivity Statement](/governance/inclusivity-statement/)
 - [Drachenwald Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf)
 - [Conduct and behaviour resources](https://www.sca.org/conduct-behavior-in-the-sca/) at sca.org
+- [Quarterly Group Seneschal Reporting Form](https://forms.gle/HnwXjUzo4tSdBuDM9)
 - Guild Charters
   - [Fibre Guild Charter](/library/charters/fibre-guild-charter/)
 - [GDPR](/governance/gdpr/)
