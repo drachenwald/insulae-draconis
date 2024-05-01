@@ -11,7 +11,6 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Principality Inclusivity Statement](/governance/inclusivity-statement/)
 - [Drachenwald Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf)
 - [Conduct and behaviour resources](https://www.sca.org/conduct-behavior-in-the-sca/) at sca.org
-- [Quarterly Group Seneschal Reporting Form](https://forms.gle/HnwXjUzo4tSdBuDM9)
 - Guild Charters
   - [Fibre Guild Charter](/library/charters/fibre-guild-charter/)
 - [GDPR](/governance/gdpr/)
@@ -47,6 +46,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 # Publications and forms
 
 - [The Baelfyr Monthly Newsletter]({% link baelfyr/index.md %})
+- [Quarterly Group Seneschal Reporting Form](https://forms.gle/HnwXjUzo4tSdBuDM9)
 - [Change of Officer online form](https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform)
 - Sign in sheets for events: [Word format]({% link library/publications/signinsheet202106.docx %}) and [Excel format]({% link library/publications/signinsheet202106.xlsx %})
 
