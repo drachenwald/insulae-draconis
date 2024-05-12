@@ -185,11 +185,10 @@ prevurl:
         <td><strong>Spring Crown</strong></td>
         <td>Duchess Isabetta, Countess Saxa, Duchess Angharad, Viscount Valda, Mistress Marcella</td>
       </tr>
-      <tr>
-  </tbody>
-</table> <h3>Heralds</h3>
+    </tbody>
+  </table> <h3>Heralds</h3>
   <table class="table table-striped" style="align: left">
-<table width="500" cellspacing="0" cellpadding="2">
+  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
         <td style="width:40%"><strong>Yule Ball</strong></td>
@@ -203,10 +202,10 @@ prevurl:
         <td><strong>Spring Crown</strong></td>
         <td>HL Orlaith</td>
       </tr>
-  </tbody>
-</table>
-<br />
-<br />
+    </tbody>
+  </table>
+  <br />
+  <br />
   <h2>About the Coronets</h2>
 
   <p>The Coronets of Insulae Draconis (Princes, Princesses, or equal titles from other languages) represent the Crown of Drachenwald in the Principality. As such, they should be treated as any other royal couple in the Kingdom. In essence, be courteous and respectful of what they are representing and of the fact that their time often is not their own. Much of each event they attend will be spent officiating, being in meetings, or just listening to people's opinions. Read more about how to <a href="{% link coronet/behaviour-around-royal-couple.md %}">behave around the Coronets</a> including at Court.</p>
