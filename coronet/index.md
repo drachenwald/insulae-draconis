@@ -33,10 +33,10 @@ prevurl:
         <th colspan="2" style="text-align: center"><i><b>Regarding food</b></i></th>
       </tr>
       <tr>
-        <td>
+        <td style="width:50%">
         Her Highness can only tolerate milk in small quantities. Her Highness can no longer tolerate caffeine, but you may see her enjoying a cunningly disguised caffeine free substitute, or occasionally deciding coffee is worth the sides effects. Her Highness enjoys sweets, especially sweet meads, liquors.
         </td>
-        <td>
+        <td style="width:50%">
          His Highness has no food restrictions, but is drawn to savory flavors over sweet.
         </td>
       </tr>
@@ -61,22 +61,22 @@ prevurl:
   <br>
   <h3>Principality Protectors</h3>
   <table class="table table-striped" style="align: left">
-<table width="500" cellspacing="0" cellpadding="2">
+  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <td><strong>Archery Protector</strong></td>
+        <td style="width:40%"><strong>Archery Protector</strong></td>
         <td>Viscount Yannick of Normandy</td>
       </tr>
       <tr>
-        <td><strong>Armoured Combat Protector</strong></td>
+        <td style="width:40%"><strong>Armoured Combat Protector</strong></td>
         <td>Count Avery Westfall</td>
       </tr>
       <tr>
-        <td><strong>Arts & Sciences Protector</strong></td>
+        <td style="width:40%"><strong>Arts & Sciences Protector</strong></td>
         <td>Viscountess Euphrosyne Eirenikina</td>
       </tr>
       <tr>
-        <td><strong>Rapier Protector</strong></td>
+        <td style="width:40%"><strong>Rapier Protector</strong></td>
         <td>Lady Angelica Andegavensis
         </td>
       </tr>
@@ -85,28 +85,28 @@ prevurl:
         <td>Lady Elisabeth Hardyng
         </td>
       </tr>
-  </tbody>
+    </tbody>
   </table>
-    <br>
-    <h3>Household & Retinue</h3>
+  <br>
+  <h3>Household & Retinue</h3>
   <table class="table table-striped" style="align: left">
-<table width="500" cellspacing="0" cellpadding="2">
+  <table width="500" cellspacing="0" cellpadding="2">
    <tbody>
       <tr>
-        <td><strong>West Chamberlain</strong></td>
+        <td style="width:40%"><strong>West Chamberlain</strong></td>
         <td>Lord Micheal of Dun in Mara<br><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
       </tr>
       <tr>
-        <td><strong>East Chamberlain</strong></td>
+        <td style="width:40%"><strong>East Chamberlain</strong></td>
         <td>Lady Rebecca of Flintheath<br><a href="mailto:chamberlain-east@insulaedraconis.org">chamberlain-east@insulaedraconis.org</a></td>
       </tr>
       <tr>
-        <td><strong>Major Domo</strong></td>
+        <td style="width:40%"><strong>Major Domo</strong></td>
         <td>
         Lord Kenneth Elliot</td>
      </tr>
       <tr>
-        <td><strong>Armoured Champion</strong>
+        <td style="width:40%"><strong>Armoured Champion</strong>
         </td>
         <td>
         Viscountess Valda ingen Cháemgein
@@ -153,40 +153,55 @@ prevurl:
         </td>
       </tr>
     </tbody>
-</table>
+  </table>
     <br>
     <h3>Escorts</h3>
-<table class="table table-striped" style="align: left">
-<table width="500" cellspacing="0" cellpadding="2">
+  <table class="table table-striped" style="align: left">
+  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
      <tr>
-        <td><strong>Yule Ball</strong></td>
+        <td style="width:40%"><strong>Yule Ball</strong></td>
         <td>Viscountess Euphrosyne</td>
+      </tr>
+      <tr>  
         <td><strong>Eistddfod III</strong></td>
         <td>Viscountess Euphrosyne</td>
       </tr>
-  </tbody>
-</table>
+    </tbody>
+  </table>
     <h3>Attendants</h3>
   <table class="table table-striped" style="align: left">
-<table width="500" cellspacing="0" cellpadding="2">
+  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <td><strong>Yule Ball</strong></td>
+        <td style="width:40%"><strong>Yule Ball</strong></td>
         <td>Countess Saxa and Duchess Angharad</td>
+      </tr>
+      <tr>
         <td><strong>Eistddfod III</strong></td>
         <td>Viscountess Euphrosyne</td>
       </tr>
+      <tr>
+        <td><strong>Spring Crown</strong></td>
+        <td>Duchess Isabetta, Countess Saxa, Duchess Angharad, Viscount Valda, Mistress Marcella</td>
+      </tr>
+      <tr>
   </tbody>
 </table> <h3>Heralds</h3>
   <table class="table table-striped" style="align: left">
 <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <td><strong>Yule Ball</strong></td>
+        <td style="width:40%"><strong>Yule Ball</strong></td>
         <td>Lady Shirin Peroz-Duxt</td>
+      </tr>
+      <tr>  
         <td><strong>Eistddfod III</strong></td>
         <td>HL Maredudd ap Gwylim</td>
+      </tr>
+      <tr>  
+        <td><strong>Spring Crown</strong></td>
+        <td>HL Orlaith</td>
       </tr>
   </tbody>
 </table>
