@@ -49,7 +49,7 @@ prevurl:
 <div id="mainContent">
 
 
-  <h2>Royal Progress</h2>
+   <h2>Royal Progress</h2>
 
   <p>
   Events their Highnesses are planning to attend are <a href="{% link events/index.html %}">marked with a Crown icon in the Principality Calendar</a>.
@@ -94,11 +94,11 @@ prevurl:
    <tbody>
       <tr>
         <td><strong>West Chamberlain</strong></td>
-        <td>Lord Aodháin Dhá Cheist<br><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
+        <td>Lord Micheal of Dun in Mara<br><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
       </tr>
       <tr>
         <td><strong>East Chamberlain</strong></td>
-        <td>Lord Meliton<br><a href="mailto:chamberlain-east@insulaedraconis.org">chamberlain-east@insulaedraconis.org</a></td>
+        <td>Lady Rebecca of Flintheath<br><a href="mailto:chamberlain-east@insulaedraconis.org">chamberlain-east@insulaedraconis.org</a></td>
       </tr>
       <tr>
         <td><strong>Major Domo</strong></td>
@@ -106,37 +106,30 @@ prevurl:
         Lord Kenneth Elliot</td>
      </tr>
       <tr>
-        <td><strong>Major Domo</strong>
-        </td>
-        <td>
-        Dominic of Flintheath
-        </td>
-     </tr>
-      <tr>
         <td><strong>Armoured Champion</strong>
         </td>
         <td>
-        The Honourable Lord Mícheál Breathnach
+        Viscountess Valda ingen Cháemgein
         </td>
       </tr>
       <tr>
         <td><strong>Rapier Champion</strong>
         </td>
         <td>
-        Lady Bella Donna
+        TBD
         </td>
       </tr>
      <tr>
         <td><strong>Arts & Sciences Champion</strong>
         </td>
         <td>
-        Mistress Elen Benet
+        Lady Meadhbh Rois inghean Uí Chaoimh
         </td>
       </tr><tr>
         <td><strong>Archery Champion</strong>
         </td>
         <td>
-       Lady Alays de Lunel
+       Lady Shannon of Oak of Honor Hill
         </td>
       </tr><tr>
         <td><strong>Equestrian Champion</strong>
@@ -167,52 +160,10 @@ prevurl:
 <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
      <tr>
-        <td><strong>Coronet</strong></td>
-        <td>Nicholas Comet Born</td>
-      </tr>
-    <tr>
-        <td><strong>Eisteddfod</strong></td>
-        <td>Viscount Ranulf Li Norreis</td>
-      </tr>
-      <tr>
-        <td><strong>Eisteddfod</strong></td>
-        <td>Lord Meliton the Artisan</td>
-      </tr>
-       <tr>
-        <td><strong>March Lune-acy</strong></td>
-        <td>Viscountess Valda ingen Chaemgin</td>
-      </tr>
-       <tr>
-        <td><strong>March Lune-acy</strong></td>
-        <td>Lady Hildr Mikjállsdóttir & Lord Auron the White Wolf</td>
-      </tr>
-       <tr>
-        <td><strong>Flaming Arrow</strong></td>
-        <td>The Honourable Lord Mícheál Breathnach</td>
-      </tr><tr>
-        <td><strong>Bourn Again!</strong></td>
-        <td>Lady Bella Donna</td>
-      </tr><tr>
-        <td><strong>Strawberry Raid II</strong></td>
-        <td>Lady Alays de Lunel</td>
-      </tr><tr>
-        <td><strong>Strawberry Raid II</strong></td>
-        <td>The Honourable Lord Mícheál Breathnach</td>
-      </tr><tr>
-        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
-        <td>The Honourable Lord Mícheál Breathnach & Lady Alays de Lunel</td>
-      </tr><tr>
-        <td><strong>Eplaheimr Baronial Investiture</strong></td>
-        <td>The Honourable Lord Mícheál Breathnach</td>
-      </tr><tr>
-        <td><strong>Ormþing</strong></td>
-        <td>Viscount Duncan Forbes & Master Alexander of Derlington</td>
-      </tr><tr>
-        <td><strong>Michaelmas</strong></td>
-        <td>Lord Roland of Follifoote</td>
-      </tr><tr>
-        <td><strong>Coronet</strong></td>
-        <td>The Honourable Lord Mícheál Breathnach & Lady Alays de Lunel</td>
+        <td><strong>Yule Ball</strong></td>
+        <td>Viscountess Euphrosyne</td>
+        <td><strong>Eistddfod III</strong></td>
+        <td>Viscountess Euphrosyne</td>
       </tr>
   </tbody>
 </table>
@@ -221,31 +172,10 @@ prevurl:
 <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <td><strong>Coronet</strong></td>
-        <td>Dominic of Flintheath</td>
-      </tr>
-      <tr>
-        <td><strong>Eisteddfod</strong></td>
-        <td>Viscountess Euphrosyne Eirinikina</td>
-      </tr>
-      <tr>
-        <td><strong>March Lune-acy</strong></td>
-        <td>Amy of Osgoldcross</td>
-      </tr> <tr>
-        <td><strong>Flaming Arrow</strong></td>
-        <td>Lady Shannon of Oak of Honour Hill</td>
-      </tr><tr>
-        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
-        <td>The Honourable Lady Marcella di Cavallino & Lord Meliton</td>
-      </tr><tr>
-        <td><strong>Eplaheimr Baronial Investiture</strong></td>
-        <td>Lord Meliton</td>
-      </tr><tr>
-        <td><strong>Ormþing</strong></td>
-        <td>Phil of Flintheath, Lord Meliton, Captain Kenneth, Dominic of Flintheath & Leif Ranulfsson</td>
-      </tr><tr>
-        <td><strong>Michaelmas</strong></td>
-        <td>Viscountess Euphrosyne Eirenikina, Viscount Yannick of Normandy & Lady Bella Donna</td>
+        <td><strong>Yule Ball</strong></td>
+        <td>Countess Saxa and Duchess Angharad</td>
+        <td><strong>Eistddfod III</strong></td>
+        <td>Viscountess Euphrosyne</td>
       </tr>
   </tbody>
 </table> <h3>Heralds</h3>
@@ -253,40 +183,10 @@ prevurl:
 <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <td><strong>Coronet</strong></td>
+        <td><strong>Yule Ball</strong></td>
         <td>Lady Shirin Peroz-Duxt</td>
-      </tr>
-      <tr>
-        <td><strong>Eisteddfod</strong></td>
-        <td>The Honourable Lord Maredudd ap Gwylim</td>
-      </tr>
-      <tr>
-        <td><strong>March Lune-acy</strong></td>
-        <td>Mistress Arianhwy Wen</td>
-      </tr> <tr>
-        <td><strong>Flaming Arrow</strong></td>
-        <td>Lord Aodháin Dhá Cheist</td>
-      </tr><tr>
-        <td><strong>Bourn Again!</strong></td>
-        <td>Lady Rebecca of Flintheath</td>
-      </tr><tr>
-        <td><strong>Strawberry Raid II</strong></td>
-        <td>Lady Kytte of the Lake</td>
-      </tr><tr>
-        <td><strong>Drachenwald 30 Year Celebration & Coronation</strong></td>
-        <td>Lord Aodháin Dhá Cheist</td>
-      </tr><tr>
-        <td><strong>Eplaheimr Baronial Investiture</strong></td>
-        <td>Lord Aodháin Dhá Cheist</td>
-      </tr><tr>
-        <td><strong>Ormþing</strong></td>
-        <td>Lady Shannon of Oak of Honour Hill & Count Avery Westfall</td>
-      </tr><tr>
-        <td><strong>Michaelmas</strong></td>
-        <td>Viscount Joel Ben Stuart</td>
-      </tr><tr>
-        <td><strong>Coronet</strong></td>
-        <td>Lord Aodháin Dhá Cheist</td>
+        <td><strong>Eistddfod III</strong></td>
+        <td>HL Maredudd ap Gwylim</td>
       </tr>
   </tbody>
 </table>
