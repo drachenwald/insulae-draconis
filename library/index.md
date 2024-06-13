@@ -6,7 +6,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 
 # Governance
 
-- [Principality Law](https://docs.google.com/document/d/1iaeH35pH3OjB3-LFgIRfBCHU0unsNY-cURwzwwJa4-s/edit?usp=sharing))
+- [Principality Law](https://docs.google.com/document/d/1iaeH35pH3OjB3-LFgIRfBCHU0unsNY-cURwzwwJa4-s/edit?usp=sharing)
 - [Principality financial policies](https://docs.google.com/document/d/1OhTXWCqVpGz38tjbRbmbomcxuLpymnMOY-LnzZ4k4kE/edit)
 - [Principality Inclusivity Statement](/governance/inclusivity-statement/)
 - [Drachenwald Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf)
