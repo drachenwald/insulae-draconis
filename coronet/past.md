@@ -106,3 +106,6 @@ Duke Siridean MacLachlan & Mistress Rogned Stengrimova
 
 Coronet XIX, (May 2022 to February 2023)  
 Lord Ranulf li Norries & Lady Euphrosyne Eirenikina
+
+Coronet XX, (February 2023 to November 2023)  
+Master Alexandre Lerot d'Avigné & Viscountess Eularia Trewe
