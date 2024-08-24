@@ -9,7 +9,7 @@ prevurl:
     <tbody>
       <tr>
         <td width="50%" style="text-align: right"><h2>Prince</h2>
-            <strong>Alexander of Derlington</strong><br>
+          <strong>Alexander of Derlington</strong><br>
           <a href="mailto:prince@insulaedraconis.org">prince@insulaedraconis.org</a> <br>
           He/Him
         </td>
@@ -24,24 +24,24 @@ prevurl:
           <img width="400" src="/coronet/images/agnes_alexander_portrait_sm.png" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
         </td>
       </tr>
-    </tbody>
-</table>      
-<br>
- <table width="500" cellspacing="0" cellpadding="2">
-    <tbody>
-      <tr>
-        <th></th>
-        <th>Prince Alexander of Derlington<p></th>
-        <th>Princess/An Flaith Agnes Boncuer<p></th>
-      </tr>
-        <th colspan="3" style="text-align: left"><i><b>About Their Highnesses</b></i></th>
-      </tr>
-      <tr>
-        <td style="width:20%">
-        Interests and Likes:
-        </td>
-        <td style="width:40%">
-         Armoured combat, Armouring, Crafts, Feasts, Period encampments
+    </tbody>  
+  </table>
+<table width="500" cellspacing="0" cellpadding="2">
+  <tbody>
+    <tr>
+      <th style="width:20%"></th>
+      <th style="width:40%">Prince Alexander of Derlington<p></th>
+      <th style="width:40%">Princess/An Flaith Agnes Boncuer<p></th>
+    </tr>
+    <tr>
+      <th colspan="3" style="text-align: left"><i><b>About Their Highnesses</b></i></th>
+    </tr>
+    <tr>
+      <td style="width:20%">
+      Interests and Likes:
+      </td>
+      <td style="width:40%">
+       Armoured combat, Armouring, Crafts, Feasts, Period encampments
         </td>
         <td style="width:40%">
         Armoured fighting, fibre arts, medieval domestic skills, bardic arts, period food and subtleties,  sitting around a fire, camping, animals, chivalric courtesy, SCA philosophy; neurodiversity, inclusion and LGBTQ+ matters
@@ -241,7 +241,8 @@ prevurl:
         <td>Duchess Isabetta, Countess Saxa, Duchess Angharad, Viscount Valda, Mistress Marcella</td>
       </tr>
     </tbody>
-  </table> <h3>Heralds</h3>
+  </table> 
+  <h3>Heralds</h3>
   <table class="table table-striped" style="align: left">
   <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
