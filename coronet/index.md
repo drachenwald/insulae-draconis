@@ -102,7 +102,7 @@ prevurl:
   <h3>Matters of Note</h3>
   <p>His Highness is easy going and would like to talk to you.  Particularly if you have a in interesting project in mind.</p>
   <p>Her Highness can have difficulty making out the words in conversation if there is a lot of environmental background noise.
-<br />
+
 <div id="mainContent">
 
 
@@ -117,7 +117,6 @@ prevurl:
   <h2><a name="court"></a>Royal Court and retinue</h2>
   <br>
   <h3>Principality Protectors</h3>
-  <table class="table table-striped" style="align: left">
   <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
@@ -146,7 +145,6 @@ prevurl:
   </table>
   <br>
   <h3>Household & Retinue</h3>
-  <table class="table table-striped" style="align: left">
   <table width="500" cellspacing="0" cellpadding="2">
    <tbody>
       <tr>
@@ -213,7 +211,6 @@ prevurl:
   </table>
     <br>
     <h3>Escorts</h3>
-  <table class="table table-striped" style="align: left">
   <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
      <tr>
