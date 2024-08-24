@@ -11,12 +11,12 @@ prevurl:
     <tr>
       <th width="50%" style="text-align: right"><h2>Prince</h2>
         <strong>Alexander of Derlington</strong></br>
-        <a href="mailto:prince@insulaedraconis.org">prince@insulaedraconis.org</a></br> 
+        <a href="mailto:prince@insulaedraconis.org">prince@insulaedraconis.org</a><br /> 
         He/Him
       </th>
       <th width="50%" style="text-align: left"><h2>Princess/An Flaith</h2>
         <strong>Agnes Boncuer</strong></br>
-        <a href="mailto:princess@insulaedraconis.org" >princess@insulaedraconis.org</a></br>
+        <a href="mailto:princess@insulaedraconis.org" >princess@insulaedraconis.org</a><br />
         She/Her or They/Them
       </th>
     </tr>
