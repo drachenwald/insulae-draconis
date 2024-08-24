@@ -5,27 +5,29 @@ prevurl:
   - /prince/progress.html
   - /Coronet/index.html
 ---
+
 <table class="table table-striped" style="align: center">
-    <tbody>
-      <tr>
-        <td width="50%" style="text-align: right"><h2>Prince</h2>
-          <strong>Alexander of Derlington</strong><br>
-          <a href="mailto:prince@insulaedraconis.org">prince@insulaedraconis.org</a> <br>
-          He/Him
-        </td>
-        <td width="50%" style="text-align: left"><h2>Princess/An Flaith</h2>
-          <strong>Agnes Boncuer</strong><br>
-          <a href="mailto:princess@insulaedraconis.org" >princess@insulaedraconis.org</a><br>
-          She/Her or They/Them
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" style="text-align: center">
-          <img width="400" src="/coronet/images/agnes_alexander_portrait_sm.png" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
-        </td>
-      </tr>
-    </tbody>  
-  </table>
+  <tbody>
+    <tr>
+      <th width="50%" style="text-align: right"><h2>Prince</h2>
+        <strong>Alexander of Derlington</strong></br>
+        <a href="mailto:prince@insulaedraconis.org">prince@insulaedraconis.org</a></br> 
+        He/Him
+      </th>
+      <th width="50%" style="text-align: left"><h2>Princess/An Flaith</h2>
+        <strong>Agnes Boncuer</strong></br>
+        <a href="mailto:princess@insulaedraconis.org" >princess@insulaedraconis.org</a></br>
+        She/Her or They/Them
+      </th>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center">
+        <img width="400" src="/coronet/images/agnes_alexander_portrait_sm.png" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis">
+      </td>
+    </tr>
+  </tbody>  
+</table>
+
 <table width="500" cellspacing="0" cellpadding="2">
   <tbody>
     <tr>
