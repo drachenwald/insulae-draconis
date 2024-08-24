@@ -10,12 +10,12 @@ prevurl:
   <tbody>
     <tr>
       <th width="50%" style="text-align: right"><h2>Prince</h2>
-        <strong>Alexander of Derlington</strong></br>
+        <strong>Alexander of Derlington</strong><br /> 
         <a href="mailto:prince@insulaedraconis.org">prince@insulaedraconis.org</a><br /> 
         He/Him
       </th>
       <th width="50%" style="text-align: left"><h2>Princess/An Flaith</h2>
-        <strong>Agnes Boncuer</strong></br>
+        <strong>Agnes Boncuer</strong><br />
         <a href="mailto:princess@insulaedraconis.org" >princess@insulaedraconis.org</a><br />
         She/Her or They/Them
       </th>
@@ -97,7 +97,7 @@ prevurl:
         </td>
       </tr>
   </tbody>
-  </table>
+</table>
   
   <h3>Matters of Note</h3>
   <p>His Highness is easy going and would like to talk to you.  Particularly if you have a in interesting project in mind.</p>
@@ -117,35 +117,37 @@ prevurl:
   <h2><a name="court"></a>Royal Court and retinue</h2>
   <br>
   <h3>Principality Protectors</h3>
-  <table width="500" cellspacing="0" cellpadding="2">
-    <tbody>
-      <tr>
-        <td style="width:40%"><strong>Archery Protector</strong></td>
-        <td>Viscount Yannick of Normandy</td>
-      </tr>
-      <tr>
-        <td style="width:40%"><strong>Armoured Combat Protector</strong></td>
-        <td>Count Avery Westfall</td>
-      </tr>
-      <tr>
-        <td style="width:40%"><strong>Arts & Sciences Protector</strong></td>
-        <td>Viscountess Euphrosyne Eirenikina</td>
-      </tr>
-      <tr>
-        <td style="width:40%"><strong>Rapier Protector</strong></td>
-        <td>Lady Angelica Andegavensis
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Equestrian Protector</strong></td>
-        <td>Lady Elisabeth Hardyng
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  
+<table width="500" cellspacing="0" cellpadding="2">
+  <tbody>
+    <tr>
+      <td style="width:40%"><strong>Archery Protector</strong></td>
+      <td>Viscount Yannick of Normandy</td>
+    </tr>
+    <tr>
+      <td style="width:40%"><strong>Armoured Combat Protector</strong></td>
+      <td>Count Avery Westfall</td>
+    </tr>
+    <tr>
+      <td style="width:40%"><strong>Arts & Sciences Protector</strong></td>
+      <td>Viscountess Euphrosyne Eirenikina</td>
+    </tr>
+    <tr>
+      <td style="width:40%"><strong>Rapier Protector</strong></td>
+      <td>Lady Angelica Andegavensis
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Equestrian Protector</strong></td>
+      <td>Lady Elisabeth Hardyng
+      </td>
+    </tr>
+  </tbody>
+</table>
   <br>
   <h3>Household & Retinue</h3>
-  <table width="500" cellspacing="0" cellpadding="2">
+
+<table width="500" cellspacing="0" cellpadding="2">
    <tbody>
       <tr>
         <td style="width:40%"><strong>West Chamberlain</strong></td>
@@ -208,10 +210,12 @@ prevurl:
         </td>
       </tr>
     </tbody>
-  </table>
+</table>
+
     <br>
     <h3>Escorts</h3>
-  <table width="500" cellspacing="0" cellpadding="2">
+
+<table width="500" cellspacing="0" cellpadding="2">
     <tbody>
      <tr>
         <td style="width:40%"><strong>Yule Ball</strong></td>
@@ -222,9 +226,12 @@ prevurl:
         <td>Viscountess Euphrosyne</td>
       </tr>
     </tbody>
-  </table>
+</table>
+
     <h3>Attendants</h3>
-  <table class="table table-striped" style="align: left">
+
+<table class="table table-striped" style="align: left">
+
   <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
@@ -258,7 +265,8 @@ prevurl:
         <td>HL Orlaith</td>
       </tr>
     </tbody>
-  </table>
+</table>
+
   <br />
   <br />
   <h2>About the Coronets</h2>
