@@ -8,43 +8,98 @@ prevurl:
 <table class="table table-striped" style="align: center">
     <tbody>
       <tr>
-        <td width="50%" style="text-align: right">
-          <h2>Princess</h2>
-          <strong>Jahanara Suren</strong><br>
-          <a href="mailto:princess@insulaedraconis.org" >princess@insulaedraconis.org</a>
-        </td>
-        <td width="50%" style="text-align: left"><h2>Prince</h2>
-            <strong>Roland of Follifoote</strong><br>
+        <td width="50%" style="text-align: right"><h2>Prince</h2>
+            <strong>Alexander of Derlington</strong><br>
           <a href="mailto:prince@insulaedraconis.org">prince@insulaedraconis.org</a> <br>
-          </td>
+          He/Him
+        </td>
+        <td width="50%" style="text-align: left"><h2>Princess/An Flaith</h2>
+          <strong>Agnes Boncuer</strong><br>
+          <a href="mailto:princess@insulaedraconis.org" >princess@insulaedraconis.org</a><br>
+          She/Her or They/Them
+        </td>
       </tr>
       <tr>
         <td colspan="2" style="text-align: center">
-          <img width="400" src="/coronet/images/Jahanara_Roland.jpg" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
+          <img width="400" src="/coronet/images/agnes_alexander_portrait_sm.png" class="rounded shadow m-3" alt="Prince and Princess of Insulae Draconis"><br>
         </td>
       </tr>
+    </tbody>
+</table>      
 <br>
  <table width="500" cellspacing="0" cellpadding="2">
     <tbody>
       <tr>
-        <th colspan="2" style="text-align: center"> Their Highnesses seek to enable the joy of every member and guest to our fair Principality by safeguarding a place in which all can thrive, practicing what they love best and providing the opportunity to explore new challenges.</th>
+        <th></th>
+        <th>Prince Alexander of Derlington<p></th>
+        <th>Princess/An Flaith Agnes Boncuer<p></th>
+      </tr>
+        <th colspan="3" style="text-align: left"><i><b>About Their Highnesses</b></i></th>
       </tr>
       <tr>
-        <th colspan="2" style="text-align: center"><i><b>Regarding food</b></i></th>
-      </tr>
-      <tr>
-        <td style="width:50%">
-        Her Highness can only tolerate milk in small quantities. Her Highness can no longer tolerate caffeine, but you may see her enjoying a cunningly disguised caffeine free substitute, or occasionally deciding coffee is worth the sides effects. Her Highness enjoys sweets, especially sweet meads, liquors.
+        <td style="width:20%">
+        Interests and Likes:
         </td>
-        <td style="width:50%">
-         His Highness has no food restrictions, but is drawn to savory flavors over sweet.
+        <td style="width:40%">
+         Armoured combat, Armouring, Crafts, Feasts, Period encampments
+        </td>
+        <td style="width:40%">
+        Armoured fighting, fibre arts, medieval domestic skills, bardic arts, period food and subtleties,  sitting around a fire, camping, animals, chivalric courtesy, SCA philosophy; neurodiversity, inclusion and LGBTQ+ matters
+        </td>
+      </tr>
+      <tr>
+        <td style="width:20%">
+        At events, Their Highnesses enjoy:
+        </td>
+        <td style="width:40%">
+        Armoured combat, heraldic displays and fine garb, and well done period settings or encampments.
+        </td>
+        <td style="width:40%">
+       Gentle pacing of activities and downtime; live music; high level of periodness (keeping modern items out of sight as much as possible); games; candlelight; heraldic displays, opportunities to fight where possible; meeting people from other lands.
+        </td>
+      </tr>
+      <tr>
+        <td style="width:20%">
+        Dislikes:
+        </td>
+        <td style="width:40%">
+        His Highness dislikes lack of kindness or consideration for others in our volunteer society
+        </td>
+        <td style="width:40%">
+        Loud noise (especially high-pitched), whistling, having non-essential mundane items present, rushing between activities, badmouthing other people or groups, microaggressions, poor organisation
+        </td>
+      </tr>
+      <tr>
+        <th colspan="3" style="text-align: left"><i><b>Regarding food</b></i></th>
+      </tr>
+      <tr>
+        <td style="width:20%">
+        Favoured Foods:
+        </td>
+        <td style="width:40%">
+         His Highness likes to try all foods, he is most fond of savoury flavours. Beers and Ciders rather than spirits.
+        </td>
+        <td style="width:40%">
+        Fruit and vegetables; chicken; green sauce; filled pasta; rich stews with meat and fruit; rye and sourdough bread; squeaky cheese; kermaa kermakastikkeessa (cream in cream sauce - a dish served in Aarnimetsa); Greek, Middle Eastern and Asian style dishes; flatbread; coriander leaf, fresh cold water with mint leaves
+        </td>
+      </tr>
+      <tr>
+        <td style="width:20%">
+        Please do Not Feed Their Highnesses: 
+        </td>
+        <td style="width:40%">
+         His Highness will try anything at least once.
+        </td>
+        <td style="width:40%">
+        Mushrooms, olives, blue cheese, large quantities of onions, sweet alcoholic drinks.
         </td>
       </tr>
   </tbody>
   </table>
   
-  <h3>From His Highness</h3>
-  <p>I am especially interested in the natural sciences as understood in period and welcome any discussion, project, display or experiment that explores this topic.</p>
+  <h3>Matters of Note</h3>
+  <p>His Highness is easy going and would like to talk to you.  Particularly if you have a in interesting project in mind.</p>
+  <p>Her Highness can have difficulty making out the words in conversation if there is a lot of environmental background noise.
 <br />
 <div id="mainContent">
 
