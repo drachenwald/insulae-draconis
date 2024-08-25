@@ -111,4 +111,4 @@ Coronet XX, (February 2023 to November 2023)
 Master Alexandre Lerot d'Avigné & Viscountess Eularia Trewe
 
 Coronet XXI, (November 2023 to August 2024)  
-Viscount Roland of Follifoot & Lady Jahanara Suren 
+Viscount Roland of Follifoot & Countess Jahanara Suren 
