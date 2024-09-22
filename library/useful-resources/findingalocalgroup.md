@@ -3,9 +3,17 @@ title: Finding a local group
 subtitle: Find the Barony, Shire or College closest to you
 prevurl: /Library/UsefulResources/findingalocalgroup.html
 ---
+<link rel="preconnect" href="https://dis.drachenwald.sca.org" />
+
 The Chatelaine or Castellan is the officer that is responsible for welcoming newcomers and they are a good place to start if you want to make contact, ask questions or find out more. If there is no chatelaine listed in your most local group [please email the Insulae Draconis Castellan](mailto:chatelaine@insulaedraconis.org).
 
 If you're looking for a group elsewhere in Europe or in South Africa, visit the [Drachenwald Website](https://drachenwald.sca.org/).
+
+<h2><a name="depedene">Cluain Óir</a></h2>
+A canton within the Barony of Eplaheimr, covering the county of Galway.
+
+{% include group-contacts.html groupslug="Insulae Draconis-Cluain Óir" %}
+
 
 <h2><a name="depedene">Depedene under Wychwood</a></h2>
 Depedene under Wychwood is a English Shire covering the area including postcodes NE, DH, SR, DL, TS, CA, LA, FY, PR, BB, L, WN, BL WA, M, CH, CW.
@@ -19,8 +27,7 @@ Dun in Mara is an Irish Shire, covering the counties of Louth, Meath, Dublin, Ki
 
 {% include group-contacts.html groupslug="Insulae Draconis-Dun in Mara" %}
 
-[Visit the Dun in Mara Website](http://duninmara.org/)
-
+[Visit the Dun in Mara Website](https://www.duninmara.org/)
 
 <h2><a name="eplaheimr">Eplaheimr</a></h2>
 Eplaheimr is an Irish Barony, covering the counties of Leitrim, Sligo, Mayo, Roscommon, Longford, Westmeath, Galway, Offaly, Laois, Clare, Tipperary, Limerick, Kerry and Cork in Ireland.
@@ -109,3 +116,6 @@ West Dragoningshire is an English, covering Southern England
 {% include group-contacts.html groupslug="Insulae Draconis-West Dragonshire" %}
 
 [Visit the West Dragonshire Website](http://www.westdragonshire.org/)
+
+
+<script src="https://scripts.drachenwald.sca.org/regnum/regnum-fetch.js"></script>
