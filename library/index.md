@@ -10,7 +10,7 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Principality financial policies](https://docs.google.com/document/d/1OhTXWCqVpGz38tjbRbmbomcxuLpymnMOY-LnzZ4k4kE/edit)
 - [Principality Inclusivity Statement](/governance/inclusivity-statement/)
 - [Complaints Procedure of the Principality of Insulae Draconis](/library/publications/ComplaintsProcedureInsulaeDraconis.pdf)
-[Drachenwald Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf)
+- [Drachenwald Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf)
 - [Conduct and behaviour resources](https://www.sca.org/conduct-behavior-in-the-sca/) at sca.org
 - Guild Charters
   - [Fibre Guild Charter](/library/charters/fibre-guild-charter/)
