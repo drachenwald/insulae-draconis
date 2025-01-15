@@ -45,7 +45,7 @@ Once the official announcements have taken place it is usual to publicise your e
 
 ### Maps, Site Directions & Signage
 
-Do people know how to get to the event venue? It's a really good idea to post the address, a link to a map of the location on your event page, facebook event and group website.  If there's special information that people need to know about getting to your venue (local road access, quirks with parking or useful landmarks to spot o the way you should consider adding this information too. 
+Do people know how to get to the event venue? It's a really good idea to post the address, a link to a map of the location on your event page, facebook event and group website.  If there's special information that people need to know about getting to your venue (local road access, quirks with parking or useful landmarks to spot on the way) you should consider adding this information too. 
 
 ### Event Sign In
 
@@ -59,7 +59,7 @@ You'll also want a method for handling the cash. You will need to account for al
 
 ### Bodies to do things
 
-It is worth considering including a question about voluntering to do tasks at your event in the booking form - we are all volunetters so you will need a vertiable army of people to hand banners, sweep floors, chop veg, give classes, help marshal, lift, carry, fetch and do shop runs.  
+It is worth considering including a question about voluntering to do tasks at your event in the booking form - we are all volunteers so you will need a veritable army of people to hand banners, sweep floors, chop veg, give classes, help marshal, lift, carry, fetch and do shop runs.  
 
 ### Meals & Food Buying
 
@@ -69,7 +69,7 @@ Whatever meals you have, and whatever way you deal with this, someone's going to
 
 ### Rubbish Disposal
 
-Where are the bins? What waste needs to be seperated?  Where does food waste go and how will you dispose of waste cooking oil? Will you need to take bottles off site to a bottle bank or is there a facility available at your event site? 
+Where are the bins? What waste needs to be separated?  Where does food waste go and how will you dispose of waste cooking oil? Will you need to take bottles off site to a bottle bank or is there a facility available at your event site? 
 
 ### Candles and Fires 
 

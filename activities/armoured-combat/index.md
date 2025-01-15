@@ -51,7 +51,7 @@ Authorisation is the test you must pass with a marshal before engaging in combat
 
 
 - Find a practice you can get to regularly
-- As a beginner you don't need to buy all equipment before you start, you will be starting with unarmoured drills and &quot;slow work&quot; for a little while and you can chat with other fighters about your options. You can also enqiure about the availability of loaner equipment at your local practice or at an event.
+- As a beginner you don't need to buy all equipment before you start, you will be starting with unarmoured drills and &quot;slow work&quot; for a little while and you can chat with other fighters about your options. You can also enquire about the availability of loaner equipment at your local practice or at an event.
 - You MUST pay attention to what your marshal tells you, they are there for your safety! 
 
 ### So you've just been made Knight Marshal of your Shire.. what now?

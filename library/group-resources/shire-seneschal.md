@@ -14,9 +14,9 @@ You've got this. Just think, you've been elected, so your local group are alread
 
 ## Tasks of a seneschal
 
-Try to keep your branch focused on having fun. Keep successes in mind and work on problems in as up-beat a way as possible. Knocking disgruntlement on the head early will save everyone a lot of heartache in the long run.  If you get the impression people are nothaving fun that's when you need to start thinking of things to counter the trend.  
+Try to keep your branch focused on having fun. Keep successes in mind and work on problems in as up-beat a way as possible. Knocking disgruntlement on the head early will save everyone a lot of heartache in the long run.  If you get the impression people are not having fun that's when you need to start thinking of things to counter the trend.  
 
-Try and get your shire together, fact to face, from time to time. Just about all the good things in the SCA some from people talking, getting enthused, and making things happen. Is much easier for things to stagnate when shires don’t get together socially and rely on e-mail or Facebook.  Don't allow the only reasons for the your Shire to get together to be just work. It’ll be easier for you as seneschal if your Shire is enthused and active.
+Try and get your shire together, face to face, from time to time. Just about all the good things in the SCA some from people talking, getting enthused, and making things happen. Is much easier for things to stagnate when shires don’t get together socially and rely on e-mail or Facebook.  Don't allow the only reasons for the your Shire to get together to be just work. It’ll be easier for you as seneschal if your Shire is enthused and active.
 
 Try to defuse any conflicts in your shire as they form. From time to time minor disagreements can flair into nasty faction forming. Keep an eye out for it. Few things drive away new members like a feeling of internal scheming and back biting. If a problem can’t be resolved locally feel free to ask the Insulae Draconis Seneschal for a list of potential mediators to sit down with the offended parties. Often an outside person willing to listen and help clear the air can help a lot.
 
@@ -24,7 +24,7 @@ Try to defuse any conflicts in your shire as they form. From time to time minor 
 
 Send in a report once every three months. Ask for extra time or help with any part of it if you want.  Reports need to be submitted to the Principality Seneschal by the 15th of January, April, July and October. 
 
-## Seriously, we mean it about the not panicing
+## Seriously, we mean it about the not panicking
 
 Try to have fun. Often having a deputy to assist in the office can help with this.
 

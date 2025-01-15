@@ -30,9 +30,9 @@ Some general suggestions for our low-key recruiting approach
 
 1. Do what you enjoy, and do it locally
 
-    For me, the heart of the SCA is attending events, and making cool medieval stuff to use at events. If we run events and make stuff, then we are showing newcomers what the sCA is all about.
+    For me, the heart of the SCA is attending events, and making cool medieval stuff to use at events. If we run events and make stuff, then we are showing newcomers what the SCA is all about.
     
-    The key word is local. It's hard to convince a keen newcomer that they should join this amazing cool group, and he come along to their next event, that is, um, in two months time, er, over four hours' drive away. 
+    The key word is local. It's hard to convince a keen newcomer that they should join this amazing cool group, and come along to their next event, that is, um, in two months time, er, over four hours' drive away. 
 
     A complete newcomer needs something local and something soon, to dip their toes in.
 
@@ -118,7 +118,7 @@ Some general suggestions for our low-key recruiting approach
 
     Shopping and going to the museum are not official SCA activities, but they build social bonds - just like watching Star Trek TNG with new friends did with me.
 
-* with apologies to the Hash House Harriers, the 'drinking club with a running problem'.
+    \* with apologies to the Hash House Harriers, the 'drinking club with a running problem'.
 
 From these questions, hopefully you can:
 - figure out what you found attractive in the SCA

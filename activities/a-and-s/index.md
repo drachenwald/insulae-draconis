@@ -16,11 +16,11 @@ Just by way of a flavour of the kind of activities carries out in Insulae Dracon
 
 Cooking is a huge part of life in the SCA and we have a proud tradition of excellent feast cooking in Insulae Draconis.  Our cooks research and recreate medieval dishes from period sources and share their work at events by cooking full, proper feasts for participants to enjoy.
 
-Medieval food is delicious, ignore all those misconceptions that spices were used to disguise bad meat.  You really should try grains of paradise, long pepper or cubebs. Of course for every fine dish you need fine wines and spirits to help it along and  we have many fine brewers and makers of meads, short beers, spiced wines and fantastic period concoctions you need to taste to believe! All the better to coax a song or or while you are entertained at feast by... [Find out more]({% link activities/a-and-s/cooking-and-feasting.md %})
+Medieval food is delicious, ignore all those misconceptions that spices were used to disguise bad meat.  You really should try grains of paradise, long pepper or cubebs. Of course for every fine dish you need fine wines and spirits to help it along and  we have many fine brewers and makers of meads, short beers, spiced wines and fantastic period concoctions you need to taste to believe! All the better to coax a song or two while you are entertained at feast by... [Find out more]({% link activities/a-and-s/cooking-and-feasting.md %})
 
 ### The performing/Bardic arts
 
-We have singers, instrumentalists, dancers, puppeteers, storytellers and poets, all who research what was performed in period and share their knowledge and talent with us all. You haven't lived until you witness a procession of Royals led by musicians on the Onion flute. It's not all period material, our talented bards allow the past inspire new creative works of a medieval style to entertain us while we make merry and eat well. [Find out more]({% link activities/a-and-s/bardic-and-dancing.md %})
+We have singers, instrumentalists, dancers, puppeteers, storytellers and poets, all who research what was performed in period and share their knowledge and talent with us all. You haven't lived until you witness a procession of Royals led by musicians on the Onion flute. It's not all period material, our talented bards allow the past to inspire new creative works of a medieval style to entertain us while we make merry and eat well. [Find out more]({% link activities/a-and-s/bardic-and-dancing.md %})
 
 ### Armouring arts
 

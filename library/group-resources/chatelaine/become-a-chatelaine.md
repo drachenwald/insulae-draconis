@@ -31,6 +31,8 @@ A Chatelaine is basically the meet & greet person; the first point of contact fo
 -	To provide a quarterly report to the Principality chatelaine outlining the recruitment-oriented activities and listing any newcomers over the previous quarter.  A report template is available.
 -	Appoint and supervise any deputies you might need to fulfil the above.
 -	If you have any problems you can’t handle, ask for help.
+
+
 How do you qualify for the job?
 -	You need to be a fully paid-up member of the SCA – in return you are covered by the Society’s liability insurance.
 -	You do not need to be an expert on the SCA, but you will need to feel confident enough in your knowledge to advise newcomers.  Information and material that will help you is provided across several websites including the ID website and the Chatelaine Resources page of the sca.org website.
