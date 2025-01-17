@@ -21,7 +21,7 @@ From small and easily portable tablet weaving for decorative trims and belts to 
 ## How to get started with Fibre arts in Insulae Draconis
 
 - Many like to practise these arts, and if you spot someone doing something interesting at an event, don't be shy about asking about it.  Lucetting and drop spindle spinning often happen even at Court, and are often one of the first hand crafts people take on with.
-- If you have a portable project like embroidery or naalbinding for example, work away at events, chances are you;ll find yourself in a small group of people attracted to sit with you with their own projects.  
+- If you have a portable project like embroidery or naalbinding for example, work away at events, chances are you'll find yourself in a small group of people attracted to sit with you with their own projects.  
 - Ask on mailing or Facebook lists, remember if you are interested in something you can bet someone else is too, and would love to find you.
 - Contact the Minister of Arts and Sciences to get some introductions.
 

@@ -9,7 +9,7 @@ Maybe a few people have started to consider making a more local group?  Great! T
 
 ## Some stuff to be aware of before you begin
 
-The process is *not* fast 
+The process is *not* fast. 
 You need to ask yourself about your motivations - if the local branch is actually quite close but you have a particular set of friends you like to play with in that group maybe a less formal "household" arrangement is what you need? A formal SCA group is geographically-based; it has to include everyone who lives within its borders.  
 
 People tend to get territorial about their Shires, tred carefully when you're starting to express a desire to break from existing groups.
@@ -36,4 +36,4 @@ Plan an event if you can, you'll need to be sponsered by another group. They dea
 
 ## The Incipient Shire
 
-Somewhere in this waiting period the Seneschal will tell you that you are an "Incipient Shire", a Shire in the process of forming.  You now need to demonstrate that you can keep your members and officers and are developing the expertise to take on the reposibities of a Shire.    
+Somewhere in this waiting period the Seneschal will tell you that you are an "Incipient Shire", a Shire in the process of forming.  You now need to demonstrate that you can keep your members and officers and are developing the expertise to take on the reponsibities of a Shire.    

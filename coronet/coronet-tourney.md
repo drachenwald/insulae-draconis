@@ -7,9 +7,9 @@ banner: /images/banner/royalty-coronet.jpg
 ---
 # Ascending the Principality thrones
 
-<p>An armoured combat Coronet Tournament (often shortened to 'tourney') is fought every nine months to determine who will be the next pair to wear the Coronets of Insulae Draconis. Any authorised armoured fighter who is a fully paid member of the SCA and who has the support of a consort (also a fully paid up member) can fight. The tournament will be officially announced and fighter must give formal notification of their intention to enter with a  <a href="{% link coronet/coronet-tourney.md %}#submit-a-letter-of-intent">Letter of Intent</a>.</p> 
+<p>An armoured combat Coronet Tournament (often shortened to 'tourney') is fought every nine months to determine who will be the next pair to wear the Coronets of Insulae Draconis. Any authorised armoured fighter who is a fully paid member of the SCA and who has the support of a consort (also a fully paid up member) can fight. The tournament will be officially announced and fighters must give formal notification of their intention to enter with a  <a href="{% link coronet/coronet-tourney.md %}#submit-a-letter-of-intent">Letter of Intent</a>.</p> 
 
-[Learn more about what is needed to host a Cornet tournament](https://insulaedraconis.org/library/group-resources/bidding-for-events/), and [contact the Principality Seneschal](seneschal@insulaedraconis.org) for more information about submitting an event proposal.
+[Learn more about what is needed to host a Coronet tournament](https://insulaedraconis.org/library/group-resources/bidding-for-events/), and [contact the Principality Seneschal](seneschal@insulaedraconis.org) for more information about submitting an event proposal.
 
 
 # Be a contender
@@ -18,7 +18,7 @@ The thrones of Insulae Draconis must be won by right of arms, and the tourney is
 
 ## Be inspired by a consort
 
-Every fighter needs inspiration, someone who motivates the to seek the throne in their honour. When you enter Coronet you are doing so as a partnership willing to take on the responsibility of the Thrones of Insulae Draconis in the event of the fighter winning the tourney. The rules below apply to both the fighter and their inspiration.  
+Every fighter needs inspiration, someone who motivates them to seek the throne in their honour. When you enter Coronet you are doing so as a partnership willing to take on the responsibility of the Thrones of Insulae Draconis in the event of the fighter winning the tourney. The rules below apply to both the fighter and their inspiration.  
 
 ## Submit a Letter of intent
 

@@ -23,7 +23,7 @@ The SCA – in order to be as true to times as possible – encourage the use of
 
 <img src="/images/archery/fieldshoot2.jpg" width="300" class="rounded shadow float-md-end m-2" alt="Field shoot" />
 
-These are shoots where we try to mimic situations faced by medieval archers: Shooting around the trunk of a tree, in wooded landscapes, using 3-D models or firing through castle windows and arrow slots at targets below. The happen less commonly than target archery but are hugely enjoyable. You can test your skills at things like a William Tell shoot: could you shoot an apple off someone's head? (where that someone not a real live breathing person, of course!) Loaner equipment is usually available, but do check in advance with a practice marshal and, if you are attending an event, make sure you've let someone on the event team know you need loaner equipment well when you book!
+These are shoots where we try to mimic situations faced by medieval archers: Shooting around the trunk of a tree, in wooded landscapes, using 3-D models or firing through castle windows and arrow slots at targets below. The happen less commonly than target archery but are hugely enjoyable. You can test your skills at things like a William Tell shoot: could you shoot an apple off someone's head? (where that someone is not a real live breathing person, of course!) Loaner equipment is usually available, but do check in advance with a practice marshal and, if you are attending an event, make sure you've let someone on the event team know you need loaner equipment well when you book!
 
 ### Thrown Weapons
 

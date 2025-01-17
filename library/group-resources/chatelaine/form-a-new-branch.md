@@ -6,7 +6,7 @@ title: Forming a new branch
 
 Any five or more members of the SCA or an affiliated society can look to form a new branch as long as they are in the same area as each other and that that area is not in a central part of another branch.
 
-The first thing and group wanting to form a new branch should do is contact the Insulae Draconis Chatelaine and the seneschal of their closest branch.
+The first thing a group wanting to form a new branch should do is contact the Insulae Draconis Chatelaine and the seneschal of their closest branch.
 
 These two officers should be able to assist in forming the new branch.
 

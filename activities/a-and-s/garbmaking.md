@@ -30,7 +30,7 @@ Make (or buy) a pouch that you loop in  your belt. Drawstring bags are a great f
 
 ### It's all about layers
 
-For ladies think chemises (long plain but light material underdress) under heavier dresses, for men a light tunic under a heavier outer tunic, then cloaks or surcoats over those as appropriate.  undertunics reduce the need to wash the outer garment quite so much, which you will definitely need to consider if you use hard to wash materials or patterns, have boning or a lot of embroidery.  Sleeves were often detachable and interchangeable and hats that could umroll into hoods could also be found. 
+For ladies think chemises (long plain but light material underdress) under heavier dresses, for men a light tunic under a heavier outer tunic, then cloaks or surcoats over those as appropriate.  Undertunics reduce the need to wash the outer garment quite so much, which you will definitely need to consider if you use hard to wash materials or patterns, have boning or a lot of embroidery.  Sleeves were often detachable and interchangeable and hats that could unroll into hoods could also be found. 
 
 ### Natural Fibers
 

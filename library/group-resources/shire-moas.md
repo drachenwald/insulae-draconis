@@ -37,7 +37,7 @@ Competitions are perhaps the hardest part of this job. At local events you may d
 You may also want to refer to the Drachenwald website for more information on running an A&S competition or display.  Encourage your artisans to enter competitions and tell them about the Protectors Competition at Raglan or the Kingdom Artisan competition.  
 
 
-##  Seriously, we mean it about the not panicing. 
+##  Seriously, we mean it about the not panicking. 
 
 Try to have fun. Often having a deputy to assist in the office can help with this.
 

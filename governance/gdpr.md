@@ -12,7 +12,7 @@ For organisations, having a GDPR policy in place will also be helpful to show th
 
 #### Security of Data
 
-The security of data storage one is fairly straight forward. By placing data on 3rd party applications like google-docs that require a login and password, you eliminate the risk of data being on your own pc or laptop, so data security easier (as long as passwords held securely etc.
+The security of data storage one is fairly straight forward. By placing data on 3rd party applications like google-docs that require a login and password, you eliminate the risk of data being on your own pc or laptop, so data security is easier (as long as passwords held securely etc).
 
 #### Approval to hold data
 
