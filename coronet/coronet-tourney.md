@@ -16,7 +16,7 @@ May 2028<br>
 February 2029<br>
 November 2029<br>
 
-<p>Learn about what is needed to [host a Coronet tournament](https://insulaedraconis.org/library/group-resources/bidding-for-events/), and [contact the Principality Seneschal](seneschal@insulaedraconis.org) for more information about submitting an event proposal.</p>
+<p>Learn about what is needed to <a href="https://insulaedraconis.org/library/group-resources/bidding-for-events/">host a Coronet tournament</a>, and contact the Principality Seneschal (seneschal@insulaedraconis.org) for more information about submitting an event proposal.</p>
 
 # Ascending the Principality thrones
 
