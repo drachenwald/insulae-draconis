@@ -5,11 +5,22 @@ title: Coronet Tournament
 subtitle: The Tournament that decides our next Prince and Princess
 banner: /images/banner/royalty-coronet.jpg
 ---
+
+# Upcoming Coronet dates
+
+<p>Please consider submitting a proposal to host our Coronet Tournament event.</p>
+
+November 2026<br>
+August 2027<br>
+May 2028<br>
+February 2029<br>
+November 2029<br>
+
+<p>Learn about what is needed to host a Coronet tournament](https://insulaedraconis.org/library/group-resources/bidding-for-events/), and [contact the Principality Seneschal](seneschal@insulaedraconis.org) for more information about submitting an event proposal.</p>
+
 # Ascending the Principality thrones
 
-<p>An armoured combat Coronet Tournament (often shortened to 'tourney') is fought every nine months to determine who will be the next pair to wear the Coronets of Insulae Draconis. Any authorised armoured fighter who is a fully paid member of the SCA and who has the support of a consort (also a fully paid up member) can fight. The tournament will be officially announced and fighters must give formal notification of their intention to enter with a  <a href="{% link coronet/coronet-tourney.md %}#submit-a-letter-of-intent">Letter of Intent</a>.</p> 
-
-[Learn more about what is needed to host a Coronet tournament](https://insulaedraconis.org/library/group-resources/bidding-for-events/), and [contact the Principality Seneschal](seneschal@insulaedraconis.org) for more information about submitting an event proposal.
+<p>Our Coronet Tournament (often shortened to 'tourney') is held every nine months to determine who will be the next pair to wear the Coronets of Insulae Draconis. Currently, any authorised armoured fighter who is a fully paid member of the SCA and who has the support of a consort (also a fully paid up member) can fight. The tournament will be officially announced and fighters must give formal notification of their intention to enter with a  <a href="{% link coronet/coronet-tourney.md %}#submit-a-letter-of-intent">Letter of Intent</a>.</p> 
 
 
 # Be a contender
