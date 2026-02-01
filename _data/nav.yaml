@@ -8,6 +8,8 @@ top:
       url: https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform
     - page: Award recommendations
       url: https://op.drachenwald.sca.org/recommend
+    - page: Get your membership
+      url: https://membermojo.co.uk/scauk
       
 - title: Calendar
   url: /events/
