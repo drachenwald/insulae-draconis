@@ -16,6 +16,34 @@ titles:
     badge: "/images/rapier_protector.gif"
 
 winners:
+- tournament: Protectors XVIX
+    year: 2025
+    protectors:
+      - field: archery
+        name: Mistress Ari Mala
+      - field: heavy
+        name: Viscount Alexender of Derlington
+      - field: rapier
+        name: Duke Vitus
+      - field: aands
+        name: Lady Hannah Zamoyska Lancaster
+      - field: equestrian
+        name: Lady Elisabeth Hardyng
+
+- tournament: Protectors XVIII
+    year: 2024
+    protectors:
+      - field: archery
+        name: Kit of Flintheath
+      - field: heavy
+        name: Duke Vitus
+      - field: rapier
+        name: Mistress Gwenneth Bowynne
+      - field: aands
+        name: Master Richard of Salesberie
+      - field: equestrian
+        name: Lady Elisabeth Hardyng
+
   - tournament: Protectors XVII
     year: 2023
     protectors:
