@@ -16,7 +16,7 @@ titles:
     badge: "/images/rapier_protector.gif"
 
 winners:
-- tournament: Protectors XVIX
+  - tournament: Protectors XVIX
     year: 2025
     protectors:
       - field: archery
@@ -30,7 +30,7 @@ winners:
       - field: equestrian
         name: Lady Elisabeth Hardyng
 
-- tournament: Protectors XVIII
+  - tournament: Protectors XVIII
     year: 2024
     protectors:
       - field: archery
