@@ -1,14 +1,14 @@
 ---
 title: Ormþing
-subtitle: A full week of fun
+subtitle: More than just camping at a castle!
 banner: /images/banner/night-camp.jpg
 ---
 
 <h3>This year's event</h3>
 
-<p>August 11-20 2023</p>
+<p>August 5–9 2026</p>
 
-<a href="https://sites.google.com/insulaedraconis.org/id-summer-event-2023?pli=1">Find out more on the event website.</a>
+<a href="https://sites.google.com/drachenwald.sca.org/ormthing/home">Find out more on the event website.</a>
 <br>
 <br>
 <h2>Ormþing needs you!</h2>
