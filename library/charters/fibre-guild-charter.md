@@ -3,6 +3,7 @@ title: Fibre Guild Charter
 ---
 ## Contact the Guild
 Guild Head: <fibre_guild@insulaedraconis.org>
+
 Guild Deputy: <fibre_guild_deputy@insulaedraconis.org>
 
 ## Goals and Objectives
