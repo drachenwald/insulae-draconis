@@ -6,6 +6,9 @@ subtitle: For castle guards and blackguards all over the principality
 banner: /images/banner/archery.jpg
 ---
 
+<a href="https://sites.google.com/drachenwald.sca.org/idarchery/home">Learn more about archery in Insulae Draconis</a><br />
+
+
 ### Bows, crossbows, throwing knvives or axes, we have them all...
 
 Archery was one of the most important skills throughout the Medieval period, whether  for day to day hunting or as an important strategic element in warfare.  Today we take part for fun and to improve our skill, holding practices and tournaments in field and target, as well as thrown weapons.
