@@ -2,6 +2,8 @@ top:
 
 - title: Quick links
   submenu:
+    - page: ID Event Report form
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdlQrSxTdNrttxvFU2RBJ6luDQRbL7IRcUbausWtgEvpm7yBA/viewform    
     - page: ID Book of Ceremonies
       url: https://insulaedraconis.gitlab.io/ceremonies/
     - page: Officer change form
