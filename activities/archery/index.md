@@ -6,7 +6,7 @@ subtitle: For castle guards and blackguards all over the principality
 banner: /images/banner/archery.jpg
 ---
 
-<a href="https://sites.google.com/drachenwald.sca.org/idarchery/home">Learn more about archery in Insulae Draconis</a><br />
+<a href="https://sites.google.com/drachenwald.sca.org/idarchery/home">View and submit archery scores, and learn more about archery in Insulae Draconis</a><br />
 
 
 ### Bows, crossbows, throwing knvives or axes, we have them all...
