@@ -3,7 +3,7 @@ sidebar: sidebar-aands
 prevurl: /Activities/AandS/bardicanddancing.html
 title: Performing Arts in Insulae Draconis
 ---
-You will hear people refer to the performing arts as "bardic arts" or simply "bardic." They include everything from music and dancing to juggling and acrobatics to poetry and theatre. They are a key part of many events, and we encourage everyone to participate, regardless of skill level!
+You will hear people refer to the performing arts as "bardic arts" or simply "bardic." They include everything from music and dancing to juggling and acrobatics to poetry and theatre. They are a key part of many events, and we encourage everyone to participate!
 
 ## Music, theatre and spoken word performances
 From choral performances at formal occasions to songs around the campfire after a feast, music is woven through everything we do. Instrumentalists, singers, poets, storytellers, and actors all bring our events to life — whether that's dancers in a great hall, plays under the open sky, or magicians and jugglers entertaining the crowd. If it was performed in the Middle Ages, you'll likely find it at one of our events.
