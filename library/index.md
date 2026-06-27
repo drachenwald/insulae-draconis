@@ -12,8 +12,9 @@ banner: /images/banner/scribalDeskTretower.jpg
 - [Complaints Procedure of the Principality of Insulae Draconis](/library/publications/ComplaintsProcedureInsulaeDraconis.pdf)
 - [Drachenwald Code of Conduct](https://drachenwald.sca.org/offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf)
 - [Conduct and behaviour resources](https://www.sca.org/conduct-behavior-in-the-sca/) at sca.org
-- Guild Charters
+- Guilds
   - [Fibre Guild Charter](/library/charters/fibre-guild-charter/)
+  - [Company of Larks](https://sites.google.com/insulaedraconis.org/company-of-larks/home)
 - [GDPR](/governance/gdpr/)
 - [General GDPR advice and key changes](/governance/gdpr-advice/)
 - [About the UK CIC Board and officers](https://www.aspiringluddite.com/sca/CICsum.shtml)
