@@ -4,11 +4,11 @@ subtitle: More than just camping at a castle!
 banner: /images/banner/night-camp.jpg
 ---
 
-<h3>This year's event</h3>
+<h3>See you next year!</h3>
 
-<p>August 5–9 2026</p>
+<p>August 2027</p>
 
-<a href="https://sites.google.com/drachenwald.sca.org/ormthing/home">Find out more on the event website.</a>
+<a href="https://sites.google.com/drachenwald.sca.org/ormthing/home">Check out 2026 event information.</a>
 <br>
 <br>
 <h2>Ormþing needs you!</h2>
