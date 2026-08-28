@@ -16,7 +16,7 @@ titles:
     badge: "/images/rapier_protector.gif"
 
 winners:
-- tournament: Protectors XVX
+  - tournament: Protectors XVX
     year: 2026
     protectors:
       - field: archery
