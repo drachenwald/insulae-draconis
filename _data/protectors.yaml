@@ -16,6 +16,20 @@ titles:
     badge: "/images/rapier_protector.gif"
 
 winners:
+- tournament: Protectors XVX
+    year: 2026
+    protectors:
+      - field: archery
+        name: Viscount Yannick of Normandy
+      - field: heavy
+        name: Duke Vitus Polonius
+      - field: rapier
+        name: Viscount Alexandre Lerot d'Avignon
+      - field: aands
+        name: Lord Martin of Southron Guard
+      - field: equestrian
+        name: Competition not held
+        
   - tournament: Protectors XVIX
     year: 2025
     protectors:
