@@ -5,15 +5,11 @@ prevurl: /Library/UsefulResources/findingalocalgroup.html
 ---
 <link rel="preconnect" href="https://dis.drachenwald.sca.org" />
 
-The Chatelaine or Castellan is the officer that is responsible for welcoming newcomers and they are a good place to start if you want to make contact, ask questions or find out more. If there is no chatelaine listed in your most local group [please email the Insulae Draconis Castellan](mailto:chatelaine@insulaedraconis.org).
+The Chatelaine or Castellan is the officer that is responsible for welcoming newcomers and they are a good place to start if you want to make contact, ask questions or find out more. If there is no chatelaine listed in your most local group [please email the Insulae Draconis Chatelaine](mailto:chatelaine@insulaedraconis.org).
 
 If you're looking for a group elsewhere in Europe or in South Africa, visit the [Drachenwald Website](https://drachenwald.sca.org/).
 
-<h2><a name="depedene">Cluain Óir</a></h2>
-A canton within the Barony of Eplaheimr, covering the county of Galway.
-
-{% include group-contacts.html groupslug="Insulae Draconis-Cluain Óir" %}
-
+<h1><a name="England”>England</a></h1>
 
 <h2><a name="depedene">Depedene under Wychwood</a></h2>
 Depedene under Wychwood is a English Shire covering the area including postcodes NE, DH, SR, DL, TS, CA, LA, FY, PR, BB, L, WN, BL WA, M, CH, CW.
@@ -21,6 +17,42 @@ Depedene under Wychwood is a English Shire covering the area including postcodes
 {% include group-contacts.html groupslug="Insulae Draconis-Depedene under Wychwood" %}
 
 [Visit the Depedene Website](https://www.depedene.org/)
+
+<h2><a name="flintheath">Flintheath</a></h2>
+Flintheath is an English Shire covering Shire, covering East Anglia, England
+
+{% include group-contacts.html groupslug="Insulae Draconis-Flintheath" %} 
+
+[Visit the Flintheath Website](https://flintheath.org.uk)
+
+<h2><a name="pontalarch">Pont Alarch</a></h2>
+Pont Alarch is an English Shire covering Yorkshire and Lincolnshire - Northern England postcodes not covered by Depedene under Wychwood
+
+{% include group-contacts.html groupslug="Insulae Draconis-Pontalarch" %}
+[Visit the Pont Alarch Website](http://pontalarch.insulaedraconis.org/)
+
+<h3><a name="okynfirth">Okynfirth</a></h3> 
+Okynfirth is a hamlet within the Shire of Pont Alarch covering the English Midlands
+
+{% include group-contacts.html groupslug="Insulae Draconis-Okynfirth" %}
+
+[Visit the Hamlet's Facebook page](https://www.facebook.com/groups/okynfirth/)
+
+<h2><a name="thamesreach">Thamesreach</a></h2>
+Thamesreach is an English Shire, covering Greater London, England
+
+{% include group-contacts.html groupslug="Insulae Draconis-Thamesreach" %}
+
+[Visit the Thamesreach Website](http://www.thamesreach.org/)
+
+<h2><a name="westdragon">West Dragonshire</a></h2>
+West Dragoningshire is an English, covering Southern England
+
+{% include group-contacts.html groupslug="Insulae Draconis-West Dragonshire" %}
+
+[Visit the West Dragonshire Facebook group](https://www.facebook.com/WestDragonshire/)
+
+<h1><a name=“Ireland”></a></h1>
 
 <h2><a name="duninmara">Dun in Mara</a></h2>
 Dun in Mara is an Irish Shire, covering the counties of Louth, Meath, Dublin, Kildare, Wicklow, Carlow, Kilkenny, Wexford and Waterford in Ireland.
@@ -36,15 +68,15 @@ Eplaheimr is an Irish Barony, covering the counties of Leitrim, Sligo, Mayo, Ros
 
 [Visit the Eplaheimr Website](http://www.eplaheimr.org)
 
+<h3><a name="cluain">Cluain Óir</a></h3>
+A canton within the Barony of Eplaheimr, covering the county of Galway.
 
-<h2><a name="flintheath">Flintheath</a></h2>
-Flintheath is an English Shire covering Shire, covering East Anglia, England
+{% include group-contacts.html groupslug="Insulae Draconis-Cluain Óir" %}
 
-{% include group-contacts.html groupslug="Insulae Draconis-Flintheath" %}
- 
+<h3><a name="kingeslake">Kingeslake</a></h3>
+Kingeslake is an Irish College, based in Athlone Institute of Technology in the Barony of Eplaheimr
 
-[Visit the Flintheath Website](https://flintheathweb.wixsite.com/flintheath)
-
+{% include group-contacts.html groupslug="Insulae Draconis-Kingeslake" %}
 
 <h2><a name="glenrathlin">Glen Rathlin</a></h2>
 Glen Rathlin is an Irish Shire, covering Northern Ireland and the counties of Monaghan, Cavan and Donegal  
@@ -53,6 +85,16 @@ Glen Rathlin is an Irish Shire, covering Northern Ireland and the counties of Mo
 
 [Visit the Glen Rathlin Website](http://www.glenrathlin.org/)
 
+<h1><a name=Iceland>Iceland</a></h1>
+
+<h2><a name="klakavirki">Klakavirki</a></h2>
+Klakavirki is the Icelandic Shire. Currently dormant.
+
+[Visit the Klakavirki Facebook group](https://www.facebook.com/klakavirki/)
+
+{% include group-contacts.html groupslug="Insulae Draconis-Klakavirki" %}
+
+<h1><a name=Scotland>Scotland</a></h1>
 
 <h2><a name="harpelstane">Harpelstane</a></h2>
 Harpelstane is the Scottish Shire.
@@ -61,23 +103,7 @@ Harpelstane is the Scottish Shire.
 
 [Visit the Harpelstane Website](http://www.harpelstane.org/)
 
-
-<h2><a name="hartsholt">Hart's Holt</a></h2>
-Hart's Holt is a hamlet within the Shire of Thamesreach covering the areas of Hertfordshire and Bedfordshire
-
-{% include group-contacts.html groupslug="Insulae Draconis-Hart's Holt" %}
-
-
-<h2><a name="kingeslake">Kingeslake</a></h2>
-Kingeslake is an Irish College, based in Athlone Institute of Technology in the Barony of Eplaheimr
-
-{% include group-contacts.html groupslug="Insulae Draconis-Kingeslake" %}
-
-<h2><a name="klakavirki">Klakavirki</a></h2>
-Klakavirki is the Icelandic Shire.
-
-{% include group-contacts.html groupslug="Insulae Draconis-Klakavirki" %}
-
+<h1><a name=Wales>Wales</a></h1>
 
 <h2><a name="mynyddgwyn">Mynydd Gwyn</a></h2>
 Mynydd Gwyn is a Shire covering Wales and West England
@@ -85,37 +111,6 @@ Mynydd Gwyn is a Shire covering Wales and West England
 {% include group-contacts.html groupslug="Insulae Draconis-Mynydd Gwyn" %}
 
 [Visit the Mynydd Gwyn Website](http://www.mynydd-gwyn.org.uk/)
-
-
-<h2><a name="okynfirth">Okynfirth</a></h2> 
-Okynfirth is a hamlet within the Shire of Pont Alarch covering the English Midlands
-
-{% include group-contacts.html groupslug="Insulae Draconis-Okynfirth" %}
-
-[Visit the Hamlet's Facebook page](https://www.facebook.com/groups/okynfirth/)
-  
-
-<h2><a name="pontalarch">Pont Alarch</a></h2>
-Pont Alarch is an English Shire covering Yorkshire and Lincolnshire - Northern England postcodes not covered by Depedene under Wychwood
-
-{% include group-contacts.html groupslug="Insulae Draconis-Pontalarch" %}
-[Visit the Pont Alarch Website](http://pontalarch.insulaedraconis.org/)
-
-
-<h2><a name="thamesreach">Thamesreach</a></h2>
-Thamesreach is an English Shire, covering Greater London, England
-
-{% include group-contacts.html groupslug="Insulae Draconis-Thamesreach" %}
-
-[Visit the Thamesreach Website](http://www.thamesreach.org/)
-
-
-<h2><a name="westdragon">West Dragonshire</a></h2>
-West Dragoningshire is an English, covering Southern England
-
-{% include group-contacts.html groupslug="Insulae Draconis-West Dragonshire" %}
-
-[Visit the West Dragonshire Website](http://www.westdragonshire.org/)
 
 
 <script src="https://scripts.drachenwald.sca.org/regnum/regnum-fetch.js"></script>
