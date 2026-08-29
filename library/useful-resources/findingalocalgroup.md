@@ -9,7 +9,7 @@ The Chatelaine or Castellan is the officer that is responsible for welcoming new
 
 If you're looking for a group elsewhere in Europe or in South Africa, visit the [Drachenwald Website](https://drachenwald.sca.org/).
 
-<h1><a name="England”>England</a></h1>
+<h1><a name="england">England</a></h1>
 
 <h2><a name="depedene">Depedene under Wychwood</a></h2>
 Depedene under Wychwood is a English Shire covering the area including postcodes NE, DH, SR, DL, TS, CA, LA, FY, PR, BB, L, WN, BL WA, M, CH, CW.
@@ -52,7 +52,7 @@ West Dragoningshire is an English, covering Southern England
 
 [Visit the West Dragonshire Facebook group](https://www.facebook.com/WestDragonshire/)
 
-<h1><a name=“Ireland”></a></h1>
+<h1><a name="ireland">Ireland</a></h1>
 
 <h2><a name="duninmara">Dun in Mara</a></h2>
 Dun in Mara is an Irish Shire, covering the counties of Louth, Meath, Dublin, Kildare, Wicklow, Carlow, Kilkenny, Wexford and Waterford in Ireland.
@@ -85,7 +85,7 @@ Glen Rathlin is an Irish Shire, covering Northern Ireland and the counties of Mo
 
 [Visit the Glen Rathlin Website](http://www.glenrathlin.org/)
 
-<h1><a name=Iceland>Iceland</a></h1>
+<h1><a name="iceland">Iceland</a></h1>
 
 <h2><a name="klakavirki">Klakavirki</a></h2>
 Klakavirki is the Icelandic Shire. Currently dormant.
@@ -94,7 +94,7 @@ Klakavirki is the Icelandic Shire. Currently dormant.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Klakavirki" %}
 
-<h1><a name=Scotland>Scotland</a></h1>
+<h1><a name="scotland">Scotland</a></h1>
 
 <h2><a name="harpelstane">Harpelstane</a></h2>
 Harpelstane is the Scottish Shire.
@@ -103,7 +103,7 @@ Harpelstane is the Scottish Shire.
 
 [Visit the Harpelstane Website](http://www.harpelstane.org/)
 
-<h1><a name=Wales>Wales</a></h1>
+<h1><a name="wales">Wales</a></h1>
 
 <h2><a name="mynyddgwyn">Mynydd Gwyn</a></h2>
 Mynydd Gwyn is a Shire covering Wales and West England
