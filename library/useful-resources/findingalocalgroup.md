@@ -82,11 +82,6 @@ A canton within the Barony of Eplaheimr, covering the county of Galway.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Cluain Óir" %}
 
-<h3><a name="kingeslake">Kingeslake</a></h3>
-Kingeslake is an Irish College, based in Athlone Institute of Technology in the Barony of Eplaheimr
-
-{% include group-contacts.html groupslug="Insulae Draconis-Kingeslake" %}
-
 <h2><a name="glenrathlin">Glen Rathlin</a></h2>
 Glen Rathlin is an Irish Shire, covering Northern Ireland and the counties of Monaghan, Cavan and Donegal  
 
