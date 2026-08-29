@@ -52,6 +52,15 @@ West Dragoningshire is an English, covering Southern England
 
 [Visit the West Dragonshire Facebook group](https://www.facebook.com/WestDragonshire/)
 
+<h1><a name="iceland">Iceland</a></h1>
+
+<h2><a name="klakavirki">Klakavirki</a></h2>
+Klakavirki is the Icelandic Shire. Currently dormant.
+
+[Visit the Klakavirki Facebook group](https://www.facebook.com/klakavirki/)
+
+{% include group-contacts.html groupslug="Insulae Draconis-Klakavirki" %}
+
 <h1><a name="ireland">Ireland</a></h1>
 
 <h2><a name="duninmara">Dun in Mara</a></h2>
@@ -84,15 +93,6 @@ Glen Rathlin is an Irish Shire, covering Northern Ireland and the counties of Mo
 {% include group-contacts.html groupslug="Insulae Draconis-Glen Rathlin" %}
 
 [Visit the Glen Rathlin Website](http://www.glenrathlin.org/)
-
-<h1><a name="iceland">Iceland</a></h1>
-
-<h2><a name="klakavirki">Klakavirki</a></h2>
-Klakavirki is the Icelandic Shire. Currently dormant.
-
-[Visit the Klakavirki Facebook group](https://www.facebook.com/klakavirki/)
-
-{% include group-contacts.html groupslug="Insulae Draconis-Klakavirki" %}
 
 <h1><a name="scotland">Scotland</a></h1>
 
