@@ -19,7 +19,7 @@ The Shire of Depedene under Wychwood is the group covering the Northwest and Nor
 [Visit the Depedene Website](https://www.depedene.org/)
 
 <h2><a name="flintheath">Shire of Flintheath</a></h2>
-The Shire of Flintheath is covering Cambridgeshire and East Anglia, England.
+The Shire of Flintheath is the group covering Cambridgeshire and East Anglia, England.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Flintheath" %} 
 
