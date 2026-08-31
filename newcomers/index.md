@@ -9,7 +9,7 @@ Insulae Draconis ("Dragon Isles") is the name of an umbrella of groups of people
 
 Insulae Draconis is a Principality - with its own Princes and Princesses - that administratively leads local groups in England, Iceland, Ireland, Scotland and Wales.    
 
-These local groups are called Shires or Colleges. Insulae Draconis, in turn, is one Principality in the Kingdom of Drachenwald which covers most of Europe and South Africa. 
+These local groups are called Baronies, Shires, Colleges and Hamlets. Insulae Draconis, in turn, is one Principality in the Kingdom of Drachenwald which covers most of Europe and South Africa. 
 
 <img src="/images/armoured-combat/fighters.jpg" class="rounded shadow float-md-end m-2" alt="Armoured combatants at Raglan Castle" />
 
