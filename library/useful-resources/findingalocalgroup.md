@@ -11,42 +11,42 @@ If you're looking for a group elsewhere in Europe or in South Africa, visit the 
 
 <h1><a name="england">England</a></h1>
 
-<h2><a name="depedene">Depedene under Wychwood</a></h2>
-Depedene under Wychwood is a English Shire covering the area including postcodes NE, DH, SR, DL, TS, CA, LA, FY, PR, BB, L, WN, BL WA, M, CH, CW.
+<h2><a name="depedene">Shire of Depedene under Wychwood</a></h2>
+The Shire of Depedene under Wychwood is the group covering the Northwest and Northeast of England, including postcodes NE, DH, SR, DL, TS, CA, LA, FY, PR, BB, L, WN, BL WA, M, CH, CW.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Depedene under Wychwood" %}
 
 [Visit the Depedene Website](https://www.depedene.org/)
 
-<h2><a name="flintheath">Flintheath</a></h2>
-Flintheath is an English Shire covering Shire, covering East Anglia, England
+<h2><a name="flintheath">Shire of Flintheath</a></h2>
+The Shire of Flintheath is covering Cambridgeshire and East Anglia, England.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Flintheath" %} 
 
 [Visit the Flintheath Website](https://flintheath.org.uk)
 
-<h2><a name="pontalarch">Pont Alarch</a></h2>
-Pont Alarch is an English Shire covering Yorkshire and Lincolnshire - Northern England postcodes not covered by Depedene under Wychwood
+<h2><a name="pontalarch">Shire of Pont Alarch</a></h2>
+The Shire of Pont Alarch is the group covering Yorkshire and Lincolnshire - Northern England postcodes not covered by Depedene under Wychwood
 
 {% include group-contacts.html groupslug="Insulae Draconis-Pontalarch" %}
 [Visit the Pont Alarch Website](http://pontalarch.insulaedraconis.org/)
 
-<h3><a name="okynfirth">Okynfirth</a></h3> 
-Okynfirth is a hamlet within the Shire of Pont Alarch covering the English Midlands
+<h3><a name="okynfirth">Hamlet of Okynfirth</a></h3> 
+The Hamlet of Okynfirth is a within the Shire of Pont Alarch covering the English Midlands.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Okynfirth" %}
 
 [Visit the Hamlet's Facebook page](https://www.facebook.com/groups/okynfirth/)
 
-<h2><a name="thamesreach">Thamesreach</a></h2>
-Thamesreach is an English Shire, covering Greater London, England
+<h2><a name="thamesreach">Shire of Thamesreach</a></h2>
+The Shire of Thamesreach is the group covering Greater London and Southeast England
 
 {% include group-contacts.html groupslug="Insulae Draconis-Thamesreach" %}
 
 [Visit the Thamesreach Website](http://www.thamesreach.org/)
 
-<h2><a name="westdragon">West Dragonshire</a></h2>
-West Dragoningshire is an English, covering Southern England
+<h2><a name="westdragon">Shire of West Dragonshire</a></h2>
+The Shire of West Dragoningshire is the group covering Southwestern England
 
 {% include group-contacts.html groupslug="Insulae Draconis-West Dragonshire" %}
 
@@ -54,8 +54,8 @@ West Dragoningshire is an English, covering Southern England
 
 <h1><a name="iceland">Iceland</a></h1>
 
-<h2><a name="klakavirki">Klakavirki</a></h2>
-Klakavirki is the Icelandic Shire. Currently dormant.
+<h2><a name="klakavirki">Shire of Klakavirki</a></h2>
+The Shire of Klakavirki is group covering the island of Iceland. Currently dormant.
 
 [Visit the Klakavirki Facebook group](https://www.facebook.com/klakavirki/)
 
@@ -63,27 +63,27 @@ Klakavirki is the Icelandic Shire. Currently dormant.
 
 <h1><a name="ireland">Ireland</a></h1>
 
-<h2><a name="duninmara">Dun in Mara</a></h2>
-Dun in Mara is an Irish Shire, covering the counties of Louth, Meath, Dublin, Kildare, Wicklow, Carlow, Kilkenny, Wexford and Waterford in Ireland.
+<h2><a name="duninmara">Shire of Dun in Mara</a></h2>
+The Shire of Dun in Mara is the group covering the counties of Louth, Meath, Dublin, Kildare, Wicklow, Carlow, Kilkenny, Wexford and Waterford in Ireland.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Dun in Mara" %}
 
 [Visit the Dun in Mara Website](https://www.duninmara.org/)
 
-<h2><a name="eplaheimr">Eplaheimr</a></h2>
-Eplaheimr is an Irish Barony, covering the counties of Leitrim, Sligo, Mayo, Roscommon, Longford, Westmeath, Galway, Offaly, Laois, Clare, Tipperary, Limerick, Kerry and Cork in Ireland.
+<h2><a name="eplaheimr">Barony of Eplaheimr</a></h2>
+The Barony of Eplaheimr is the group covering the counties of Leitrim, Sligo, Mayo, Roscommon, Longford, Westmeath, Galway, Offaly, Laois, Clare, Tipperary, Limerick, Kerry and Cork in Ireland.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Eplaheimr" %}
 
 [Visit the Eplaheimr Website](http://www.eplaheimr.org)
 
-<h3><a name="cluain">Cluain Óir</a></h3>
-A canton within the Barony of Eplaheimr, covering the county of Galway.
+<h3><a name="cluain">Canton of Cluain Óir</a></h3>
+The Canton of Cluain Óir is a group within the Barony of Eplaheimr, covering the county of Galway.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Cluain Óir" %}
 
-<h2><a name="glenrathlin">Glen Rathlin</a></h2>
-Glen Rathlin is an Irish Shire, covering Northern Ireland and the counties of Monaghan, Cavan and Donegal  
+<h2><a name="glenrathlin">Shire of Glen Rathlin</a></h2>
+The Shire of Glen Rathlin is the group covering Northern Ireland and the counties of Monaghan, Cavan and Donegal  
 
 {% include group-contacts.html groupslug="Insulae Draconis-Glen Rathlin" %}
 
@@ -91,8 +91,8 @@ Glen Rathlin is an Irish Shire, covering Northern Ireland and the counties of Mo
 
 <h1><a name="scotland">Scotland</a></h1>
 
-<h2><a name="harpelstane">Harpelstane</a></h2>
-Harpelstane is the Scottish Shire.
+<h2><a name="harpelstane">Shire of Harpelstane</a></h2>
+The Shire of Harpelstane is the group covering the whole of Scotland.
 
 {% include group-contacts.html groupslug="Insulae Draconis-Harpelstane" %}
 
@@ -100,8 +100,8 @@ Harpelstane is the Scottish Shire.
 
 <h1><a name="wales">Wales</a></h1>
 
-<h2><a name="mynyddgwyn">Mynydd Gwyn</a></h2>
-Mynydd Gwyn is a Shire covering Wales and West England
+<h2><a name="mynyddgwyn">Shire of Mynydd Gwyn</a></h2>
+The Shire of Mynydd Gwyn is the group covering Wales and the West of England
 
 {% include group-contacts.html groupslug="Insulae Draconis-Mynydd Gwyn" %}
 
