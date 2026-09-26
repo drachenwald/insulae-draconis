@@ -55,7 +55,7 @@ This is the group covering Southwestern England.
 <h1><a name="iceland">Iceland</a></h1>
 
 <h2><a name="klakavirki">Shire of Klakavirki</a></h2>
-This is the group covering the island of Iceland. They are not currently active, but still welcome new participants.
+This is the group covering the island of Iceland. They are not currently active, but still welcome interest.
 
 [Visit the Klakavirki Facebook group](https://www.facebook.com/klakavirki/)
 
