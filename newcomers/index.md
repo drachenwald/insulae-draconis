@@ -3,26 +3,28 @@ sidebar: sidebar-castellan
 title: The Newcomers Guide to Insulae Draconis
 subtitle: Welcome to these Current Middle Ages!
 ---
-# Who we are
+# Welcome to Insulae Draconis
 
-Insulae Draconis ("Dragon Isles") is the name of an umbrella of groups of people interested in practical history research of the Middle Ages.  We are part of a greater organisation, the Society for Creative Anachronism (SCA), which is a worldwide Society.   
+You don't need any experience, any equipment, or a costume to come along. Bring curiosity, and everyone else will help with the rest. Insulae Draconis is a community across England, Ireland, Scotland, Wales and Iceland who spend their spare time learning and recreating the skills, arts and life of the pre-17th century world, and we'd love to have you. 
 
-Insulae Draconis is a Principality - with its own Princes and Princesses - that administratively leads local groups in England, Iceland, Ireland, Scotland and Wales.    
+<img src="/images/a-and-s/drimnagh_lunch.jpg" class="rounded shadow float-md-end m-2" alt="people in historic dress serving themselves food in a castle" />
 
-These local groups are called Baronies, Shires, Colleges and Hamlets. Insulae Draconis, in turn, is one Principality in the Kingdom of Drachenwald which covers most of Europe and South Africa. 
+# What you can do here
 
-<img src="/images/armoured-combat/fighters.jpg" class="rounded shadow float-md-end m-2" alt="Armoured combatants at Raglan Castle" />
+Whatever draws you in, there's a way to try it. People here take up sword fighting, archery, sewing, cooking, woodworking, calligraphy, music, and dozens of other crafts and skills – often several at once! Some people come for the making and learning, some for the competing, some just for the company and a good feast. There's no single "right" way to take part.
 
-# What we do
-
-The SCA is a practical history society. Our members are interested in all aspects of recreating the arts and skills of pre-17th century life, be it combat skills, astronomy, brewing, dancing, costuming feasting, calligraphy or one of many, many more skills.   
-
-We are family friendly: kids of all ages take part with their parents, and notably some adults join because their kids are keen. We hold practices in armoured combat, rapier combat, and archery. We meet up to work on various arts and crafts, like armouring, metal casting, calligraphy and more.  
-
-We cover many cultures and time periods, and don't restrict our members to any one area: Vikings mingle freely with 16th Venetian ladies, and swap skills and stories. Many of us have a 'persona' - a person from a specific time, place - to research. Some aim for a general "medieval" look and feel, and don't get too worried about the details while others lovingly craft an entire identity with time appropriate clothes, accessories, weapons, household goods and skill sets.  
+[See everything you could try]({% link activities.md %})
  
-<img src="/images/rapier/foils.jpg" class="rounded shadow float-md-end m-2" alt="A selection of swords for fencing" />
+<img src="images/a-and-s/bannersflying.jpg" class="rounded shadow float-md-end m-2" alt="Silk banners flying over a castle" />
 
-Events are held all over the Principality. Some are local to you, some might be in another Shire, or even across the sea. These events are a great way to meet people interested in the same things you are, and you can experience tournaments, royal courts, feasts, and medieval entertainments.  
+# Find people near you
 
-Events usually run over the course of a day (called revels) or a weekend (most common). We even have a 10-day camping event in the Summer. Chances are you will start off by being in closest contact with your local group (Shire or College), local groups are where you should be able to get to practices, meet-ups and locally run events. [Check the events page for more details]({% link events/index.html %})
+The best way to start is to find your nearest local group and come to a practice or event as a visitor. Most are free or low-cost to attend, and you're welcome to just watch before joining in. Every local group has someone whose job is to help newcomers settle in; don't be afraid to email ahead with questions, however small.
+
+[Find your nearest group]({% link library/useful-resources/findingalocalgroup.md %})
+
+# How we're organised
+
+Insulae Draconis ("The Dragon Isles") is one part of a larger, worldwide community called the Society for Creative Anachronism (SCA). Locally, we're made up of smaller groups called a Shire, Barony, Canton, College or Hamlet, depending on their size and history, and together they form the Principality of Insulae Draconis, led by a Prince and Princess, within the wider Kingdom of Drachenwald, covering most of Europe and South Africa. 
+
+None of that matters for your first visit – it's really just useful to know once you're already having fun and want to understand how everything fits together.
