@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar-castellan
 prevurl: /newcomers/whattoexpect.html
-title: What to expect at your first event!
+title: What to expect at your first event
 ---
 
 Turning up to an event full of historic clothing and activities can feel daunting, but you don't need your own gear to try it out. No one expects museum-grade costumes, or even a clear idea of what you’re interested in yet. Just aim to keep modern clothing to a minimum, and you'll quickly get a feel for what works for you.
@@ -18,7 +18,7 @@ Some events focus on one activity, like archery, fencing, dancing or cooking; th
 
 **Join in.** Want to try archery or combat? Go for it. Spare equipment is often available on the day; if you don't have your own, contact the event's Marshal-in-charge beforehand so they know to bring extra.
 
-# Event booking and what to expect
+# Booking your place
 
 Booking is usually done through an online form, and details vary by event. Some let you pay on arrival, others need payment in advance to secure the site and allow for other pre-event expenses (check the event notice). Your fee usually covers bed, meals, and all activities on offer.
 
