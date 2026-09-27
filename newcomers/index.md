@@ -1,7 +1,10 @@
 ---
 sidebar: sidebar-castellan
 title: The Newcomers Guide to Insulae Draconis
-subtitle: Welcome to these Current Middle Ages!
+subtitle: Learn about our hands-on history
+description: Join the Insulae Draconis community - explore archery, sword fighting, historical crafts, and medieval feasts across UK and Ireland
+meta_description: New to the SCA? No experience or costume needed. Find out what happens at events, what to expect, and how to find a historical group near you.
+keywords: medieval, SCA, historical reenactment, archery, living history UK, living history Ireland
 ---
 # Welcome to Insulae Draconis
 
