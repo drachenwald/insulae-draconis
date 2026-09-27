@@ -13,9 +13,9 @@ You don't need any experience, any equipment, or a costume to come along. Bring 
 
 Whatever draws you in, there's a way to try it. People here take up sword fighting, archery, sewing, cooking, woodworking, calligraphy, music, and dozens of other crafts and skills – often several at once! Some people come for the making and learning, some for the competing, some just for the company and a good feast. There's no single "right" way to take part.
 
-[See everything you could try]({% link activities.md %})
+[See everything you could try]({% link activities/index.html %})
  
-<img src="images/a-and-s/bannersflying.jpg" class="rounded shadow float-md-end m-2" alt="Silk banners flying over a castle" />
+<img src="/images/a-and-s/bannersflying.jpg" class="rounded shadow float-md-end m-2" alt="Silk banners flying over a castle" />
 
 # Find people near you
 
