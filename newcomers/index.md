@@ -7,6 +7,10 @@ subtitle: Welcome to these Current Middle Ages!
 
 You don't need any experience, any equipment, or a costume to come along. Bring curiosity, and everyone else will help with the rest. Insulae Draconis is a community across England, Ireland, Scotland, Wales and Iceland who spend their spare time learning and recreating the skills, arts and life of the pre-17th century world, and we'd love to have you. 
 
+* [What to expect at your first event]({% link newcomers/what-to-expect.md %})
+* [Jargon-buster, or what those weird words mean]({% link newcomers/jargonbuster.md %})
+
+
 <img src="/images/a-and-s/drimnagh_lunch.jpg" class="rounded shadow float-md-end m-2" alt="people in historic dress serving themselves food in a castle" />
 
 # What you can do here
