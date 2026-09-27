@@ -21,13 +21,13 @@ You don't need any experience, any equipment, or a costume to come along. Bring 
 
 Whatever draws you in, there's a way to try it. People here take up sword fighting, archery, sewing, cooking, woodworking, calligraphy, music, and dozens of other crafts and skills – often several at once! Some people come for the making and learning, some for the competing, some just for the company and a good feast. There's no single "right" way to take part.
 
-[See everything you could try]({% link activities/index.html %})
+* [See everything you could try]({% link activities/index.html %})
 
 # Find people near you
 
 The best way to start is to find your nearest local group and come to a practice or event as a visitor. Most are free or low-cost to attend, and you're welcome to just watch before joining in. Every local group has someone whose job is to help newcomers settle in; don't be afraid to email ahead with questions, however small.
 
-[Find your nearest group]({% link library/useful-resources/findingalocalgroup.md %})
+* [Find your nearest group]({% link library/useful-resources/findingalocalgroup.md %})
 
 # How we're organised
 
