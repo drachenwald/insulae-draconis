@@ -14,8 +14,6 @@ You don't need any experience, any equipment, or a costume to come along. Bring 
 Whatever draws you in, there's a way to try it. People here take up sword fighting, archery, sewing, cooking, woodworking, calligraphy, music, and dozens of other crafts and skills – often several at once! Some people come for the making and learning, some for the competing, some just for the company and a good feast. There's no single "right" way to take part.
 
 [See everything you could try]({% link activities/index.html %})
- 
-<img src="/images/a-and-s/bannersflying.jpg" class="rounded shadow float-md-end m-2" alt="Silk banners flying over a castle" />
 
 # Find people near you
 
@@ -28,3 +26,5 @@ The best way to start is to find your nearest local group and come to a practice
 Insulae Draconis ("The Dragon Isles") is one part of a larger, worldwide community called the Society for Creative Anachronism (SCA). Locally, we're made up of smaller groups called a Shire, Barony, Canton, College or Hamlet, depending on their size and history, and together they form the Principality of Insulae Draconis, led by a Prince and Princess, within the wider Kingdom of Drachenwald, covering most of Europe and South Africa. 
 
 None of that matters for your first visit – it's really just useful to know once you're already having fun and want to understand how everything fits together.
+
+<img src="/images/a-and-s/bannersflying.jpg" class="rounded shadow float-md-end m-2" alt="Silk banners flying over a castle" />
