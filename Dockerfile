@@ -1,4 +1,4 @@
-FROM ruby:2.6
+FROM ruby:3.4.4
 VOLUME ["/build"]
 WORKDIR /build
 EXPOSE 4000
