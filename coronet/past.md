@@ -118,3 +118,6 @@ Viscount Alexander of Derlington & Viscountess Agnes Boncuer
 
 Coronet XXIII, (June 2025 to February 2026)  
 Viscount Etienne the Younger & Viscountess Susannah of York
+
+Coronet XXIV, (February 2026 to October 2026)  
+Viscount Mícheál Breathnach & Viscountess Gwerful an Filí
